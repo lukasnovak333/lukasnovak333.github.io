@@ -1,6 +1,8 @@
 .bigSvg {
-	  background-image:url(../Data/Pictures/taupe.jpg);
-	  height:100%;
+	  /* background-image:url(../Data/Pictures/taupe.jpg); */
+    background-color: #cdb39f /* LIGHT TAUPE */
+
+    height:100%;
 	  left:0;
 	  position:absolute;
 	  top:0;
@@ -137,8 +139,8 @@
 }
 
 .sidenav {
-	  background-color:#111;
-	  background-image:url(../Data/Pictures/taupe.jpg);
+    background-color: #cdb39f /* LIGHT TAUPE */
+	  /* background-image:url(../Data/Pictures/taupe.jpg); */
 	  height:100%;
 	  left:-25%;
 	  opacity:.95;
@@ -170,7 +172,7 @@ form {
 }
 
 html,body {
-	  background-color:#b38b6d;
+	  background-color:#cdb39f;
 	  color:#000;
 	  font-family:Arial, sans-serif;
 	  height:100%;
