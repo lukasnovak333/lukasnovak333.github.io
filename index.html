@@ -1,1 +1,67 @@
-Hello World
+<!-- 
+	Filename:    index.html
+	Author:      Lukas Novak
+	Date:        Tue, Aug 22
+	Description: The default-file to be served in the 
+				 visual-sort web-application. The module 
+				 is also self-contained, and can be bundled
+				 for integration into another site. 
+-->
+
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+
+<head>
+<!-- Bootstrap CSS, for basic pre-defined classes -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">"
+<!-- My personal CSS for the entire site. -->
+<link rel="stylesheet" type="text/css" href="Stylesheets/main.css">
+<!-- d3.js, a graphics rendering package, and the meat of HTML.js -->
+<script type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+<!-- jquery, a JS library. Link: https://jquery.com/ --> 
+<script type="text/javascript" src="Packages/jquery-3.2.1.min.js"></script>
+
+<!-- The modules of my program, to be bundled. -->
+<script type="text/javascript" src="JS/arrayUpdate.js"></script>
+<script type="text/javascript" src="JS/Help.js"></script>
+<script type="text/javascript" src="JS/HTML.js"></script>
+<script type="text/javascript" src="JS/Search.js"></script>
+<script type="text/javascript" src="JS/Display.js"></script>
+<script type="text/javascript" src="JS/format.js"></script>
+<script type="text/javascript" src="JS/vdb.js"></script>
+
+</head>
+
+<body>
+    <div class="entryDiv" style="text-align:center" >
+        <center>
+            <b style="font-size:4em"> Visualize your Data! </b>
+            <form style="margin-top:4em" id="uploadForm">
+                <input id="uploadedFile" type="file" name="database"  accept="text/csv">
+                <input type="submit" value="Make me a visual database!">
+            </form>
+        </center>
+    </div>
+
+    <script type="text/javascript">
+     var testvdb;
+     var testdisplay;
+
+     $("#uploadForm").submit( function() {
+         // Get file
+         var file = document.getElementById("uploadedFile").files[0];
+         // Make it
+         vdb.fromFile(file).then(VDB => {
+             testvdb = VDB; 
+             testdisplay = VDB.newDisplay("body");
+             testdisplay.start();
+         });
+         // Prevent page redirect by returning false
+         return false;
+     });
+
+    </script>
+</body>.
+
+</html>
