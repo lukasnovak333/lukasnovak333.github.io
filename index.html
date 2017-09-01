@@ -41,12 +41,25 @@
                 <input id="uploadedFile" type="file" name="database"  accept="text/csv">
                 <input type="submit" value="Make me a visual database!">
             </form>
+            <b> OR... </b>
+            <form style="margin-top:2em" id="sampleform">
+                <input type="submit" value="Try a sample!">
+            </form>
         </center>
     </div>
 
     <script type="text/javascript">
      var testvdb;
      var testdisplay;
+
+     $("#sampleform").submit( function() {
+         vdb.fromURL("Data/princeton.csv").then(VDB => {
+             testvdb = VDB;
+             testdisplay = VDB.newDisplay("body");
+             testdisplay.start();
+         });
+         return false;
+     });
 
      $("#uploadForm").submit( function() {
          // Get file

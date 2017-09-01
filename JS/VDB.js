@@ -41,6 +41,15 @@ var vdb = (function() {
 		    return newVDB;
 	  }
 
+    function fromURL(url) {
+        return new Promise((resolve, reject) => {
+            d3.csv(url, function(data) {
+                var dataObj = format.csv(data);
+                resolve(new VDB(dataObj, vdbID++));
+            }); 
+        });
+    }
+
 	  function VDB(data, id) {
 		    var vdb = this;
 		    this.id = id;
@@ -142,7 +151,8 @@ var vdb = (function() {
     }
 
 	  return {
-		    fromFile : fromFile
+		    fromFile : fromFile,
+        fromURL  : fromURL
 	  };
 
 }());
