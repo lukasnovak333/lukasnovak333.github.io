@@ -1,0 +1,1260 @@
+Searchable,,Searchable,Searchable,Searchable,,,,
+String,Float,String,,String,Float,String,float,String
+name,number,department,LevelLong,PrimaryDept,level,Type,rating,philosophyDept
+Study of African Amer Cultural Practices,21212,AAS ,201,AAS,2,Lecture,1,PhilosophyCore
+Public Policy in the Racial State,21228,AAS AMS ,380 382 ,AAS,3,Seminar,0,Other
+Harlem Ren & Black Arts Movements,21218,AAS ART ,245 245 ,AAS,2,Class,3,PhilosophyCore
+African American Humor,21226,AAS ENG ,212 212 ,AAS,2,Lecture,2,Other
+African American Lit: Origins to 1910,21222,AAS ENG ,353 352 ,AAS,3,Seminar,3,PhilosophyCore
+African American History Since Emancipat,21227,AAS HIS ,367 387 ,AAS,3,Class,2,Other
+Black to the Future,21221,AAS SOC ,301 367 ,AAS,3,Lecture,0,PhilosophyCore
+Housing in the Metropolitan US,21220,AAS SOC ,350 362 ,AAS,3,Seminar,2,Other
+Critical African Studies,22993,AFS ,450,AFS,4,Class,1,PhilosophyCore
+American Noir: Crime Fiction and Film,20633,AMS ,367,AMS,3,Lecture,1,Other
+Environmental and Social Crisis,21039,AMS ENV ,364 365 ,AMS,3,Seminar,3,PhilosophyCore
+Issues in American Public Health,22067,AMS GHP ,306 411 ,AMS,3,Class,1,Other
+Sugar: A Commodity History of the United,22221,AMS HIS ,353 445 ,AMS,3,Lecture,1,PhilosophyCore
+American Legal Thought,21041,AMS HIS ,390 382 ,AMS,3,Seminar,3,Other
+In the Groove:Technology and Music,20628,AMS HIS ,399 399 ,AMS,3,Class,2,PhilosophyCore
+Introduction to Anthropology,22127,ANT ,201,ANT,2,Lecture,4,Other
+Debt,22679,ANT ,225,ANT,2,Seminar,2,PhilosophyCore
+"Social Lives, Social Forces",22104,ANT ,232,ANT,2,Class,0,Other
+"Ethnography, Evidence and Experience",22262,ANT ,300A ,ANT,3,Lecture,1,PhilosophyCore
+"Ethnography, Evidence and Experience",22263,ANT ,300B ,ANT,3,Seminar,4,Other
+History of Anthropological Theory,21982,ANT ,390A ,ANT,3,Class,2,PhilosophyCore
+History of Anthropological Theory,21978,ANT ,390B ,ANT,3,Lecture,0,Other
+"Memory, Trauma, Accountability",21976,ANT ,432,ANT,4,Seminar,1,PhilosophyCore
+The Anthropology of Ruins,22228,ANT ,445,ANT,4,Class,4,Other
+Proseminar in Anthropology,21977,ANT ,501,ANT,5,Lecture,3,PhilosophyCore
+Topics in Social Anthropology: Temporality and Ethnography,21354,ANT ,541,ANT,5,Seminar,4,Other
+"Language, Identity, Power",22229,ANT COM ,326 319 ,ANT,3,Class,0,PhilosophyCore
+"Religion, Ideology, and Media",21975,ANT REL ,208 208 ,ANT,2,Lecture,0,Other
+Forensic Anthropology and Epigenetics,22222,ANT STC ,309A 310A ,ANT,3,Seminar,1,PhilosophyCore
+Forensic Anthropology and Epigenetics,22227,ANT STC ,309B 310B ,ANT,3,Class,4,Other
+Ethnography of Schools and Schooling,21971,ANT TPP ,368 368 ,ANT,3,Lecture,3,PhilosophyCore
+Intro to Geophysical Fluid Dynamics,20829,AOS ,571,AOS,5,Seminar,0,Other
+Current Topics in Dynamic Meteorology: Large-Scale Structure /Atmosphere,20830,AOS APC ,576 576 ,AOS,5,Class,1,PhilosophyCore
+Atmospheric Radiactive Transfer,20828,AOS GEO ,527 527 ,AOS,5,Lecture,1,Other
+Analytical Techniques/Differ'l Equations,21848,APC AST ,503 557 ,APC,5,Seminar,0,PhilosophyCore
+Software Engineering for Scientific Comp,21688,APC MAE AST ,524 506 506 ,APC,5,Class,0,Other
+Elementary Arabic I,20269,ARA ,101,ARA,1,Lecture,2,PhilosophyCore
+Elementary Arabic I,20274,ARA ,101,ARA,1,Seminar,4,Other
+Elementary Arabic I,20270,ARA ,101,ARA,1,Class,2,PhilosophyCore
+Elementary Arabic I,20275,ARA ,101,ARA,1,Lecture,0,Other
+Intermediate Arabic I,20277,ARA ,105,ARA,1,Seminar,2,PhilosophyCore
+Intermediate Arabic I,20278,ARA ,105,ARA,1,Class,0,Other
+Advanced Arabic I,20283,ARA ,301,ARA,3,Lecture,2,PhilosophyCore
+Advanced Arabic I,20284,ARA ,301,ARA,3,Seminar,0,Other
+Media Arabic I,20285,ARA ,303,ARA,3,Class,1,PhilosophyCore
+Egyptian Colloquial Arabic,20268,ARA ,307,ARA,3,Lecture,4,Other
+Topics in Arabic Language and Culture: Reading Arab Authors from the Age of the Arab Renaissance,20286,ARA ,403,ARA,4,Seminar,1,PhilosophyCore
+Introduction to Architectural Thinking,22420,ARC ,203,ARC,2,Class,4,Other
+Building Science & Tech:Building Systems,22430,ARC ,311,ARC,3,Lecture,1,PhilosophyCore
+Computational Design,22418,ARC ,374,ARC,3,Seminar,4,Other
+Theories of Housing & Urbanism,22428,ARC ,401,ARC,4,Class,2,PhilosophyCore
+Topics: History & Theory of Architecture,22429,ARC ,403,ARC,4,Lecture,0,Other
+Advanced Design Studio,22415,ARC ,404,ARC,4,Seminar,0,PhilosophyCore
+Architecture Design Studio,22432,ARC ,501,ARC,5,Class,1,Other
+Integrated Building Studios,22433,ARC ,503,ARC,5,Lecture,3,PhilosophyCore
+Architecture Design Studio,22434,ARC ,505A ,ARC,5,Seminar,4,Other
+Architecture Design Studio,22435,ARC ,505B ,ARC,5,Class,3,PhilosophyCore
+Architecture Design Studio,22436,ARC ,505C ,ARC,5,Lecture,4,Other
+Thesis Studio,22437,ARC ,507,ARC,5,Seminar,4,PhilosophyCore
+Structural Analysis for Architecture,22450,ARC ,510,ARC,5,Class,3,Other
+Environmental Engineering of Buildings,22448,ARC ,514,ARC,5,Lecture,2,PhilosophyCore
+"Climate Change, Adaptation and Urban Des",23123,ARC ,519,ARC,5,Seminar,4,Other
+Elemental Building Function,22451,ARC ,521,ARC,5,Class,1,PhilosophyCore
+M.Arch. Thesis Seminar,22438,ARC ,530,ARC,5,Lecture,2,Other
+Proseminar for Post-Professional M.Arch.,22439,ARC ,531,ARC,5,Seminar,0,PhilosophyCore
+The Philosophy of Urban History,22443,ARC ,545,ARC,5,Class,4,Other
+Introduction to Formal Analysis,22440,ARC ,547,ARC,5,Lecture,3,PhilosophyCore
+"Aesthetics, Tectonics, and Materiality",23155,ARC ,558,ARC,5,Seminar,0,Other
+Intro to the Architecture Profession,22447,ARC ,562,ARC,5,Class,3,PhilosophyCore
+"Pro Seminar: Computation, Energy, Techno",22441,ARC ,573,ARC,5,Lecture,1,Other
+Computing and Imaging in Architecture,22442,ARC ,574,ARC,5,Seminar,4,PhilosophyCore
+"Utopics: Utopias, Dystopias, Technotopia",22446,ARC ,578,ARC,5,Class,1,Other
+Junior Studio,22416,ARC ARC ,350 350 ,ARC,3,Lecture,4,PhilosophyCore
+Junior Studio,22417,ARC ARC ,350 350 ,ARC,3,Seminar,0,Other
+History of Architectural Theory,22425,ARC ART ,308 328 ,ARC,3,Class,4,PhilosophyCore
+Research in Architecture: The Supernormal and the Transgressive,22444,ARC ART MOD ,571 581 573 ,ARC,5,Lecture,3,Other
+Topics in Contemp Architectural Theory: Postmodern Procedures,22445,ARC MOD ARC MOD ,577 577 577 577 ,ARC,5,Seminar,1,PhilosophyCore
+Interdisciplinary Design Studio,22682,ARC URB LAS ENV ,205 205 225 205 ,ARC,2,Class,3,Other
+Intro to History of Art: Visual Arts,22475,ART ,100,ART,1,Lecture,4,PhilosophyCore
+Italian Renaissance Painting & Sculpture,23032,ART ,210,ART,2,Seminar,2,Other
+Modernist Art: 1900 to 1950,21312,ART ,213,ART,2,Class,0,PhilosophyCore
+Art and Politics in America,21868,ART ,272,ART,2,Lecture,3,Other
+20th-Century Photography,21365,ART ,348,ART,3,Seminar,4,PhilosophyCore
+Junior Seminar,21319,ART ,400,ART,4,Class,1,Other
+Junior Seminar,22985,ART ,400,ART,4,Lecture,4,PhilosophyCore
+Seminar. Renaissance Art,21321,ART ,440,ART,4,Seminar,2,Other
+Proseminar in the History of Art,20149,ART ,500,ART,5,Class,3,PhilosophyCore
+The Graduate Seminar,22241,ART ,502C ,ART,5,Lecture,0,Other
+Seminar in Japanese Art and Archaeology: Japanese Tea and the Visual Arts,20185,ART ,574,ART,5,Seminar,4,PhilosophyCore
+Greek Archaeology: The Classical Period,21322,ART CLA HLS ,204 204 204 ,ART,2,Class,2,Other
+The Orientalizing Phenomenon in Greek Ar,20775,ART CLA HLS ,519 523 519 ,ART,5,Lecture,2,PhilosophyCore
+The Arts of Japan,21325,ART EAS ,217 217 ,ART,2,Seminar,1,Other
+Landscape and the Visual Arts in China,22230,ART EAS ,356 367 ,ART,3,Class,2,PhilosophyCore
+Song Dynasty Painting,21871,ART EAS ,428 428 ,ART,4,Lecture,1,Other
+"Medieval Art: Emperors, Angels, and Martyrs: Bodies in Byzantium",21320,ART HLS MED ,430 430 430 ,ART,4,Seminar,0,PhilosophyCore
+Art and Power in the Middle Ages,21317,ART HLS MED HUM ,228 228 228 228 ,ART,2,Class,3,Other
+"Theory, History, and Practice of Textile",22684,ART LAS ,419 399 ,ART,4,Lecture,4,PhilosophyCore
+Seminar in Modernist Art and Theory: Brutal Aesthetics,23130,ART MOD ,565 565 ,ART,5,Seminar,1,Other
+Seminar in History of Photography: Alfred Stieglitz & American Photography,20783,ART MOD ,567 567 ,ART,5,Class,0,PhilosophyCore
+Planets in the Universe,20105,AST ,205,AST,2,Lecture,4,Other
+Extragalactic Astronomy,20101,AST ,522,AST,5,Seminar,0,PhilosophyCore
+Seminar in Theoretical Astrophysics,20106,AST ,541,AST,5,Class,1,Other
+Plasma Waves and Instabilities,23028,AST ,553,AST,5,Lecture,2,PhilosophyCore
+Fusion Plasmas & Plasma Diagnostics,23029,AST ,555,AST,5,Seminar,4,Other
+Seminar in Plasma Physics,23030,AST ,558,AST,5,Class,4,PhilosophyCore
+General Plasma Physics I,23027,AST MAE AST MAE ,551 525 551 525 ,AST,5,Lecture,2,Other
+General Relativity,20102,AST PHY ,301 321 ,AST,3,Seminar,0,PhilosophyCore
+Princeton Atelier: Who Owns A Song?: A Theatrical Investigation of Princeton and Slavery,22842,ATL AMS THR ,499 499 499 ,ATL,4,Class,3,Other
+Princeton Atelier: Reimagining a Masterpiece: Mozart's Symphony #40,21687,ATL MTD THR ,498 498 498 ,ATL,4,Lecture,1,PhilosophyCore
+Introduction to Chemical and Biochemical,20175,CBE ,245,CBE,2,Seminar,3,Other
+Separations in Chemical Engineering,20178,CBE ,250,CBE,2,Class,2,PhilosophyCore
+"Mass, Momentum, and Energy Transport",20179,CBE ,341,CBE,3,Lecture,1,Other
+Junior Independent Work,20177,CBE ,351,CBE,3,Seminar,4,PhilosophyCore
+"Design, Synthesis, and Optimization",20183,CBE ,442,CBE,4,Class,0,Other
+Senior Independent Work,20184,CBE ,451,CBE,4,Lecture,0,PhilosophyCore
+Chemical Reactor Engineering,21628,CBE ,504,CBE,5,Seminar,3,Other
+Research Topics in Chemical & Biological,22913,CBE ,507,CBE,5,Class,0,PhilosophyCore
+Numerical Methods for Engineers,21635,CBE ,508,CBE,5,Lecture,2,Other
+Math Methods of Engineering Analysis II,21625,CBE APC ,502 502 ,CBE,5,Seminar,2,PhilosophyCore
+Surface Science: Processes and Probes,21629,CBE CHM MSE ,526 527 526 ,CBE,5,Class,2,Other
+Ethics & Technology Engineering,20955,CBE EGR ,260 260 ,CBE,2,Lecture,4,PhilosophyCore
+Fundamentals of Bioengineering,20959,CBE EGR ,262 263 ,CBE,2,Seminar,1,Other
+Mechanics/Dynamics of Soft Living Matter,20962,CBE MSE ,433 424 ,CBE,4,Class,1,PhilosophyCore
+Advanced Thermodynamics,21627,CBE MSE ,503 521 ,CBE,5,Lecture,2,Other
+Design of Reinforced Concrete Structures,21091,CEE ,366,CEE,3,Seminar,4,PhilosophyCore
+Independent Study,21095,CEE ,375,CEE,3,Class,2,Other
+Structural Health Monitoring,21115,CEE ,439,CEE,4,Lecture,0,PhilosophyCore
+Independent Study I,21607,CEE ,507,CEE,5,Seminar,3,Other
+Independent Study II,21608,CEE ,508,CEE,5,Class,2,PhilosophyCore
+Directed Research,21096,CEE ,509,CEE,5,Lecture,3,Other
+Research Seminar,21097,CEE ,510,CEE,5,Seminar,0,PhilosophyCore
+Introduction to Finite Element Methods,21092,CEE ,513,CEE,5,Class,4,Other
+Holistic Analysis of Heritage Structures,23002,CEE ,538,CEE,5,Lecture,4,PhilosophyCore
+Special Topics in MMS: Structural Health Monitoring,21094,CEE ,539,CEE,5,Seminar,4,Other
+Environmental Chemistry,21114,CEE ,571,CEE,5,Class,1,PhilosophyCore
+Theory of Groundwater Flow,21131,CEE ,581,CEE,5,Lecture,0,Other
+Special Topics in Environmental Engineer: Advanced Hydrological Modeling and Terrestrial Remote Sensing,22591,CEE ,599,CEE,5,Seminar,3,PhilosophyCore
+Engineering in the Modern World,21073,CEE EGR MAE ,102A 102A 102A ,CEE,1,Class,4,Other
+Engineering in the Modern World,21081,CEE EGR MAE ,102B 102B 102B ,CEE,1,Lecture,0,PhilosophyCore
+Engineering Design for Sustainable Devel,21072,CEE ENE ,477 477 ,CEE,4,Seminar,3,Other
+Intro to Environmental Engineering,21069,CEE ENV ,207 207 ,CEE,2,Class,0,PhilosophyCore
+Environmental Fluid Mechanics,21070,CEE GEO ENE ,305 375 305 ,CEE,3,Lecture,2,Other
+Matrix Structural Analysis and Introduct,21089,CEE MAE MSE ,361 325 331 ,CEE,3,Seminar,0,PhilosophyCore
+Global Environmental Issues,21071,CEE WWS ENV ENE ,334 452 334 334 ,CEE,3,Class,3,Other
+Philosophy & Science of Consciousness,22232,CGS PHI ,310 328 ,CGS,3,Lecture,2,PhilosophyCore
+Elementary Chinese I,22522,CHI ,101,CHI,1,Seminar,1,Other
+Elementary Chinese I,22523,CHI ,101,CHI,1,Class,4,PhilosophyCore
+Elementary Chinese I,22529,CHI ,101,CHI,1,Lecture,4,Other
+Elementary Chinese I,22527,CHI ,101,CHI,1,Seminar,0,PhilosophyCore
+Elementary Chinese I,22524,CHI ,101,CHI,1,Class,4,Other
+Elementary Chinese I,22530,CHI ,101,CHI,1,Lecture,3,PhilosophyCore
+Intensive Elementary Chinese,22533,CHI ,103,CHI,1,Seminar,4,Other
+Intensive Elementary Chinese,22534,CHI ,103,CHI,1,Class,1,PhilosophyCore
+Intensive Elementary Chinese,22539,CHI ,103,CHI,1,Lecture,0,Other
+Intensive Elementary Chinese,22535,CHI ,103,CHI,1,Seminar,1,PhilosophyCore
+Intermediate Chinese I,22540,CHI ,105,CHI,1,Class,3,Other
+Intermediate Chinese I,22541,CHI ,105,CHI,1,Lecture,1,PhilosophyCore
+Intermediate Chinese I,22542,CHI ,105,CHI,1,Seminar,4,Other
+Intermediate Chinese I,22543,CHI ,105,CHI,1,Class,4,PhilosophyCore
+Introduction to Classical Chinese I,22547,CHI ,301,CHI,3,Lecture,4,Other
+Introduction to Classical Chinese I,22779,CHI ,301,CHI,3,Seminar,1,PhilosophyCore
+Introduction to Classical Chinese I,22780,CHI ,301,CHI,3,Class,1,Other
+Third-Year Modern Chinese I,22556,CHI ,303,CHI,3,Lecture,3,PhilosophyCore
+Third-Year Modern Chinese I,22557,CHI ,303,CHI,3,Seminar,4,Other
+Third-Year Modern Chinese I,22559,CHI ,303,CHI,3,Class,3,PhilosophyCore
+Third-Year Modern Chinese I,22558,CHI ,303,CHI,3,Lecture,2,Other
+Third-Year Modern Chinese I,22560,CHI ,303,CHI,3,Seminar,0,PhilosophyCore
+Intensive Third-Year Modern Chinese I,22594,CHI ,305,CHI,3,Class,2,Other
+Intensive Third-Year Modern Chinese I,22595,CHI ,305,CHI,3,Lecture,0,PhilosophyCore
+Intensive Third-Year Modern Chinese I,22596,CHI ,305,CHI,3,Seminar,3,Other
+Fourth-Year Modern Chinese I,22571,CHI ,403,CHI,4,Class,1,PhilosophyCore
+Fourth-Year Modern Chinese I,22572,CHI ,403,CHI,4,Lecture,3,Other
+Fourth-Year Modern Chinese I,22573,CHI ,403,CHI,4,Seminar,3,PhilosophyCore
+Intensive Fourth-Year Modern Chinese I,22600,CHI ,405,CHI,4,Class,4,Other
+Intensive Fourth-Year Modern Chinese I,22601,CHI ,405,CHI,4,Lecture,4,PhilosophyCore
+Rdgs in Mod Chinese Intellectual Hist,22781,CHI EAS ,411 411 ,CHI,4,Seminar,0,Other
+Rdgs in Mod Chinese Intellectual Hist,22782,CHI EAS ,411 411 ,CHI,4,Class,3,PhilosophyCore
+Rdgs in Mod Chinese Intellectual Hist,22783,CHI EAS ,411 411 ,CHI,4,Lecture,0,Other
+General Chemistry I,20024,CHM ,201,CHM,2,Seminar,4,PhilosophyCore
+Advanced General Chem: Materials Chem,20045,CHM ,207,CHM,2,Class,1,Other
+Organic Chemistry I: Biological Emphasis,20060,CHM ,303,CHM,3,Lecture,1,PhilosophyCore
+The Quantum World,20071,CHM ,305,CHM,3,Seminar,4,Other
+Experimental Chemistry,20075,CHM ,371,CHM,3,Class,4,PhilosophyCore
+Advanced Organic Chemistry,20076,CHM ,403,CHM,4,Lecture,2,Other
+Inorganic Chemistry: Structure & Bonding,20079,CHM ,407,CHM,4,Seminar,4,PhilosophyCore
+Responsible Conduct Research Chemistry,20087,CHM ,500A ,CHM,5,Class,3,Other
+Responsible Conduct Research Chemistry,20088,CHM ,500B ,CHM,5,Lecture,0,PhilosophyCore
+Responsible Conduct Research Chemistry,20089,CHM ,500C ,CHM,5,Seminar,0,Other
+Basic Principles of Quantum Mechanics,20090,CHM ,501,CHM,5,Class,2,PhilosophyCore
+Biophysical Chemistry I,20091,CHM ,515,CHM,5,Lecture,4,Other
+Topics in Inorganic Chemistry: Solid State Chemistry,20099,CHM ,529,CHM,5,Seminar,3,PhilosophyCore
+Synthetic Organic Chemistry,20093,CHM ,530,CHM,5,Class,1,Other
+Mechanistic & Physical Organic Chemistry,20098,CHM ,532,CHM,5,Lecture,2,PhilosophyCore
+Topics in Biological Chemistry: Chemical Tools to Study Biological Systems,20095,CHM ,538,CHM,5,Seminar,2,Other
+Intro to Chemical Instrumentation,20094,CHM ,539,CHM,5,Class,1,PhilosophyCore
+Introduction to Statistical Mechanics,20100,CHM CBE MSE ,503 524 514 ,CHM,5,Lecture,0,Other
+Drug Discovery in the Genomics Era,20082,CHM GHP ,440 440 ,CHM,4,Seminar,1,PhilosophyCore
+Advanced Inorganic Chemistry,20092,CHM MSE ,522 592 ,CHM,5,Class,1,Other
+Crime and Punishment: Ethics of Reading,22755,CHV COM ENG CHV COM ENG ,577 577 535 577 577 535 ,CHV,5,Lecture,2,PhilosophyCore
+Practical Ethics,21384,CHV PHI ,310 385 ,CHV,3,Seminar,2,Other
+Junior Seminar: Introduction to Classics,21526,CLA ,340,CLA,3,Class,3,PhilosophyCore
+Survey of Selected Latin Literature: Roman Literary History,21695,CLA ,503,CLA,5,Lecture,0,Other
+Greek Politics in Practice and Theory,21471,CLA CHV POL HLS ,244 244 337 243 ,CLA,2,Seminar,1,PhilosophyCore
+The Roman Empire 31 BC to AD 337,21464,CLA HIS ,219 219 ,CLA,2,Class,3,Other
+Greek Tragedy: The Oresteia and Tragic Criticism,21697,CLA HLS ,506 506 ,CLA,5,Lecture,2,PhilosophyCore
+Problems in Greek and Roman Philosophy: Philo of Alexandria,21752,CLA HLS ,526 527 ,CLA,5,Seminar,1,Other
+Problems in Ancient History: Scenes of Subjection,21972,CLA HLS PAW ART ,548 548 548 532 ,CLA,5,Class,0,PhilosophyCore
+Classical Mythology,21453,CLA HUM GSS HLS ,212 212 212 212 ,CLA,2,Lecture,2,Other
+Problems in Ancient History: Transformations of Culture in Late Antiquity,21852,CLA PAW HLS HIS ,547 503 547 557 ,CLA,5,Seminar,2,PhilosophyCore
+Beginner's Greek: Greek Grammar,21527,CLG ,101,CLG,1,Class,1,Other
+Socrates,21529,CLG ,105,CLG,1,Lecture,1,PhilosophyCore
+Tragic Drama: Euripides' Helen,21747,CLG ,213,CLG,2,Seminar,1,Other
+Homer and the Epic Tradition,21553,CLG ,307,CLG,3,Class,0,PhilosophyCore
+Passion,22155,COM ,203,COM,2,Lecture,2,Other
+Reading and Writing Food,22234,COM ,211,COM,2,Seminar,2,PhilosophyCore
+Junior Seminar: Intro to Comp Literature,21753,COM ,300,COM,3,Class,0,Other
+Comparative Literature Graduate Pedagogy,20861,COM ,500,COM,5,Lecture,4,PhilosophyCore
+Introduction to Comparative Literature,20778,COM ,521,COM,5,Seminar,1,Other
+Topics in Critical Theory: Comparative Literature Writing and Dissertation Colloquium,20781,COM ,536,COM,5,Class,0,PhilosophyCore
+Stolen Years: Youth under the Nazis,21808,COM CHV GER ECS ,362 362 364 362 ,COM,3,Lecture,2,Other
+Urban Horror Cinema: Asian Cities Crisis,22233,COM EAS ARC ,208 209 210 ,COM,2,Seminar,1,PhilosophyCore
+What is Vernacular Filmmaking?,22784,COM ECS HUM ,341 341 341 ,COM,3,Class,4,Other
+Topics in Comparative Literature: On Collecting: Anatomy of an Obsession,22849,COM HUM ECS ART ,370 371 377 361 ,COM,3,Lecture,3,PhilosophyCore
+Classical Roots of Western Literature,21331,COM HUM HLS ,205 205 203 ,COM,2,Seminar,3,Other
+Introduction to Jewish Cultures,21648,COM JDS ,202 203 ,COM,2,Class,2,PhilosophyCore
+Contemporary Latin America in Literature,21760,COM LAS ,353 352 ,COM,3,Lecture,3,Other
+The Literature of Medieval Europe,20779,COM MED ,310 308 ,COM,3,Seminar,2,PhilosophyCore
+Tpcs in Medieval Literature: Medieval Personhood,20780,COM MED ,543 543 ,COM,5,Class,3,Other
+Politics and Society in the Arabic Novel,21650,COM NES ,380 380 ,COM,3,Lecture,1,PhilosophyCore
+Quixotic Desires,21032,COM SPA ,360 364 ,COM,3,Seminar,1,Other
+Great Books from Little Languages,21356,COM TRA ENG ,351 351 361 ,COM,3,Class,4,PhilosophyCore
+Introduction to Programming Systems,20496,COS ,217,COS,2,Lecture,4,Other
+Algorithms and Data Structures,20503,COS ,226,COS,2,Seminar,2,PhilosophyCore
+Operating Systems,20510,COS ,318,COS,3,Class,4,Other
+Introduction to Machine Learning,22909,COS ,324,COS,3,Lecture,4,PhilosophyCore
+Functional Programming,20518,COS ,326,COS,3,Seminar,0,Other
+Advanced Programming Techniques,20549,COS ,333,COS,3,Class,1,PhilosophyCore
+Reasoning about Computation,20512,COS ,340,COS,3,Lecture,4,Other
+Junior Independent Work,20522,COS ,397,COS,3,Seminar,3,PhilosophyCore
+Distributed Systems,20532,COS ,418,COS,4,Class,4,Other
+Computer Vision,20535,COS ,429,COS,4,Lecture,2,PhilosophyCore
+Computational Geometry,22615,COS ,451,COS,4,Seminar,2,Other
+Special Topics in Computer Science: Complex Networks - Analysis and Applications,20555,COS ,496,COS,4,Class,2,PhilosophyCore
+Senior Independent Work,20540,COS ,497,COS,4,Lecture,3,Other
+Advanced Algorithm Design,20889,COS ,521,COS,5,Seminar,3,PhilosophyCore
+Advanced Cryptography,23001,COS ,533,COS,5,Class,0,Other
+Advanced Computer Networks,20892,COS ,561,COS,5,Lecture,0,PhilosophyCore
+Extramural Research Internship,20891,COS ,590,COS,5,Seminar,3,Other
+Computers in Our World,20484,COS EGR ,109 109 ,COS,1,Class,4,PhilosophyCore
+Computer Science: An Interdisciplinary A,20489,COS EGR ,126 126 ,COS,1,Lecture,4,Other
+Information Security,20536,COS ELE ,432 432 ,COS,4,Seminar,2,PhilosophyCore
+Human-Computer Interface Technology,20550,COS ELE ,436 469 ,COS,4,Class,0,Other
+Automated Reasoning about Software,20887,COS ELE ,516 516 ,COS,5,Lecture,4,PhilosophyCore
+Theory of Computation,20537,COS MAT ,487 407 ,COS,4,Seminar,3,Other
+Intro. to Genomics and Computation,20890,COS MOL QCB ,551 551 551 ,COS,5,Class,0,PhilosophyCore
+Scholarly Approaches to Teaching,22231,CTL ,501,CTL,5,Lecture,4,Other
+Creative Writing Poetry,21183,CWR ,201,CWR,2,Seminar,0,PhilosophyCore
+Creative Writing Poetry,21181,CWR ,201,CWR,2,Class,4,Other
+Creative Writing Poetry,21182,CWR ,201,CWR,2,Lecture,1,PhilosophyCore
+Creative Writing Poetry,21184,CWR ,201,CWR,2,Seminar,2,Other
+Creative Writing Poetry,21185,CWR ,201,CWR,2,Class,0,PhilosophyCore
+Creative Writing Poetry,21186,CWR ,201,CWR,2,Lecture,1,Other
+Creative Writing Poetry,21187,CWR ,201,CWR,2,Seminar,0,PhilosophyCore
+Creative Writing Poetry,21188,CWR ,201,CWR,2,Class,1,Other
+Creative Writing (Fiction),21189,CWR ,203,CWR,2,Lecture,1,PhilosophyCore
+Creative Writing (Fiction),21190,CWR ,203,CWR,2,Seminar,3,Other
+Creative Writing (Fiction),21191,CWR ,203,CWR,2,Class,4,PhilosophyCore
+Creative Writing (Fiction),21192,CWR ,203,CWR,2,Lecture,1,Other
+Creative Writing (Fiction),21193,CWR ,203,CWR,2,Seminar,3,PhilosophyCore
+Creative Writing (Fiction),21194,CWR ,203,CWR,2,Class,0,Other
+Creative Writing (Fiction),21195,CWR ,203,CWR,2,Lecture,4,PhilosophyCore
+Creative Writing (Fiction),21196,CWR ,203,CWR,2,Seminar,3,Other
+Creative Writing (Fiction),21197,CWR ,203,CWR,2,Class,3,PhilosophyCore
+Advanced Creative Writing (Poetry),21211,CWR ,301,CWR,3,Lecture,1,Other
+Advanced Creative Writing (Poetry),21210,CWR ,301,CWR,3,Seminar,0,PhilosophyCore
+Advanced Creative Writing (Fiction),21200,CWR ,303,CWR,3,Class,4,Other
+Advanced Creative Writing (Fiction),21201,CWR ,303,CWR,3,Lecture,0,PhilosophyCore
+Special Topics in Creative Writing: Writing Autobiography,21219,CWR ,345,CWR,3,Seminar,2,Other
+Translation Workshop:To and From Italian,22686,CWR ITA ,307 301 ,CWR,3,Class,0,PhilosophyCore
+Exploding Text: Poetry Performance,22235,CWR THR ,217 217 ,CWR,2,Lecture,2,Other
+Intro Screenwriting: Writing Short Film,21205,CWR VIS ,348 348 ,CWR,3,Seminar,2,PhilosophyCore
+Advanced Screenwriting,21235,CWR VIS ,405 405 ,CWR,4,Class,0,Other
+Intro to Screenwriting: Adaptation,21207,CWR VIS ,448 448 ,CWR,4,Lecture,1,PhilosophyCore
+Intermediate Czech I,21352,CZE ,105,CZE,1,Seminar,4,Other
+Introduction to Ballet,21280,DAN ,207,DAN,2,Class,3,PhilosophyCore
+"Power, Structure, and the Human Body",21305,DAN ,210,DAN,2,Lecture,3,Other
+Introduction to Contemporary Dance,21244,DAN ,213,DAN,2,Seminar,4,PhilosophyCore
+Uncertainty,22237,DAN ,216,DAN,2,Class,2,Other
+Choreography Workshop I,21256,DAN ,319A ,DAN,3,Lecture,3,PhilosophyCore
+Dance Performance Workshop: Repertory I,21284,DAN ,319B ,DAN,3,Seminar,4,Other
+Choreography Workshop II,21290,DAN ,320A ,DAN,3,Class,0,PhilosophyCore
+Dance Performance Workshop: Repertory II,21252,DAN ,320B ,DAN,3,Lecture,4,Other
+Choreography Workshop III,21262,DAN ,419A ,DAN,4,Seminar,4,PhilosophyCore
+Dance Performance Workshop:Repertory III,21254,DAN ,419B ,DAN,4,Class,2,Other
+Choreography Workshop IV,21270,DAN ,420A ,DAN,4,Lecture,0,PhilosophyCore
+Dance Performance Workshop: Repertory IV,21287,DAN ,420B ,DAN,4,Seminar,3,Other
+Amer. Dance Exper.& Africanist Practices,21242,DAN AAS ,211 211 ,DAN,2,Class,4,PhilosophyCore
+Introduction to the Radical Imagination,22239,DAN AAS VIS ,223 223 224 ,DAN,2,Lecture,4,Other
+FAT: The F-Word and the Public Body,21246,DAN AMS GSS ,312 398 346 ,DAN,3,Seminar,0,PhilosophyCore
+Introduction to Dance Across Cultures,21272,DAN ANT ,215 355 ,DAN,2,Class,1,Other
+Introduction to Ballet,21367,DAN DAN ,207 207 ,DAN,2,Lecture,0,PhilosophyCore
+Writing and Culture of Premodern Korea,22275,EAS ,216,EAS,2,Seminar,3,Other
+Junior Seminar,22281,EAS ,300,EAS,3,Class,1,PhilosophyCore
+Japanese Film & Media Studies,22277,EAS ,303,EAS,3,Lecture,1,Other
+Contemporary Korean Media Cultures,22278,EAS ,365,EAS,3,Seminar,1,PhilosophyCore
+Chinese Intellectual History,21179,EAS ,507,EAS,5,Class,4,Other
+Chinese Literature: The Verses of Chu (Chuci),20371,EAS ,531,EAS,5,Lecture,3,PhilosophyCore
+Readings in Chinese Literature: Prose and Poetry of the Northern Song,22204,EAS ,533,EAS,5,Seminar,0,Other
+Modern Japanese Prose,21177,EAS ,542,EAS,5,Class,3,PhilosophyCore
+Readings in Kanbun,21341,EAS ,545,EAS,5,Lecture,2,Other
+Readings in Japanese Academic Style,21344,EAS ,563,EAS,5,Seminar,3,PhilosophyCore
+Presentiments: Towards Modern Korean Lit,22757,EAS ,574,EAS,5,Class,4,Other
+Japanese Film and Media Studies,21175,EAS ,581,EAS,5,Lecture,1,PhilosophyCore
+Japanese Society and Culture,22473,EAS ANT ,225 323 ,EAS,2,Seminar,0,Other
+Japan Anthropology in Historical Perspec,21337,EAS ANT ,549 549 ,EAS,5,Class,0,PhilosophyCore
+Empire to Nation: Japanese Lit and Film,22474,EAS COM ,310 312 ,EAS,3,Lecture,0,Other
+Cinematic Translation,22280,EAS COM ,325 385 ,EAS,3,Seminar,4,PhilosophyCore
+"Seeing the Interior: Cinema, Media, Inve",21176,EAS COM ,594 594 ,EAS,5,Class,0,Other
+Intell Hist of China to the 5th Century,22949,EAS HIS ,415 415 ,EAS,4,Lecture,1,PhilosophyCore
+Readings in Ancient Japanese History,22756,EAS HIS ,528 548 ,EAS,5,Seminar,4,Other
+Introduction to Microeconomics,20674,ECO ,100,ECO,1,Class,3,PhilosophyCore
+Introduction to Macroeconomics,20683,ECO ,101,ECO,1,Lecture,4,Other
+Microeconomic Theory,20693,ECO ,300,ECO,3,Seminar,1,PhilosophyCore
+Econometrics,20700,ECO ,302,ECO,3,Class,1,Other
+Microeconomic Theory:A Math Approach,20705,ECO ,310,ECO,3,Lecture,2,PhilosophyCore
+Econometrics: A Mathematical Approach,20714,ECO ,312,ECO,3,Seminar,1,Other
+The Economics of Uncertainty,22924,ECO ,317,ECO,3,Class,2,PhilosophyCore
+Industrial Organization,20719,ECO ,321,ECO,3,Lecture,3,Other
+Law and Economics,20721,ECO ,324,ECO,3,Seminar,0,PhilosophyCore
+Economics of the Internet,20722,ECO ,326,ECO,3,Class,1,Other
+Economics of the Labor Market,20723,ECO ,331,ECO,3,Lecture,1,PhilosophyCore
+Money and Banking,20726,ECO ,342,ECO,3,Seminar,1,Other
+Economic Inequality and the Role of Gov,23021,ECO ,343,ECO,3,Class,2,PhilosophyCore
+International Monetary Economics,20729,ECO ,353,ECO,3,Lecture,3,Other
+Financial Investments,20733,ECO ,362,ECO,3,Seminar,4,PhilosophyCore
+Urban Economics,22926,ECO ,382,ECO,3,Class,3,Other
+Strategy and Information,20746,ECO ,418,ECO,4,Lecture,2,PhilosophyCore
+Corporate Restructuring,20749,ECO ,464,ECO,4,Seminar,4,Other
+"Options, Futures & Financial Derivatives",20750,ECO ,465,ECO,4,Class,1,PhilosophyCore
+Fixed Income: Models and Applications,20753,ECO ,466,ECO,4,Lecture,1,Other
+"Institutional Finance, Trading, Markets",20755,ECO ,467,ECO,4,Seminar,1,PhilosophyCore
+Chinese Financial and Monetary Systems,20757,ECO ,494,ECO,4,Class,0,Other
+Microeconomic Theory I,20643,ECO ,501,ECO,5,Lecture,0,PhilosophyCore
+Macroeconomic Theory I,20645,ECO ,503,ECO,5,Seminar,0,Other
+Directed Research,20647,ECO ,506,ECO,5,Class,0,PhilosophyCore
+Topics in Empirical Macroeconomics,23092,ECO ,507,ECO,5,Lecture,4,Other
+Advanced Economic Theory I,20648,ECO ,511,ECO,5,Seminar,2,PhilosophyCore
+Advanced Econometrics:Time Series Models,23064,ECO ,513,ECO,5,Class,1,Other
+Game Theory,23093,ECO ,514,ECO,5,Lecture,2,PhilosophyCore
+Econometric Theory I,20649,ECO ,517,ECO,5,Seminar,2,Other
+Advanced Macroeconomic Theory I,20652,ECO ,521,ECO,5,Class,3,PhilosophyCore
+Public Finance I,20653,ECO ,523,ECO,5,Lecture,1,Other
+Economics of Labor,20655,ECO ,531,ECO,5,Seminar,0,PhilosophyCore
+Industrial Organization & Public Policy,20656,ECO ,541,ECO,5,Class,3,Other
+International Trade I,20657,ECO ,551,ECO,5,Lecture,4,PhilosophyCore
+International Monetary Theory and Policy,20658,ECO ,553,ECO,5,Seminar,4,Other
+Economic Development I,20659,ECO ,562,ECO,5,Class,2,PhilosophyCore
+Health Economics I,23061,ECO ,565,ECO,5,Lecture,3,Other
+Microeconomics Theory Workshop,20660,ECO ,581A ,ECO,5,Seminar,0,PhilosophyCore
+Industrial Organization Workshop,20661,ECO ,581B ,ECO,5,Class,0,Other
+Macroeconomics/Int'l Finance Workshop,20662,ECO ,581C ,ECO,5,Lecture,2,PhilosophyCore
+Labor Economics/Industrial Relations,20663,ECO ,581D ,ECO,5,Seminar,4,Other
+Research Program in Development Studies,20664,ECO ,581E ,ECO,5,Class,3,PhilosophyCore
+Trade Workshop,20665,ECO ,581F ,ECO,5,Lecture,4,Other
+Econometric Research Seminar,20666,ECO ,581G ,ECO,5,Seminar,1,PhilosophyCore
+Civitas Foundation Finance Seminar,20667,ECO ,581H ,ECO,5,Class,2,Other
+Behavioral Economics Workshop,20668,ECO ,581J ,ECO,5,Lecture,2,PhilosophyCore
+Political Economy Workshop,20669,ECO ,581K ,ECO,5,Seminar,4,Other
+Economics of Europe,20745,ECO EPS ,372 342 ,ECO,3,Class,4,PhilosophyCore
+Asset Pricing,20654,ECO FIN ,525 525 ,ECO,5,Lecture,2,Other
+Economics and Politics,20651,ECO POL ,520 577 ,ECO,5,Seminar,3,PhilosophyCore
+Turning Points in European Culture,20434,ECS EPS ,301 301 ,ECS,3,Class,1,Other
+From Black Bile to Digital Depression,22240,ECS FRE COM ,311 316 399 ,ECS,3,Lecture,4,PhilosophyCore
+Conservation Biology,20118,EEB ,308,EEB,3,Seminar,0,Other
+Evolutionary Biology,20121,EEB ,309,EEB,3,Class,4,PhilosophyCore
+Behavioral Ecology,20126,EEB ,313,EEB,3,Lecture,1,Other
+Ecology: Species Interactions,20130,EEB ,321,EEB,3,Seminar,4,PhilosophyCore
+Sensory Ecology,20138,EEB ,329,EEB,3,Class,1,Other
+Evolution of Adaptive Systems,22243,EEB ,409,EEB,4,Lecture,1,PhilosophyCore
+"Ecology, Evolution, and Behavior I",21694,EEB ,502,EEB,5,Seminar,4,Other
+Recent Research in Population Biology,20142,EEB ,507,EEB,5,Class,2,PhilosophyCore
+Colloquium on the Biology of Populations,20143,EEB ,522,EEB,5,Lecture,1,Other
+Life on Earth: Chaos and Clockwork,20108,EEB MOL ,211 211 ,EEB,2,Seminar,1,PhilosophyCore
+Immune Systems: Molecules to Populations,20144,EEB MOL GHP ,327 327 327 ,EEB,3,Class,3,Other
+Foundations: Mathematics of Shape-Motion,22721,EGR ,152,EGR,1,Lecture,1,PhilosophyCore
+EPICS (Non-credit),22302,EGR ,250,EGR,2,Seminar,1,Other
+Engineering Projects - Community Service,22306,EGR ,251,EGR,2,Class,3,PhilosophyCore
+EPICS (Non-credit),22309,EGR ,350,EGR,3,Lecture,0,Other
+Engineering Projects - Community Service,22311,EGR ,351,EGR,3,Seminar,3,PhilosophyCore
+EPICS (Non-credit),22314,EGR ,450,EGR,4,Class,1,Other
+Engineering Projects - Community Service,22317,EGR ,451,EGR,4,Lecture,2,PhilosophyCore
+Complex and Regulated Ventures,22254,EGR ,475,EGR,4,Seminar,4,Other
+Designing Ventures To Change the World,22337,EGR ,488,EGR,4,Class,4,PhilosophyCore
+Leadership Development for Business,22320,EGR ,494,EGR,4,Lecture,1,Other
+Entrepreneurial Leadership,22338,EGR ,497,EGR,4,Seminar,3,PhilosophyCore
+Ethnography and Wicked Problems,22253,EGR ANT ,385 385 ,EGR,3,Class,1,Other
+"Foundations: Mechanics, Energy and Waves",22717,EGR EGR ,151 151 ,EGR,1,Lecture,4,PhilosophyCore
+High-Tech Entrepreneurship,22319,EGR ELE ,491 491 ,EGR,4,Seminar,2,Other
+"Creativity, Innovation, and Design",22323,EGR ENT ,200 201 ,EGR,2,Class,2,PhilosophyCore
+"Creativity, Innovation, and Design",22324,EGR ENT ,200 201 ,EGR,2,Lecture,4,Other
+Foundations of Entrepreneurship,22321,EGR ENT ,201 200 ,EGR,2,Seminar,1,PhilosophyCore
+Integrated Introduction to EMP: Physics,22326,EGR MAT PHY ,191 191 191 ,EGR,1,Class,0,Other
+Integrated Introduction to EMP: Math,22333,EGR MAT PHY APC ,192 192 192 192 ,EGR,1,Lecture,1,PhilosophyCore
+Electronic and Photonic Devices,21774,ELE ,208,ELE,2,Seminar,0,Other
+Sophomore Independent Work,21798,ELE ,297,ELE,2,Class,2,PhilosophyCore
+Designing Real Systems,21796,ELE ,301,ELE,3,Lecture,0,Other
+Solid-State Devices,21783,ELE ,341,ELE,3,Seminar,1,PhilosophyCore
+Machine Learning for Predictive Data Ana,22508,ELE ,364,ELE,3,Class,3,Other
+Statistical Signal Processing,22251,ELE ,382,ELE,3,Lecture,4,PhilosophyCore
+Junior Independent Work,21799,ELE ,397,ELE,3,Seminar,4,Other
+Biomedical Imaging,21781,ELE ,452,ELE,4,Class,2,PhilosophyCore
+Optical Electronics,21792,ELE ,453,ELE,4,Lecture,3,Other
+Photonics & Light Wave Communications,21801,ELE ,454,ELE,4,Seminar,3,PhilosophyCore
+Smartphone Security and Architecture,21816,ELE ,470,ELE,4,Class,2,Other
+Kernel-Based Machine Learning,21784,ELE ,477,ELE,4,Lecture,3,PhilosophyCore
+Senior Independent Work,21800,ELE ,497,ELE,4,Seminar,4,Other
+Extramural Research Internship,22498,ELE ,514,ELE,5,Class,1,PhilosophyCore
+Selected Topics in Computer Engineering,22499,ELE ,518,ELE,5,Lecture,2,Other
+Selected Tpcs in Solid-State Electronics: Advanced Topics in Electronic and Optoelectronic Materials and Devices,22500,ELE ,519,ELE,5,Seminar,1,PhilosophyCore
+Machine Learn & Pattern Recognition,22501,ELE ,535,ELE,5,Class,4,Other
+Special Topics in Information Science: Information Theoretic Security,22641,ELE ,538,ELE,5,Lecture,2,PhilosophyCore
+Electronic Devices,22625,ELE ,545,ELE,5,Seminar,1,Other
+Implementations of Quantum Information,22502,ELE ,568,ELE,5,Class,0,PhilosophyCore
+Security & Privacy in Computing and Comm,22503,ELE ,574,ELE,5,Lecture,2,Other
+Wireless and high speed integrated circu,22642,ELE ,582,ELE,5,Seminar,4,PhilosophyCore
+Parallel Computation,23019,ELE ,585,ELE,5,Class,0,Other
+Contemporary Logic Design,21786,ELE COS ,206 306 ,ELE,2,Lecture,1,PhilosophyCore
+"Networks: Friends, Money and Bytes",21769,ELE COS ,381 381 ,ELE,3,Seminar,2,Other
+Design of Very Large-Scale Integrated (V,21793,ELE COS ,462 462 ,ELE,4,Class,0,PhilosophyCore
+Introduction to Quantum Computing,21782,ELE COS ELE COS ,396 396 396 396 ,ELE,3,Lecture,2,Other
+Quantum Mechanics with Applications,22497,ELE ELE ,511 511 ,ELE,5,Seminar,2,PhilosophyCore
+Solid State Physics I,21791,ELE ENE ,441 441 ,ELE,4,Class,3,Other
+Fundamentals of Biofuels,22920,ENE CBE ,418 418 ,ENE,4,Lecture,0,PhilosophyCore
+Renewable Energy and Smart Grids,22827,ENE ELE ,273 273 ,ENE,2,Seminar,3,Other
+Solar Energy Conversion,21812,ENE ELE ENV EGR ,431 431 431 431 ,ENE,4,Class,4,PhilosophyCore
+Synchrotron and Neutron Techniques for E,21807,ENE MSE MAE CEE CBE ,506 586 536 506 566 ,ENE,5,Lecture,0,Other
+"Psychology for Engineering, Energy",22706,ENE PSY ,475 475 ,ENE,4,Seminar,3,PhilosophyCore
+Reading Literature: Fiction,21019,ENG ,206,ENG,2,Class,4,Other
+Reading Literature: Drama,21135,ENG ,207,ENG,2,Lecture,0,PhilosophyCore
+Introduction to Science Fiction,21295,ENG ,215,ENG,2,Seminar,4,Other
+Junior Seminar in Critical Writing,21024,ENG ,300,ENG,3,Class,3,PhilosophyCore
+Junior Seminar in Critical Writing,23094,ENG ,300,ENG,3,Lecture,1,Other
+Junior Seminar in Critical Writing,23095,ENG ,300,ENG,3,Seminar,4,PhilosophyCore
+Junior Seminar in Critical Writing,23096,ENG ,300,ENG,3,Class,3,Other
+Junior Seminar in Critical Writing,23097,ENG ,300,ENG,3,Lecture,3,PhilosophyCore
+American Cinema,21053,ENG ,308,ENG,3,Seminar,2,Other
+Chaucer,21030,ENG ,312,ENG,3,Class,2,PhilosophyCore
+Shakespeare I,21034,ENG ,320,ENG,3,Lecture,1,Other
+James Joyce's <i>Ulysses</i>,22248,ENG ,324,ENG,3,Seminar,0,PhilosophyCore
+Topics in 18th-Century Literature: Jane Austen Then and Now,22854,ENG ,339,ENG,3,Class,2,Other
+19th-Century Fiction,21274,ENG ,345,ENG,3,Lecture,2,PhilosophyCore
+Topics in American Literature: Henry James and William Faulkner,21045,ENG ,357,ENG,3,Seminar,1,Other
+"Satire and Satirists, 1500-1700",22950,ENG ,381,ENG,3,Class,0,PhilosophyCore
+Topics in Poetry: Contemporary Poetry,21330,ENG ,405,ENG,4,Lecture,0,Other
+Special Studies in Medieval Literature: Medievalizing Africa,22948,ENG ,511,ENG,5,Seminar,4,PhilosophyCore
+Renaissance Drama: Shakespeare's Language,22136,ENG ,523,ENG,5,Class,4,Other
+The Romantic Period: Chameleon Poets: Posture and Imposture in the Romantic Age,22130,ENG ,550,ENG,5,Lecture,2,PhilosophyCore
+"Poetics: Poetic Realism: Episodes, 18th Century to the Present",22552,ENG ,563,ENG,5,Seminar,0,Other
+Criticism and Theory: Impunity,22139,ENG ,568,ENG,5,Class,4,PhilosophyCore
+Literature and Society: The Present Moment: Contemporary Literature,22140,ENG AAS ,574 574 ,ENG,5,Lecture,1,Other
+Black Aesthetics,22247,ENG AAS AMS ART ,379 379 389 380 ,ENG,3,Seminar,2,PhilosophyCore
+About Faces,22250,ENG AMS ,319 322 ,ENG,3,Class,3,Other
+An Introduction to Latino Literature and: Latina/o Literary Worlds,22202,ENG AMS LAO ,354 454 354 ,ENG,3,Lecture,4,PhilosophyCore
+Bollywood Cinema,21759,ENG COM ,377 386 ,ENG,3,Seminar,2,Other
+Topics in Literature and Ethics: Modern Evil,21120,ENG COM ,416 431 ,ENG,4,Class,3,PhilosophyCore
+"Special Studies in the 18th Century: Literature and the Early Enlightenment, 1650-1760",22137,ENG COM ,545 544 ,ENG,5,Lecture,0,Other
+"Special Studies in the 19th Century: Realism, Evolution, and the ""Natural History of Man""",22138,ENG COM ,553 556 ,ENG,5,Seminar,4,PhilosophyCore
+The Bible as Literature,21927,ENG COM HUM ,390 207 207 ,ENG,3,Class,2,Other
+Modern Drama I,21141,ENG COM THR ,364 321 364 ,ENG,3,Lecture,3,PhilosophyCore
+Beowulf,21130,ENG MED ,421 421 ,ENG,4,Seminar,3,Other
+Topics in Environmental Studies: Building American Style: Land-Use Policies and Rules,22160,ENV ,305,ENV,3,Class,1,PhilosophyCore
+The Nature of the City,22964,ENV ,323,ENV,3,Lecture,3,Other
+Investigating an Ethos of Sustainability,22640,ENV ,327,ENV,3,Seminar,1,PhilosophyCore
+Africa's Food and Conservation Challenge,21142,ENV AFS GHP ,407 407 427 ,ENV,4,Class,4,Other
+"Disease Ecology, Economics, and Policy",22626,ENV ECO EEB WWS ,304 328 304 455 ,ENV,3,Lecture,2,PhilosophyCore
+Environmental Imaginings & Global Change,22713,ENV ENG ,369 383 ,ENV,3,Seminar,0,Other
+Modeling the Earth System: Assessing Str,22707,ENV GEO ,367 367 ,ENV,3,Class,0,PhilosophyCore
+Corporate Restructuring,20324,FIN ,519,FIN,5,Lecture,3,Other
+Fixed Income: Models and Applications,20325,FIN ,521,FIN,5,Seminar,2,PhilosophyCore
+"Options, Futures & Financial Derivatives",20326,FIN ,522,FIN,5,Class,4,Other
+Master's Project I,20330,FIN ,560,FIN,5,Lecture,0,PhilosophyCore
+"Institutional Finance,Trading and Market",20327,FIN ,567,FIN,5,Seminar,1,Other
+Chinese Financial and Monetary Systems,20329,FIN ,594,FIN,5,Class,1,PhilosophyCore
+Asset Pricing I:Pricing Models,20322,FIN ORF ,501 514 ,FIN,5,Lecture,3,Other
+Beginner's French I,21230,FRE ,101,FRE,1,Seminar,2,PhilosophyCore
+Beginner's French I,22772,FRE ,101,FRE,1,Class,1,Other
+Beginner's French I,21231,FRE ,101,FRE,1,Lecture,0,PhilosophyCore
+Beginner's French I,21232,FRE ,101,FRE,1,Seminar,1,Other
+Beginner's French I,21233,FRE ,101,FRE,1,Class,1,PhilosophyCore
+Beginner's French I,22773,FRE ,101,FRE,1,Lecture,4,Other
+Beginner's French I,22774,FRE ,101,FRE,1,Seminar,1,PhilosophyCore
+Beginner's French I,21234,FRE ,101,FRE,1,Class,0,Other
+Intensive Beginner's&Intermediate French,21657,FRE ,103,FRE,1,Lecture,3,PhilosophyCore
+Intensive Beginner's&Intermediate French,21658,FRE ,103,FRE,1,Seminar,3,Other
+Intensive Beginner's&Intermediate French,21660,FRE ,103,FRE,1,Class,0,PhilosophyCore
+Intensive Beginner's&Intermediate French,21659,FRE ,103,FRE,1,Lecture,3,Other
+Intensive Beginner's&Intermediate French,22775,FRE ,103,FRE,1,Seminar,0,PhilosophyCore
+Intermediate French,21661,FRE ,105,FRE,1,Class,3,Other
+Intermediate French,21662,FRE ,105,FRE,1,Lecture,4,PhilosophyCore
+Intermediate French,21664,FRE ,105,FRE,1,Seminar,1,Other
+Intermediate French,21663,FRE ,105,FRE,1,Class,4,PhilosophyCore
+Intermediate/Advanced French,21680,FRE ,107,FRE,1,Lecture,1,Other
+Intermediate/Advanced French,21678,FRE ,107,FRE,1,Seminar,0,PhilosophyCore
+Intermediate/Advanced French,21681,FRE ,107,FRE,1,Class,3,Other
+Intermediate/Advanced French,21679,FRE ,107,FRE,1,Lecture,4,PhilosophyCore
+Intermediate/Advanced French,22776,FRE ,107,FRE,1,Seminar,0,Other
+Advanced French,21743,FRE ,108,FRE,1,Class,2,PhilosophyCore
+Advanced French,21744,FRE ,108,FRE,1,Lecture,3,Other
+Advanced French,21745,FRE ,108,FRE,1,Seminar,1,PhilosophyCore
+Advanced French,21746,FRE ,108,FRE,1,Class,2,Other
+Advanced French,22414,FRE ,108,FRE,1,Lecture,4,PhilosophyCore
+Studies in French Language & Style,21751,FRE ,207,FRE,2,Seminar,4,Other
+Studies in French Language & Style,22777,FRE ,207,FRE,2,Class,3,PhilosophyCore
+Studies in French Language & Style,21749,FRE ,207,FRE,2,Lecture,3,Other
+Studies in French Language & Style,21750,FRE ,207,FRE,2,Seminar,4,PhilosophyCore
+Studies in French Language & Style,21748,FRE ,207,FRE,2,Class,3,Other
+Studies in French Language & Style,22778,FRE ,207,FRE,2,Lecture,0,PhilosophyCore
+"France Today: Culture, Politics, and Soc",21811,FRE ,215,FRE,2,Seminar,2,Other
+"France Today: Culture, Politics, and Soc",22886,FRE ,215,FRE,2,Class,0,PhilosophyCore
+"French Lit., Culture & Society to 1789",21829,FRE ,221,FRE,2,Lecture,4,Other
+French Lit: Language of Literary Texts,21836,FRE ,224,FRE,2,Seminar,4,PhilosophyCore
+Advanced French Language and Style,21849,FRE ,307,FRE,3,Class,3,Other
+"Power, Passion, and Ideology",21855,FRE ,359,FRE,3,Lecture,2,PhilosophyCore
+The Art of Insignificance,21896,FRE ,379,FRE,3,Seminar,4,Other
+Junior Seminar in French Studies,22203,FRE ,398,FRE,3,Class,0,PhilosophyCore
+Seminar in 19th&20th-C French Literature: Reading Proust,21641,FRE ,526,FRE,5,Lecture,4,Other
+Francophone Literature and Culture: Imperialism and Decolonization in the Francophone World,21642,FRE ,528,FRE,5,Seminar,4,PhilosophyCore
+"Topics in Francophone Literature, Cultur: Aim_ C_saire",22716,FRE AFS LAS ,403 403 412 ,FRE,4,Class,2,Other
+20th-Century French Narrative Prose: Realism and (Post-)Truth,21643,FRE HUM ,524 524 ,FRE,5,Lecture,2,PhilosophyCore
+French Theater Workshop,21756,FRE THR ,211 211 ,FRE,2,Seminar,4,Other
+Producing Theater: French Festivals Toda,22246,FRE THR ,389 389 ,FRE,3,Class,1,PhilosophyCore
+Memory and Human Rights Politics,23088,FRS ,105,FRS,1,Lecture,4,Other
+Neurocinematics,23089,FRS ,107,FRS,1,Seminar,1,PhilosophyCore
+The Other 'F' Word - Success and Innovat,23070,FRS ,109,FRS,1,Class,0,Other
+Trumpland,23090,FRS ,111,FRS,1,Lecture,3,PhilosophyCore
+American And Russian Science Fiction,23072,FRS ,113,FRS,1,Seminar,4,Other
+"Design, Craft and Ethical Value",23077,FRS ,121,FRS,1,Class,2,PhilosophyCore
+Internet Privacy and Security,23075,FRS ,127,FRS,1,Lecture,4,Other
+Poverty Policies and the Dispossesed,23082,FRS ,129,FRS,1,Seminar,3,PhilosophyCore
+Materials World,23067,FRS ,133,FRS,1,Class,1,Other
+State of the Earth: Shifts and Cycles,23086,FRS ,135,FRS,1,Lecture,2,PhilosophyCore
+Intellectual Foundations,23091,FRS ,137,FRS,1,Seminar,4,Other
+Blurring the Boundary Btwn Arts & Life,23084,FRS ,139,FRS,1,Class,1,PhilosophyCore
+Life in a Nuclear-Armed World,23076,FRS ,141,FRS,1,Lecture,3,Other
+Public Leadership and Public Policy,23080,FRS ,145,FRS,1,Seminar,3,PhilosophyCore
+Ethics in Financial Markets,23071,FRS ,149,FRS,1,Class,1,Other
+Epidemics in World History,23124,FRS ,153,FRS,1,Lecture,1,PhilosophyCore
+Sanctuary,23125,FRS ,157,FRS,1,Seminar,1,Other
+"Science, Technology and Public Policy",23081,FRS ,159,FRS,1,Class,3,PhilosophyCore
+Into the Woods! What Disney Didn't Tell,23126,FRS ,161,FRS,1,Lecture,3,Other
+Social Determinants of Health,23073,FRS ,165,FRS,1,Seminar,3,PhilosophyCore
+Islam and other religions:The first 500,23127,FRS ,171,FRS,1,Class,0,Other
+Mother Tongues: Language and National Id,23069,FRS ,173,FRS,1,Lecture,4,PhilosophyCore
+Sizing Up The Universe,23083,FRS ,175,FRS,1,Seminar,0,Other
+The World of Noir,23074,FRS ,177,FRS,1,Class,4,PhilosophyCore
+Graphic America,23068,FRS ,181,FRS,1,Lecture,4,Other
+Revolutionary Russia,23078,FRS ,185,FRS,1,Seminar,3,PhilosophyCore
+Life Stories,23079,FRS ,193,FRS,1,Class,0,Other
+Evolution and Catastrophes,21113,GEO ,365,GEO,3,Lecture,4,PhilosophyCore
+Structural Geology,21125,GEO ,373,GEO,3,Seminar,1,Other
+"Data, Models, and Uncertainty in the Nat",21128,GEO ,422,GEO,4,Class,0,PhilosophyCore
+Geological Constraints on the Global Car,23059,GEO ,534,GEO,5,Lecture,1,Other
+Rock Fracture,21129,GEO ,543,GEO,5,Seminar,0,PhilosophyCore
+Theoretical Geophysics,21119,GEO ,557,GEO,5,Class,2,Other
+Earth's Atmosphere,21124,GEO ,561,GEO,5,Lecture,2,PhilosophyCore
+Life in the Universe,21110,GEO AST EEB CHM ,255A 255A 255A 255A ,GEO,2,Seminar,0,Other
+Fundamentals of Earth's Climate System,21117,GEO CEE ENV ,427 427 427 ,GEO,4,Class,4,PhilosophyCore
+Environmental Aqueous Geochemistry,21127,GEO CHM ,418 418 ,GEO,4,Lecture,0,Other
+Environmental Geochemistry: Chemistry of,21112,GEO CHM ENV ,363 331 331 ,GEO,3,Seminar,0,PhilosophyCore
+Fundamentals of Solid Earth Science,21104,GEO ENE ,203 203 ,GEO,2,Class,1,Other
+Earth's Atmosphere,21111,GEO ENV CEE ,361 361 360 ,GEO,3,Lecture,1,PhilosophyCore
+"Climate: Past, Present, and Future",21098,GEO ENV STC ,102A 102A 102A ,GEO,1,Seminar,0,Other
+"Climate: Past, Present, and Future",21099,GEO ENV STC ,102B 102B 102B ,GEO,1,Class,3,PhilosophyCore
+Fundamentals of the Geosciences II,21118,GEO GEO ,506 506 ,GEO,5,Lecture,2,Other
+Introduction to Ocean Physics for Climat,21116,GEO MAE ,425 425 ,GEO,4,Seminar,1,PhilosophyCore
+Topics in Mineralogy and Mineral Physics: Current Research in Mineral Physics and Materials Science,20849,GEO MSE ,507 547 ,GEO,5,Class,2,Other
+Beginner's German I,20833,GER ,101,GER,1,Lecture,2,PhilosophyCore
+Beginner's German I,20838,GER ,101,GER,1,Seminar,0,Other
+Beginner's German I,20835,GER ,101,GER,1,Class,0,PhilosophyCore
+Beginner's German I,20834,GER ,101,GER,1,Lecture,2,Other
+Beginner's German I,20836,GER ,101,GER,1,Seminar,3,PhilosophyCore
+Beginner's German I,20837,GER ,101,GER,1,Class,2,Other
+Intermediate German,20840,GER ,105,GER,1,Lecture,0,PhilosophyCore
+Intermediate German,20839,GER ,105,GER,1,Seminar,3,Other
+Advanced German,22452,GER ,107,GER,1,Class,4,PhilosophyCore
+Advanced German,20841,GER ,107,GER,1,Lecture,4,Other
+"Society,Pol&Culture in Germany 1890-1945",20868,GER ,207,GER,2,Seminar,3,PhilosophyCore
+Intro to German Literature after 1700,20869,GER ,209,GER,2,Class,3,Other
+German Intellectual History: Margins of Enlightenment,22912,GER ,306,GER,3,Lecture,0,PhilosophyCore
+Topics in German Culture and Society: War in German Philosophy and Lit. around 1800 and beyond,22987,GER ,307,GER,3,Seminar,4,Other
+Second Language Acquisition & Pedagogy,21009,GER ,506,GER,5,Class,3,PhilosophyCore
+German Literature in the 18th Century: Weimar Classicism,23154,GER ,512,GER,5,Lecture,0,Other
+German Literature after 1945: The Politics of Narration: The Post War Novel,21450,GER ,519,GER,5,Seminar,0,PhilosophyCore
+The Work of Art and the Problem of Exper,22715,GER ART ECS ,475 475 475 ,GER,4,Class,2,Other
+Tpcs German Film History and Theory: Regimes of Spectacle in Weimar Cinema,21676,GER ECS ,308 307 ,GER,3,Lecture,1,PhilosophyCore
+Modernism and Modernity: The Avant-Garde and the Pastoral Drive,21552,GER SLA COM MOD ,517 522 519 516 ,GER,5,Seminar,3,Other
+You Are What You Eat,22928,GHP ,301,GHP,3,Class,1,PhilosophyCore
+Critical Perspectives in Global Health,21010,GHP WWS ANT ,350 380 380 ,GHP,3,Lecture,3,Other
+"Media Spectacles, Scandalous Citizens",22411,GSS ,395,GSS,3,Seminar,2,PhilosophyCore
+Theories of Gender & Sexuality,22936,GSS ,400,GSS,4,Class,2,Other
+Race and Sexualities in a Global Era,22394,GSS AAS ENG AMS ,345 355 399 373 ,GSS,3,Lecture,4,PhilosophyCore
+Science After Feminism,22727,GSS AMS ,324 324 ,GSS,3,Seminar,1,Other
+Introduction to Global LGBTQ Studies,22726,GSS ANT ,203 243 ,GSS,2,Class,0,PhilosophyCore
+Gender Crossings,22728,GSS MTD THR AMS ,337 302 347 336 ,GSS,3,Lecture,0,Other
+Elementary Hebrew I,20266,HEB ,101,HEB,1,Seminar,0,PhilosophyCore
+Intermediate Hebrew I,20267,HEB ,105,HEB,1,Class,0,Other
+Hebrew Through the Ages,21890,HEB ,305,HEB,3,Lecture,3,PhilosophyCore
+Intermediate Hindi I,22214,HIN ,105,HIN,1,Seminar,2,Other
+Elementary Hindi and Urdu I,22213,HIN URD ,101 101 ,HIN,1,Class,0,PhilosophyCore
+Advanced Hindi-Urdu I,22215,HIN URD ,301 301 ,HIN,3,Lecture,1,Other
+A History of the World,20559,HIS ,201,HIS,2,Seminar,0,PhilosophyCore
+What is the Scientific Revolution?,20815,HIS ,294,HIS,2,Class,2,Other
+The Russian Empire: From Peter the Great,20609,HIS ,360,HIS,3,Lecture,3,PhilosophyCore
+Democracy and Slavery in the New Nation,20570,HIS ,373,HIS,3,Seminar,0,Other
+U.S. Foreign Relations,20573,HIS ,380,HIS,3,Class,2,PhilosophyCore
+"The United States, 1920-1974",20580,HIS ,383,HIS,3,Lecture,3,Other
+The Role of Law in American Society,20620,HIS ,385,HIS,3,Seminar,0,PhilosophyCore
+Junior Seminar,20601,HIS ,400,HIS,4,Class,4,Other
+Junior Seminar,22930,HIS ,400,HIS,4,Lecture,0,PhilosophyCore
+Junior Seminar,22931,HIS ,400,HIS,4,Seminar,3,Other
+Junior Seminar,22932,HIS ,400,HIS,4,Class,0,PhilosophyCore
+Junior Seminar,22933,HIS ,400,HIS,4,Lecture,4,Other
+Junior Seminar,22934,HIS ,400,HIS,4,Seminar,1,PhilosophyCore
+Junior Seminar,22935,HIS ,400,HIS,4,Class,0,Other
+Medieval Democracy,21528,HIS ,413,HIS,4,Lecture,2,PhilosophyCore
+History of Political Propaganda,22729,HIS ,425,HIS,4,Seminar,1,Other
+History of Pseudoscience,20827,HIS ,498,HIS,4,Class,2,PhilosophyCore
+Intro to Professional Study of History,22260,HIS ,500,HIS,5,Lecture,4,Other
+Global History (1850s - Present),22258,HIS ,501,HIS,5,Seminar,1,PhilosophyCore
+Modern African History,22996,HIS ,515,HIS,5,Class,0,Other
+Late Antique Iran,22864,HIS ,534,HIS,5,Lecture,4,PhilosophyCore
+History of the U.S. State,22758,HIS ,535,HIS,5,Seminar,4,Other
+International Financial History,20432,HIS ,552,HIS,5,Class,3,PhilosophyCore
+Soviet Empire and Successor States,22259,HIS ,559,HIS,5,Lecture,4,Other
+After Empire,21630,HIS ,560,HIS,5,Seminar,3,PhilosophyCore
+Topics in English History: Working with Early Modern Documents,21633,HIS ,567,HIS,5,Class,3,Other
+Rdgs in Early American History,22593,HIS ,587,HIS,5,Lecture,2,PhilosophyCore
+"Topics in African Diaspora History: Emancipation, Migration, Decolonization",23012,HIS AAS ,578 578 ,HIS,5,Seminar,0,Other
+Princeton and Slavery,20818,HIS AAS AMS ,402 402 412 ,HIS,4,Class,3,PhilosophyCore
+Precolonial Africa,21159,HIS AFS ,314 313 ,HIS,3,Lecture,3,Other
+Asian American History,20563,HIS AMS ,270 370 ,HIS,2,Seminar,0,PhilosophyCore
+Civilization of the Early Middle Ages,20613,HIS CLA HLS ,343 343 343 ,HIS,3,Class,3,Other
+China's Frontiers,20826,HIS EAS ,439 439 ,HIS,4,Lecture,4,PhilosophyCore
+Readings/Early Modern Japanes History,22592,HIS EAS ,526 521 ,HIS,5,Seminar,2,Other
+France and its Empire from the Renaissan,20823,HIS FRE ECS ,364 374 364 ,HIS,3,Class,4,PhilosophyCore
+Topics in History of Sex and Gender: Gender and Science,20431,HIS GSS HOS ,519 519 519 ,HIS,5,Lecture,2,Other
+Empire and Catastrophe,22159,HIS HLS MED ,428 428 428 ,HIS,4,Seminar,4,PhilosophyCore
+Medieval Mediterranean,22599,HIS HLS MED ,536 536 536 ,HIS,5,Class,2,Other
+American Technological History,21639,HIS HOS ,586 586 ,HIS,5,Lecture,2,PhilosophyCore
+Modern Jewish History: 1750-Present,20608,HIS JDS ,359 359 ,HIS,3,Seminar,4,Other
+Colonial Latin America to 1810,22568,HIS LAS ,303 305 ,HIS,3,Class,4,PhilosophyCore
+Colonial Latin America to 1810,22614,HIS LAS ,504 524 ,HIS,5,Lecture,1,Other
+Modern Latin American History Since 1810,20433,HIS LAS ,506 526 ,HIS,5,Seminar,0,PhilosophyCore
+Topics in the History of Modern Syria: Intellectual History and Arabic Literature,22068,HIS NES ,419 419 ,HIS,4,Class,3,Other
+Unrest and Renewal in Urban America,20617,HIS URB ,388 388 ,HIS,3,Lecture,1,PhilosophyCore
+Elementary Modern Greek I,22147,HLS MOG ,101 101 ,HLS,1,Seminar,0,Other
+Intermediate Modern Greek,22148,HLS MOG HLS MOG ,105 105 105 105 ,HLS,1,Class,1,PhilosophyCore
+Introduction to Historiography of Scienc,20426,HOS MOD HIS ,595 564 595 ,HOS,5,Lecture,1,Other
+Literature and the Arts I,21166,HUM ,216,HUM,2,Seminar,3,PhilosophyCore
+"History, Philosophy, and Religion I",21170,HUM ,217,HUM,2,Class,4,Other
+"Interdisciplinary Studies in the Humanit: What is a material? History, Architecture, Environment",21350,HUM ARC MOD ,595 593 551 ,HUM,5,Lecture,3,PhilosophyCore
+Interdisciplinary Studies: How the Past Became History - East Asia and the Ancient Mediterranean,21448,HUM CLA EAS HIS ,470 470 470 301 ,HUM,4,Seminar,1,Other
+Freud and His Readers,22759,HUM COM GER ,584 586 584 ,HUM,5,Class,3,PhilosophyCore
+East Asian Humanities I: Classical,22261,HUM EAS COM ,233 233 233 ,HUM,2,Lecture,4,Other
+Medical Story-Worlds,22888,HUM SLA GSS AMS ,302 302 333 302 ,HUM,3,Seminar,0,PhilosophyCore
+Organic Chemistry of Metabolism,22205,ISC CHM ,335 335 ,ISC,3,Class,4,Other
+Integ/Quantitative Intro to Nat Sci I,22195,ISC CHM COS MOL PHY ,231 231 231 231 231 ,ISC,2,Lecture,0,PhilosophyCore
+Integ/Quantitative Intro to Nat Sci I,22199,ISC CHM COS MOL PHY ,232 232 232 232 232 ,ISC,2,Seminar,3,Other
+Beginner's Italian I,20881,ITA ,101,ITA,1,Class,3,PhilosophyCore
+Beginner's Italian I,20882,ITA ,101,ITA,1,Lecture,0,Other
+Beginner's Italian I,22798,ITA ,101,ITA,1,Seminar,3,PhilosophyCore
+Beginner's Italian I,20884,ITA ,101,ITA,1,Class,4,Other
+Beginner's Italian I,20883,ITA ,101,ITA,1,Lecture,0,PhilosophyCore
+Beginner's Italian I,22799,ITA ,101,ITA,1,Seminar,2,Other
+Advanced Italian,20940,ITA ,107,ITA,1,Class,3,PhilosophyCore
+Advanced Italian,20939,ITA ,107,ITA,1,Lecture,2,Other
+Advanced Italian,20941,ITA ,107,ITA,1,Seminar,2,PhilosophyCore
+Advanced Italian,20938,ITA ,107,ITA,1,Class,0,Other
+Italian Civilization Through the Centuri,21164,ITA ,220,ITA,2,Lecture,2,PhilosophyCore
+"Topics in 19th-Century Italian Literatur: Risorgimento, Opera, Film",21360,ITA COM ,311 379 ,ITA,3,Seminar,1,Other
+"Black, Queer, Jewish Italy",22762,ITA GSS JDS ECS ,322 339 327 332 ,ITA,3,Class,3,PhilosophyCore
+"Dante's ""Inferno""",21309,ITA MED ,303 303 ,ITA,3,Lecture,3,Other
+Yiddish in America,23087,JDS AMS COM GER ,304 334 329 317 ,JDS,3,Seminar,4,PhilosophyCore
+Elementary Biblical Hebrew I,21033,JDS NES REL ,302 302 302 ,JDS,3,Class,2,Other
+History of the Jewish Book,21891,JDS REL ,321 384 ,JDS,3,Lecture,3,PhilosophyCore
+Elementary Japanese I,22282,JPN ,101,JPN,1,Seminar,3,Other
+Elementary Japanese I,22283,JPN ,101,JPN,1,Class,1,PhilosophyCore
+Elementary Japanese I,22284,JPN ,101,JPN,1,Lecture,0,Other
+Elementary Japanese I,22285,JPN ,101,JPN,1,Seminar,4,PhilosophyCore
+Intermediate Japanese I,22292,JPN ,105,JPN,1,Class,0,Other
+Intermediate Japanese I,22293,JPN ,105,JPN,1,Lecture,4,PhilosophyCore
+Intermediate Japanese I,22294,JPN ,105,JPN,1,Seminar,4,Other
+Advanced Japanese I,22295,JPN ,301,JPN,3,Class,2,PhilosophyCore
+Advanced Japanese I,22296,JPN ,301,JPN,3,Lecture,3,Other
+Integrative Advanced Japanese I,22297,JPN ,305,JPN,3,Seminar,0,PhilosophyCore
+Contemporary Japanese Language & Culture,22341,JPN ,407,JPN,4,Class,4,Other
+Readings in Modern Japanese I,22339,JPN EAS ,401 401 ,JPN,4,Lecture,3,PhilosophyCore
+Readings in Modern Japanese I,22340,JPN EAS ,401 401 ,JPN,4,Seminar,0,Other
+The McGraw Seminar in Writing: The Art of the Profile,22656,JRN ,441,JRN,4,Class,1,PhilosophyCore
+Investigative Journalism: Accountability Reporting,22390,JRN ,445,JRN,4,Lecture,1,Other
+Politics and the Media: Writing about Washington and the Economy,22651,JRN ,447,JRN,4,Seminar,0,PhilosophyCore
+The Media and Social Issues: Reporting on Race in America Today,22634,JRN ,448,JRN,4,Class,0,Other
+International News: Migration Reporting,22635,JRN ,449,JRN,4,Lecture,0,PhilosophyCore
+Audio Journalism: Storytelling for Radio Documentaries and Podcasts,22654,JRN ,450,JRN,4,Seminar,0,Other
+Creative Non-Fiction,22391,JRN CWR ,240 240 ,JRN,2,Class,1,PhilosophyCore
+Elementary Korean I,22484,KOR ,101,KOR,1,Lecture,2,Other
+Elementary Korean I,22487,KOR ,101,KOR,1,Seminar,0,PhilosophyCore
+Intensive Korean I,22494,KOR ,103,KOR,1,Class,0,Other
+Intermediate Korean I,22505,KOR ,105,KOR,1,Lecture,2,PhilosophyCore
+Intermediate Korean I,22509,KOR ,105,KOR,1,Seminar,4,Other
+Advanced Korean I,22511,KOR ,301,KOR,3,Class,2,PhilosophyCore
+Integrative Korean I,22516,KOR ,303,KOR,3,Lecture,0,Other
+Contemporary Korean Lang & Culture I,22519,KOR ,401,KOR,4,Seminar,4,PhilosophyCore
+Publ. Health & Healing in the Atl. World,21229,LAS GHP SPA ,372 372 373 ,LAS,3,Class,1,Other
+Politics and Social Change in Lat. Am.,22732,LAS HIS ,374 486 ,LAS,3,Lecture,4,PhilosophyCore
+"Cuban History, Politics and Culture",21236,LAS SPA AAS ,371 372 374 ,LAS,3,Seminar,4,Other
+Beginner's Latin,21571,LAT ,101,LAT,1,Class,2,PhilosophyCore
+Beginner's Latin,21572,LAT ,101,LAT,1,Lecture,4,Other
+Intermediate Latin: Catullus and His Age,21589,LAT ,105,LAT,1,Seminar,0,PhilosophyCore
+Intermediate Latin: Catullus and His Age,21590,LAT ,105,LAT,1,Class,0,Other
+"Invective, Slander and Insult",21592,LAT ,210,LAT,2,Lecture,3,PhilosophyCore
+Vergil's Aeneid,21593,LAT ,333,LAT,3,Seminar,1,Other
+Roman Historians of the Empire,21599,LAT ,339,LAT,3,Class,1,PhilosophyCore
+Musicology of Leroi Jones/Amiri Baraka,22733,LCA AAS ENG HUM ,213 213 213 213 ,LCA,2,Lecture,1,Other
+Language in Its Contexts,20365,LIN ,250,LIN,2,Seminar,1,PhilosophyCore
+Syntax,20369,LIN ,302,LIN,3,Class,1,Other
+Intonation: Melody in Language,21328,LIN ,310,LIN,3,Lecture,2,PhilosophyCore
+Language Universals and Diversity,20370,LIN ,360,LIN,3,Seminar,1,Other
+Languages of Africa,22761,LIN AFS ,260 262 ,LIN,2,Class,0,PhilosophyCore
+Introduction to Language & Linguistics,20346,LIN CGS ,201 205 ,LIN,2,Lecture,1,Other
+Engineering Design,21713,MAE ,321,MAE,3,Seminar,1,PhilosophyCore
+Aerospace Structures,22734,MAE ,323,MAE,3,Class,2,Other
+Fluid Dynamics,21725,MAE ,335,MAE,3,Lecture,2,PhilosophyCore
+Independent Work,21728,MAE ,339,MAE,3,Seminar,3,Other
+Independent Work,21727,MAE ,339,MAE,3,Class,0,PhilosophyCore
+Independent Work with Design,21742,MAE ,339D ,MAE,3,Lecture,2,Other
+Independent Work with Design,21729,MAE ,339D ,MAE,3,Seminar,2,PhilosophyCore
+Space Flight,21698,MAE ,341,MAE,3,Class,3,Other
+Robotics and Intelligent Systems,21699,MAE ,345,MAE,3,Lecture,1,PhilosophyCore
+Microprocessors for Measurement/Control,21731,MAE ,412,MAE,4,Seminar,3,Other
+Automatic Control Systems,21734,MAE ,433,MAE,4,Class,1,PhilosophyCore
+Senior Independent Work,21740,MAE ,439,MAE,4,Lecture,4,Other
+Senior Independent Work,21741,MAE ,439,MAE,4,Seminar,1,PhilosophyCore
+Physics of Gases,22018,MAE ,527,MAE,5,Class,0,Other
+Advanced Dynamics,22009,MAE ,542,MAE,5,Lecture,1,PhilosophyCore
+Nonlinear Control,23013,MAE ,544,MAE,5,Seminar,2,Other
+Fluid Mechanics,22010,MAE ,551,MAE,5,Class,4,PhilosophyCore
+Simulation and Modeling of Fluid Flows,22013,MAE ,557,MAE,5,Lecture,2,Other
+Advanced Topics in Fluid Mechanics I: Low Reynolds Number Flows,22011,MAE ,559,MAE,5,Seminar,3,PhilosophyCore
+Graduate Seminar in MAE,22017,MAE ,597,MAE,5,Class,4,Other
+Instabilities in Fluids,23014,MAE AOS ,563 563 ,MAE,5,Lecture,0,PhilosophyCore
+Modern Solid Mechanics,21706,MAE CEE ,223 323 ,MAE,2,Seminar,2,Other
+Energy Technologies in the 21st Century,21707,MAE EGR CBE ENE ,228 228 228 228 ,MAE,2,Class,3,PhilosophyCore
+Thermodynamics,21704,MAE ENE ,221 221 ,MAE,2,Lecture,1,Other
+Heat Transfer,21732,MAE ENE ,423 423 ,MAE,4,Seminar,0,PhilosophyCore
+Combustion,22007,MAE ENE ,531 531 ,MAE,5,Class,4,Other
+Instabilities in Fluids,21897,MAE ENV ,463 463 ,MAE,4,Lecture,0,PhilosophyCore
+Mathematics in Engineering I,21709,MAE MAT EGR CBE ,305 391 305 305 ,MAE,3,Seminar,1,Other
+Structure and Properties of Materials,21721,MAE MSE ,324 324 ,MAE,3,Class,3,PhilosophyCore
+Optics and Lasers,22006,MAE MSE ,521 561 ,MAE,5,Lecture,2,Other
+Precalculus/Prestatistics,21938,MAT ,100,MAT,1,Seminar,3,PhilosophyCore
+Calculus I,21939,MAT ,103,MAT,1,Class,2,Other
+Calculus I,21942,MAT ,103,MAT,1,Lecture,2,PhilosophyCore
+Calculus I,21940,MAT ,103,MAT,1,Seminar,1,Other
+Calculus I,21941,MAT ,103,MAT,1,Class,0,PhilosophyCore
+Calculus II,21943,MAT ,104,MAT,1,Lecture,3,Other
+Calculus II,21944,MAT ,104,MAT,1,Seminar,2,PhilosophyCore
+Calculus II,21945,MAT ,104,MAT,1,Class,3,Other
+Calculus II,21946,MAT ,104,MAT,1,Lecture,3,PhilosophyCore
+Mathematics for Economics/Life Sciences,21947,MAT ,175,MAT,1,Seminar,1,Other
+Mathematics for Economics/Life Sciences,21948,MAT ,175,MAT,1,Class,0,PhilosophyCore
+Mathematics for Economics/Life Sciences,21949,MAT ,175,MAT,1,Lecture,0,Other
+Multivariable Calculus,21950,MAT ,201,MAT,2,Seminar,4,PhilosophyCore
+Multivariable Calculus,21952,MAT ,201,MAT,2,Class,0,Other
+Multivariable Calculus,21951,MAT ,201,MAT,2,Lecture,2,PhilosophyCore
+Multivariable Calculus,21953,MAT ,201,MAT,2,Seminar,0,Other
+Linear Algebra with Applications,21956,MAT ,202,MAT,2,Class,4,PhilosophyCore
+Linear Algebra with Applications,21954,MAT ,202,MAT,2,Lecture,4,Other
+Linear Algebra with Applications,21955,MAT ,202,MAT,2,Seminar,4,PhilosophyCore
+Linear Algebra with Applications,21957,MAT ,202,MAT,2,Class,1,Other
+Advanced Vector Calculus,21958,MAT ,203,MAT,2,Lecture,0,PhilosophyCore
+Advanced Vector Calculus,21959,MAT ,203,MAT,2,Seminar,2,Other
+"Numbers, Equations, and Proofs",21963,MAT ,214,MAT,2,Class,3,PhilosophyCore
+Honors Analysis (Single Variable),22062,MAT ,215,MAT,2,Lecture,2,Other
+Honors Analysis (Single Variable),22063,MAT ,215,MAT,2,Seminar,2,PhilosophyCore
+Accelerated Honors Analysis I,22064,MAT ,216,MAT,2,Class,4,Other
+Accelerated Honors Analysis I,22663,MAT ,216,MAT,2,Lecture,3,PhilosophyCore
+Introduction to Real Analysis,21964,MAT ,320,MAT,3,Seminar,0,Other
+Applied Algebra,22065,MAT ,340,MAT,3,Class,1,PhilosophyCore
+Algebra I,21967,MAT ,345,MAT,3,Lecture,3,Other
+Differential Manifolds,22066,MAT ,350,MAT,3,Seminar,2,PhilosophyCore
+Topology,21968,MAT ,365,MAT,3,Class,4,Other
+Probability Theory,21669,MAT ,385,MAT,3,Lecture,0,PhilosophyCore
+Analysis III: Integration Theory,22619,MAT ,425,MAT,4,Seminar,1,Other
+Topics in Algebra: Representation Theory,22631,MAT ,449,MAT,4,Class,0,PhilosophyCore
+Topics in Geometry: Semi-Riemannian Geometry & Geometric Analysis,23129,MAT ,459,MAT,4,Lecture,2,Other
+Class Field Theory,23152,MAT ,511,MAT,5,Seminar,0,PhilosophyCore
+Topics in Arithmetic Geometry: Arithmetic Gan-Gross-Prasad Conjecture,22551,MAT ,517,MAT,5,Class,1,Other
+Advanced Analysis,22405,MAT ,523,MAT,5,Lecture,3,PhilosophyCore
+Topics in Nonlinear Analysis: Topics in General Relativity,22407,MAT ,528,MAT,5,Seminar,4,Other
+Topics in Analysis: Fluid dynamics and related equations,22406,MAT ,529,MAT,5,Class,4,PhilosophyCore
+Topics in Algebraic Geometry: Arithmetic Algebraic Geometry,22409,MAT ,547,MAT,5,Lecture,4,Other
+Topics in Conformal and Cauchy-Rieman (C: Recent Developments in Conformal Geometry,22653,MAT ,558,MAT,5,Seminar,0,PhilosophyCore
+Topics in Low Dimensional Topology: Symplectic techniques in low-dimensional topology,22408,MAT ,567,MAT,5,Class,2,Other
+Topics in Topology: Topology of 4-manifolds,22648,MAT ,569,MAT,5,Lecture,4,PhilosophyCore
+Topics in Ergodic Theory: Ergodic Theory and Dynamical Systems,22650,MAT ,587,MAT,5,Seminar,1,Other
+Topics in Mathematical Modeling: Mathematical Neuroscience,22839,MAT APC ,323 323 ,MAT,3,Class,2,PhilosophyCore
+Combinatorial Mathematics,21969,MAT APC ,377 377 ,MAT,3,Lecture,3,Other
+Mathematical Intro to Machine Learning,22954,MAT APC ,390 390 ,MAT,3,Seminar,0,PhilosophyCore
+Introduction to PDE,21970,MAT APC ,522 522 ,MAT,5,Class,3,Other
+Numerical Methods,21965,MAT APC MAT APC ,321 321 321 321 ,MAT,3,Lecture,2,PhilosophyCore
+Analysis II: Complex Analysis,21966,MAT MAT ,335 335 ,MAT,3,Seminar,3,Other
+The World of the Middle Ages,20435,MED HUM ,227 227 ,MED,2,Class,0,PhilosophyCore
+Laboratory in Molecular Biology,21001,MOL ,350,MOL,3,Lecture,3,Other
+Modern Microbiology and Disease,22939,MOL ,380A ,MOL,3,Seminar,1,PhilosophyCore
+Cellular Biochemistry,20377,MOL ,504,MOL,5,Class,2,Other
+Molecular Biology,20378,MOL ,514,MOL,5,Lecture,0,PhilosophyCore
+Research Projects in Molecular Biology,20379,MOL ,540,MOL,5,Seminar,2,Other
+Viruses: Strategy and Tactics,20380,MOL ,559,MOL,5,Class,3,PhilosophyCore
+Biotechnology,21002,MOL CBE GHP ,433 434 433 ,MOL,4,Lecture,0,Other
+Biochemistry,20986,MOL CHM ,345 345 ,MOL,3,Seminar,3,PhilosophyCore
+Intro to Cellular & Molecular Biology,20969,MOL EEB ,214 214 ,MOL,2,Class,3,Other
+Quantitative Principle in Cell & Mol Bio,20977,MOL EEB CBE ,215 215 215 ,MOL,2,Lecture,2,PhilosophyCore
+Viruses: Strategy and Tactics,21003,MOL GHP ,459 459 ,MOL,4,Seminar,4,Other
+"Diseases in Children:Causes,Costs,Choice",21007,MOL STC GHP ,460 460 460 ,MOL,4,Class,4,PhilosophyCore
+Laboratory Tech in Materials Sci & Engr,20871,MSE ,302,MSE,3,Lecture,3,Other
+Introduction to Materials,21761,MSE MAE CEE ,501 561 561 ,MSE,5,Seminar,3,PhilosophyCore
+Development of the Multi-Skilled Perform,20383,MTD THR MUS ,335 335 303 ,MTD,3,Class,1,Other
+Introduction to Music,20759,MUS ,103,MUS,1,Lecture,0,PhilosophyCore
+Music Theory Through Performance & Comp,20784,MUS ,105,MUS,1,Seminar,3,Other
+Species Counterpoint,20854,MUS ,205,MUS,2,Class,1,PhilosophyCore
+Projects in Instrumental Performance: Chamber Music,22069,MUS ,213,MUS,2,Lecture,3,Other
+Projects in Instrumental Performance: Chamber Music,23115,MUS ,213,MUS,2,Seminar,1,PhilosophyCore
+Projects in Instrumental Performance: Chamber Music,23116,MUS ,213,MUS,2,Class,2,Other
+Projects in Instrumental Performance: Chamber Music,23117,MUS ,213,MUS,2,Lecture,1,PhilosophyCore
+Projects in Instrumental Performance: Chamber Music,23118,MUS ,213,MUS,2,Seminar,3,Other
+Projects in Instrumental Performance: Chamber Music,23119,MUS ,213,MUS,2,Class,2,PhilosophyCore
+Projects in Instrumental Performance: Chamber Music,23120,MUS ,213,MUS,2,Lecture,1,Other
+Projects in Instrumental Performance: Chamber Music,23121,MUS ,213,MUS,2,Seminar,2,PhilosophyCore
+Projects in Instrumental Performance: Chamber Music,23122,MUS ,213,MUS,2,Class,4,Other
+Projects in Jazz Performance,21031,MUS ,215,MUS,2,Lecture,0,PhilosophyCore
+"Ballads, Blues, and Banjos: Folk Music",22735,MUS ,224,MUS,2,Seminar,3,Other
+Princeton University Steel Band,22845,MUS ,231,MUS,2,Class,1,PhilosophyCore
+Music of the Classical Period,21363,MUS ,236,MUS,2,Lecture,2,Other
+Musical Modernism 1890-1945,20918,MUS ,240,MUS,2,Seminar,1,PhilosophyCore
+Medieval & Renaissance Music,21163,MUS ,270,MUS,2,Class,0,Other
+Indep Instruct Voice/Instr (Non-credit),22076,MUS ,298,MUS,2,Lecture,4,PhilosophyCore
+Indep Instruct Voice/Instr (Non-credit),23007,MUS ,298,MUS,2,Seminar,2,Other
+Indep Instruct Voice/Instr (Non-credit),23008,MUS ,298,MUS,2,Class,4,PhilosophyCore
+Indep Instruct Voice/Instr (Non-credit),23009,MUS ,298,MUS,2,Lecture,1,Other
+Indep Instruct Voice/Instr (Non-credit),23010,MUS ,298,MUS,2,Seminar,0,PhilosophyCore
+Indep Instruct Voice/Instr (Non-credit),23011,MUS ,298,MUS,2,Class,1,Other
+Indep Instruct Voice/Instr (Non-credit),23017,MUS ,298,MUS,2,Lecture,4,PhilosophyCore
+Indep Instruct Voice/Instr (Non-credit),23018,MUS ,298,MUS,2,Seminar,3,Other
+Adv Workshop in Musical Composition,20937,MUS ,310,MUS,3,Class,2,PhilosophyCore
+Adv Concepts in Jazz Improvisation,22736,MUS ,340,MUS,3,Lecture,0,Other
+Music and Materiality,22846,MUS ,506,MUS,5,Seminar,0,PhilosophyCore
+Composition,20641,MUS ,531,MUS,5,Class,3,Other
+Ends and Means: Issues in Composition,20860,MUS ,534,MUS,5,Lecture,0,PhilosophyCore
+Points of Focus in 20th-Century Music,20814,MUS ,537,MUS,5,Seminar,2,Other
+Topics in the History of Opera: The Origins of Opera,21209,MUS COM ,515 517 ,MUS,5,Class,1,PhilosophyCore
+Computer and Electronic Music,20774,MUS COS ,314 314 ,MUS,3,Lecture,2,Other
+The Irish Oral Tradition,23131,MUS HUM ENG ,307 307 313 ,MUS,3,Seminar,4,PhilosophyCore
+Topics in Medieval Music: Ars Antiqua Polyphony,21366,MUS MED ,512 512 ,MUS,5,Class,4,Other
+Opera Performance,20864,MUS MTD ,219 219 ,MUS,2,Lecture,2,PhilosophyCore
+Contemporary Opera Performance,22743,MUS THR MTD ,325 346 325 ,MUS,3,Seminar,2,Other
+Seminar in Research Methods,20265,NES ,300,NES,3,Class,1,PhilosophyCore
+War and Politics in Modern Middle East,20333,NES ,315,NES,3,Lecture,2,Other
+Islamic Family Law,20291,NES ,347,NES,3,Seminar,4,PhilosophyCore
+Zoroastrianism in Islamic Context,22742,NES ,367,NES,3,Class,1,Other
+Jihadism in the Modern Middle East,22245,NES ,385,NES,3,Lecture,2,PhilosophyCore
+The Professional Study of the Near East,20250,NES ,500,NES,5,Seminar,3,Other
+Introduction to Ottoman Turkish,20159,NES ,504,NES,5,Class,3,PhilosophyCore
+Geography & Travel in the Islamic World,22747,NES ,533,NES,5,Lecture,3,Other
+Studies in Islamic Religion and Thought,20290,NES ,553,NES,5,Seminar,4,PhilosophyCore
+"Studies in Modern Arab History: Readings in Islamic Revivalism, Islamist Politics and Law",20172,NES ,561,NES,5,Class,1,Other
+Comparative Transformations,20341,NES ,563,NES,5,Lecture,1,PhilosophyCore
+Introduction to the Middle East,20160,NES HIS ,201 223 ,NES,2,Seminar,0,Other
+Introduction to Arabic Documents,22746,NES HIS ,547 546 ,NES,5,Class,0,PhilosophyCore
+The World of the Cairo Geniza,22740,NES HIS JDS ,251 251 251 ,NES,2,Lecture,1,Other
+Intro to the Islamic Scholarly Tradition,20173,NES MED ,502 502 ,NES,5,Seminar,2,PhilosophyCore
+Muslims and the Qur'an,20164,NES REL ,240 240 ,NES,2,Class,3,Other
+Mathematical Tools for Neuroscience,20312,NEU ,314,NEU,3,Lecture,3,PhilosophyCore
+Measurement and Analysis of Neural Circu,22952,NEU ,457,NEU,4,Seminar,0,Other
+Neuroscience: from molecules to systems,20318,NEU MOL ,501A 501A ,NEU,5,Class,1,PhilosophyCore
+Neuroscience: from molecules to systems,20319,NEU MOL ,501B 501B ,NEU,5,Lecture,3,Other
+Fundamentals of Neuroscience,20293,NEU PSY ,201 258 ,NEU,2,Seminar,2,PhilosophyCore
+Dynamics in Cognition,22965,NEU PSY ,422 422 ,NEU,4,Class,1,Other
+Current Issues/Neuroscience & Behavior,20321,NEU PSY ,511 511 ,NEU,5,Lecture,0,PhilosophyCore
+Analysis of Big Data,20235,ORF ,350,ORF,3,Seminar,2,Other
+Independent Research Project,20222,ORF ,375,ORF,3,Class,1,PhilosophyCore
+Regression & Applied Time Series,20212,ORF ,405,ORF,4,Lecture,0,Other
+Introduction to Monte Carlo Simulation,20223,ORF ,409,ORF,4,Seminar,3,PhilosophyCore
+Financial Risk Management,20218,ORF ,435,ORF,4,Class,1,Other
+Energy and Commodities Markets,20243,ORF ,455,ORF,4,Lecture,2,PhilosophyCore
+Transportation Systems Analysis,20219,ORF ,467,ORF,4,Seminar,3,Other
+Directed Research I,20190,ORF ,509,ORF,5,Class,2,PhilosophyCore
+Linear and Nonlinear Optimization,20186,ORF ,522,ORF,5,Lecture,4,Other
+Statistical Theory and Methods,20187,ORF ,524,ORF,5,Seminar,1,PhilosophyCore
+Probability Theory,20188,ORF ,526,ORF,5,Class,1,Other
+Stochastic Optimization,22929,ORF ,544,ORF,5,Lecture,2,PhilosophyCore
+Computing and Optimization,20211,ORF COS ,363 323 ,ORF,3,Seminar,2,Other
+Fundamentals of Statistics,20199,ORF EGR ,245 245 ,ORF,2,Class,2,PhilosophyCore
+Probability and Stochastic Systems,20204,ORF EGR MAT ,309 309 380 ,ORF,3,Lecture,4,Other
+Statistical Analysis of Financial Data,20196,ORF FIN ,505 505 ,ORF,5,Seminar,2,PhilosophyCore
+Computational Finance in C++,23153,ORF FIN ,531 531 ,ORF,5,Class,4,Other
+Financial Risk Management,20189,ORF FIN ,535 535 ,ORF,5,Lecture,0,PhilosophyCore
+Elementary Persian I,20155,PER ,101,PER,1,Seminar,2,Other
+Intermediate Persian I,20157,PER ,105,PER,1,Class,0,PhilosophyCore
+Advanced Persian Reading I,20158,PER ,302,PER,3,Lecture,3,Other
+Intro to Metaphysics & Epistemology,21899,PHI ,203,PHI,2,Seminar,0,PhilosophyCore
+Personal Identity,21937,PHI ,311,PHI,3,Class,4,Other
+Theory of Knowledge,22020,PHI ,313,PHI,3,Lecture,1,PhilosophyCore
+Relativism,22804,PHI ,337,PHI,3,Seminar,1,Other
+Philosophical Logic,22100,PHI ,340,PHI,3,Class,2,PhilosophyCore
+Ethics: Recent Work on Responsibility,21985,PHI ,525,PHI,5,Lecture,0,Other
+Philosophical Problems in Logic: Opacity,22922,PHI ,532,PHI,5,Seminar,3,PhilosophyCore
+Philosophy of Mind: Recent Work on the Mind-Body Problem,21987,PHI ,535,PHI,5,Class,0,Other
+Theory of Knowledge: Knowledge and Rationality,21996,PHI ,539,PHI,5,Lecture,4,PhilosophyCore
+First Year Philosophy Graduate Seminar: Classic Papers in Analytic Philosophy,22002,PHI ,550,PHI,5,Seminar,2,Other
+Dissertation Seminar,22004,PHI ,599,PHI,5,Class,2,PhilosophyCore
+Introduction to Philosophy of Cognitive,22857,PHI CGS ,207 207 ,PHI,2,Lecture,2,Other
+Normative Ethics,22025,PHI CHV ,319 319 ,PHI,3,Seminar,3,PhilosophyCore
+Explaining Values,22105,PHI CHV ,380 380 ,PHI,3,Class,2,Other
+The Philosophy of Aristotle: Nicomachean Ethics Book V,21984,PHI CLA HLS ,501 519 508 ,PHI,5,Lecture,2,PhilosophyCore
+Nietzsche,21932,PHI COM ,306 393 ,PHI,3,Seminar,0,Other
+Introductory Physics I,21485,PHY ,101,PHY,1,Class,4,PhilosophyCore
+General Physics I,21493,PHY ,103,PHY,1,Lecture,1,Other
+General Physics I,21494,PHY ,103,PHY,1,Seminar,0,PhilosophyCore
+Classical Mechanics,21511,PHY ,205,PHY,2,Class,2,Other
+Mechanics and Waves,21512,PHY ,207,PHY,2,Lecture,1,PhilosophyCore
+Computational Physics Seminar,21513,PHY ,209,PHY,2,Seminar,0,Other
+Thermal Physics,21516,PHY ,301,PHY,3,Class,1,PhilosophyCore
+Introduction to Quantum Theory,21517,PHY ,305,PHY,3,Lecture,0,Other
+Modern Physics I: Condensed-Matter,22604,PHY ,405,PHY,4,Seminar,1,PhilosophyCore
+Biological Physics,22937,PHY ,412,PHY,4,Class,1,Other
+Introduction to Condensed Matter Physics,23128,PHY ,425,PHY,4,Lecture,0,PhilosophyCore
+Classical Mech: Princ/Prob (Half-Term),21143,PHY ,503,PHY,5,Seminar,2,Other
+Electromagnetism: Princ/Prob (Half-Term),21144,PHY ,504,PHY,5,Class,1,PhilosophyCore
+Quantum Field Theory,21146,PHY ,509,PHY,5,Lecture,3,Other
+Quantum Mechanics: Princ/Prob(Half-Term),21149,PHY ,513,PHY,5,Seminar,0,PhilosophyCore
+Statistical Physics (Half-Term),21145,PHY ,514,PHY,5,Class,3,Other
+Introduction to Relativity,21147,PHY ,523,PHY,5,Lecture,2,PhilosophyCore
+Introduction to Condensed Matter Physics,21148,PHY ,525,PHY,5,Seminar,2,Other
+"Topics-Theoretical High-Energy Physics: Strings, Black Holes and Gauge Theories",21150,PHY ,540,PHY,5,Class,4,PhilosophyCore
+Electronic Meth in Experimental Physics,21151,PHY ,557,PHY,5,Lecture,2,Other
+Electronic Methods in Experimental Physi,22605,PHY ,558,PHY,5,Seminar,0,PhilosophyCore
+Physics for Future Leaders,21518,PHY STC ,115A 115A ,PHY,1,Class,4,Other
+Physics for Future Leaders,21519,PHY STC ,115B 115B ,PHY,1,Lecture,3,PhilosophyCore
+Beginning Polish I,21353,PLS ,101,PLS,1,Seminar,3,Other
+Constitutional Interpretation,21876,POL ,315,POL,3,Class,1,PhilosophyCore
+The Presidency and Executive Power,23003,POL ,325,POL,3,Lecture,1,Other
+Mass Media and American Politics,21988,POL ,327,POL,3,Seminar,0,PhilosophyCore
+Topics in American Statesmanship: Abraham Lincoln,21670,POL ,332,POL,3,Class,1,Other
+Political Economy,21999,POL ,349,POL,3,Lecture,1,PhilosophyCore
+International Political Economy,22184,POL ,385,POL,3,Seminar,2,Other
+Intern'l Intervention and Use of Force,22162,POL ,387,POL,3,Class,3,PhilosophyCore
+Causes of War,22174,POL ,388,POL,3,Lecture,4,Other
+Seminar in American Politics: Race and Ethnicity in Comparative Context,21686,POL ,421,POL,4,Seminar,1,PhilosophyCore
+Seminar in International Relations: Conflict and Cooperation in International Politics- Security and Trade,22183,POL ,441,POL,4,Class,3,Other
+Seminar in International Relations: The Military Instrument of Foreign Policy,22908,POL ,443,POL,4,Lecture,4,PhilosophyCore
+Mathematics for Political Science,21612,POL ,502,POL,5,Seminar,0,Other
+Survey Analysis,21623,POL ,503,POL,5,Class,0,PhilosophyCore
+Qualitative Methods,22459,POL ,506,POL,5,Lecture,2,Other
+Problems in Political Theory: Self-Determination,21620,POL ,511,POL,5,Seminar,0,PhilosophyCore
+The Study of Comparative Politics,21621,POL ,521,POL,5,Class,4,Other
+Authoritarian Politics,22745,POL ,527,POL,5,Lecture,1,PhilosophyCore
+Rise of Authoritarian Constitutionalism,22829,POL ,531,POL,5,Seminar,1,Other
+Comparative Ethnic Politics,22467,POL ,532,POL,5,Class,1,PhilosophyCore
+American Political Institutions,22566,POL ,542,POL,5,Lecture,2,Other
+Political Psychology,21624,POL ,548,POL,5,Seminar,1,PhilosophyCore
+Seminar in International Politics,21622,POL ,551,POL,5,Class,1,Other
+Quantitative Analysis I,21616,POL ,571,POL,5,Lecture,4,PhilosophyCore
+Formal Political Analysis II,21614,POL ,576,POL,5,Seminar,3,Other
+Directed Research,22469,POL ,591,POL,5,Class,2,PhilosophyCore
+History of African American Political,21885,POL AAS AMS ,319 316 391 ,POL,3,Lecture,3,Other
+Global Justice,21872,POL CHV ,313 313 ,POL,3,Seminar,3,PhilosophyCore
+The Ethics of Borders and Migration,22182,POL CHV ,405 406 ,POL,4,Class,0,Other
+"Civil Disobedience, Protest & Resistance",22826,POL CHV ,415 415 ,POL,4,Lecture,0,PhilosophyCore
+Ancient & Medieval Political Theory,21864,POL CLA HLS ,301 301 303 ,POL,3,Seminar,1,Other
+Ancient and Medieval Political Texts,23156,POL CLA HLS ,510 527 509 ,POL,5,Class,3,PhilosophyCore
+Intro. to Quantitative Social Science,21997,POL SOC ,345 305 ,POL,3,Lecture,3,Other
+Quantitative Analysis III,22455,POL SOC ,573 595 ,POL,5,Seminar,4,PhilosophyCore
+American Politics,21856,POL WWS ,220 310 ,POL,2,Class,2,Other
+The Politics of Development,22109,POL WWS ,351 311 ,POL,3,Lecture,3,PhilosophyCore
+Chinese Politics,22113,POL WWS EAS ,362 323 362 ,POL,3,Seminar,4,Other
+Evaluation of Demographic Research,23157,POP ,503,POP,5,Class,3,PhilosophyCore
+Survey of Population Problems,23062,POP SOC ,501 531 ,POP,5,Lecture,1,Other
+Generalized Linear Statistical Models,20001,POP WWS ,507 509 ,POP,5,Seminar,2,PhilosophyCore
+Introduction to Portuguese I,21638,POR ,101,POR,1,Class,1,Other
+Intro Portuguese for Spanish Speakers,21644,POR ,108,POR,1,Lecture,2,PhilosophyCore
+Intro Portuguese for Spanish Speakers,21645,POR ,108,POR,1,Seminar,0,Other
+Intro Portuguese for Spanish Speakers,21646,POR ,108,POR,1,Class,0,PhilosophyCore
+Intro Portuguese for Spanish Speakers,21647,POR ,108,POR,1,Lecture,1,Other
+Intermediate Portuguese,21651,POR ,109,POR,1,Seminar,2,PhilosophyCore
+Intermediate Portuguese,21652,POR ,109,POR,1,Class,3,Other
+Intensive Portuguese,21653,POR ,110,POR,1,Lecture,4,PhilosophyCore
+Portuguese Lang and Culture,21654,POR ,208,POR,2,Seminar,4,Other
+Topics Brazilian Cultural/Social History: Sound and Sense,21311,POR LAS ,304 311 ,POR,3,Class,3,PhilosophyCore
+Screening Saudade,21655,POR LAS ,308 378 ,POR,3,Lecture,3,Other
+Luso-Brazilian Seminar-Visual Arts & the,22760,POR LAS ,563 565 ,POR,5,Seminar,4,PhilosophyCore
+Introduction to Psychology,20335,PSY ,101,PSY,1,Class,0,Other
+Psychopathology,22606,PSY ,207,PSY,2,Lecture,3,PhilosophyCore
+Social Psychology,20437,PSY ,252,PSY,2,Seminar,2,Other
+Research Methods in Psychology,20465,PSY ,300,PSY,3,Class,1,PhilosophyCore
+Educational Psychology,20469,PSY ,307,PSY,3,Lecture,0,Other
+Psychology of Face Perception,20481,PSY ,411,PSY,4,Seminar,2,PhilosophyCore
+Proseminar: Cognitive Psychology,20436,PSY ,501,PSY,5,Class,4,Other
+Research Seminar in Cognitive Psychology,20450,PSY ,543,PSY,5,Lecture,4,PhilosophyCore
+Social Psychological Research,20464,PSY ,551,PSY,5,Seminar,2,Other
+Developmental Psychology,20451,PSY CGS ,254 254 ,PSY,2,Class,2,PhilosophyCore
+Psychology of Language,20470,PSY LIN ,309 309 ,PSY,3,Lecture,0,Other
+Neuroeconomics,22744,PSY NEU ,340 340 ,PSY,3,Seminar,3,PhilosophyCore
+Sensation and Perception,20474,PSY NEU ,345 325 ,PSY,3,Class,3,Other
+Responsible Conduct of Research (Half-Te,20468,PSY NEU ,591A 591A ,PSY,5,Lecture,0,PhilosophyCore
+Research Topics in QCB,21610,QCB ,302,QCB,3,Seminar,4,Other
+Genomics & Computational Mol Bio,22192,QCB MOL COS ,455 455 455 ,QCB,4,Class,2,PhilosophyCore
+Topics in Biophysics & Quantitative Bio: Statistical Mechanics for Real Biological Networks,21656,QCB PHY ,505 555 ,QCB,5,Lecture,1,Other
+Method and Logic in Quantitative Biology,21600,QCB PHY EEB CHM MOL ,515 570 517 517 515 ,QCB,5,Seminar,1,PhilosophyCore
+The Buddhist World of Thought & Practice,21840,REL ,225,REL,2,Class,1,Other
+Jesus: How Christianity Began,21832,REL ,252,REL,2,Lecture,3,PhilosophyCore
+The Theology of Thomas Aquinas,22836,REL ,293,REL,2,Seminar,4,Other
+Mind and Meditation,21822,REL ,324,REL,3,Class,2,PhilosophyCore
+Madness and the Medicalization,22752,REL ,394,REL,3,Lecture,1,Other
+Junior Colloquium (Non-credit),21830,REL ,399,REL,3,Seminar,0,PhilosophyCore
+Religion& the Tradition of Social Theory,21850,REL ,501,REL,5,Class,2,Other
+Studies in Greco-Roman Religions: Introduction to Judaism in the Greco-Roman World,21805,REL ,504,REL,5,Lecture,1,PhilosophyCore
+Studies in the Religions of the Americas: Religion in America to 1865,21838,REL ,505,REL,5,Seminar,0,Other
+"Special Topics in the Study of Religion: ""God-less"": The History of Atheism in America",21804,REL ,510,REL,5,Class,2,PhilosophyCore
+Special Topics in the Study of Religion: Papyrology and Late Antique History,21926,REL ,511,REL,5,Lecture,2,Other
+Religion and Critical Thought Workshop,21689,REL ,518,REL,5,Seminar,1,PhilosophyCore
+Religion and Culture Workshop,21892,REL ,521,REL,5,Class,2,Other
+Religion in the Americas Workshop,21839,REL ,523,REL,5,Lecture,4,PhilosophyCore
+Religions of Late Antiquity,21837,REL ,525,REL,5,Seminar,4,Other
+Studies in Japanese Religions: Issues in Scholarship,21847,REL ,534,REL,5,Class,1,PhilosophyCore
+African American Religious History,21690,REL AAS ,256 256 ,REL,2,Lecture,4,Other
+Race and Religion in America,21851,REL AAS AMS ,377 376 378 ,REL,3,Seminar,1,PhilosophyCore
+"""Cult"" Controversies in America",22749,REL AMS ,271 341 ,REL,2,Class,2,Other
+"Migration, Religion, and Literature",22751,REL HUM JDS COM ,330 330 331 382 ,REL,3,Lecture,2,PhilosophyCore
+Who Wrote the Bible,21854,REL JDS ,230 230 ,REL,2,Seminar,4,Other
+Ancient Judaism: Alexander to Islam,21824,REL JDS ,246 246 ,REL,2,Class,3,PhilosophyCore
+Jewish Ethics,22753,REL JDS ,398 398 ,REL,3,Lecture,2,Other
+Studies in the History of Islam: Legal Categories and Social Realities,21831,REL NES ,509 510 ,REL,5,Seminar,3,PhilosophyCore
+Beginner's Russian I,21347,RUS ,101,RUS,1,Class,3,Other
+Beginner's Russian I,21348,RUS ,101,RUS,1,Lecture,2,PhilosophyCore
+Beginner's Russian I,21349,RUS ,101,RUS,1,Seminar,2,Other
+Russian for Heritage Speakers,21023,RUS ,103,RUS,1,Class,4,PhilosophyCore
+Intermediate Russian I,21351,RUS ,105,RUS,1,Lecture,1,Other
+Advanced Russian Reading/Conversation I,20556,RUS ,207,RUS,2,Seminar,3,PhilosophyCore
+Russian for Academic Purposes I,21383,RUS ,549,RUS,5,Class,4,Other
+Elementary Sanskrit I,22210,SAN ,101,SAN,1,Lecture,1,PhilosophyCore
+Intermediate Sanskrit I,22212,SAN ,105,SAN,1,Seminar,2,Other
+Mythology of Classical India,22220,SAS ,332,SAS,3,Class,2,PhilosophyCore
+Popular Trends in South Asian Literature,21550,SAS COM ,340 322 ,SAS,3,Lecture,1,Other
+Islam in South Asia: Literary Perspectiv,22219,SAS REL ,345 345 ,SAS,3,Seminar,3,PhilosophyCore
+Photographic Modernisms: Russia and the,22838,SLA COM ,509 505 ,SLA,5,Class,3,Other
+History of Emotions: Russia and the West,22843,SLA COM ,510 507 ,SLA,5,Lecture,4,PhilosophyCore
+"Pushkin, Gogol, Dostoevsky: Introduction",21338,SLA RES ,219 219 ,SLA,2,Seminar,1,Other
+Russian Drama,20844,SLA RES ,312 312 ,SLA,3,Class,3,PhilosophyCore
+Introduction to Data Science,22342,SML ,201,SML,2,Lecture,3,Other
+Introduction to Data Science,22343,SML ,201,SML,2,Seminar,4,PhilosophyCore
+Introduction to Sociology,20384,SOC ,101,SOC,1,Class,3,Other
+Sociology of Religion,21762,SOC ,211,SOC,2,Lecture,0,PhilosophyCore
+Claims and Evidence in Sociology,20422,SOC ,300,SOC,3,Seminar,3,Other
+"Studying Local, Writing Ethnography",21983,SOC ,330,SOC,3,Class,0,PhilosophyCore
+SOC of Social Movements in the U.S.,22754,SOC ,334,SOC,3,Lecture,4,Other
+"Sociology of the Cubicle: Work, Tech.",20428,SOC ,346,SOC,3,Seminar,1,PhilosophyCore
+Applied Social Statistics,20637,SOC ,400,SOC,4,Class,2,Other
+Simulating Social Processes:,22844,SOC ,411,SOC,4,Lecture,0,PhilosophyCore
+Applied Social Statistics,20009,SOC ,500,SOC,5,Seminar,2,Other
+Classical Sociological Theory,20012,SOC ,501,SOC,5,Class,2,PhilosophyCore
+Seminar in Empirical Investigation,20013,SOC ,505,SOC,5,Lecture,2,Other
+Religion and Public Life,20015,SOC ,527,SOC,5,Seminar,3,PhilosophyCore
+Economic Sociology (Half-Term),21549,SOC ,541,SOC,5,Class,1,Other
+Workshop on Social Organization,20018,SOC ,549,SOC,5,Lecture,2,PhilosophyCore
+Organizational Ethnography (Half-Term),22833,SOC ,559,SOC,5,Seminar,1,Other
+Urban Sociology,20402,SOC LAS URB LAO ,210 210 210 210 ,SOC,2,Class,2,PhilosophyCore
+Res Ethics & Sci Integrity (Half-Term),20014,SOC POP ,506 506 ,SOC,5,Lecture,2,Other
+Race and Ethnicity,20392,SOC URB ,227 227 ,SOC,2,Seminar,4,PhilosophyCore
+Beginner's Spanish I,21531,SPA ,101,SPA,1,Class,1,Other
+Beginner's Spanish I,22785,SPA ,101,SPA,1,Lecture,0,PhilosophyCore
+Beginner's Spanish I,21532,SPA ,101,SPA,1,Seminar,2,Other
+Beginner's Spanish I,22786,SPA ,101,SPA,1,Class,3,PhilosophyCore
+Beginner's Spanish I,22787,SPA ,101,SPA,1,Lecture,2,Other
+Beginner's Spanish I,22788,SPA ,101,SPA,1,Seminar,1,PhilosophyCore
+Beginner's Spanish I,21533,SPA ,101,SPA,1,Class,1,Other
+Beginner's Spanish I,21534,SPA ,101,SPA,1,Lecture,1,PhilosophyCore
+Beginner's Spanish I,22789,SPA ,101,SPA,1,Seminar,3,Other
+Beginner's Spanish I,22790,SPA ,101,SPA,1,Class,4,PhilosophyCore
+Beginner's Spanish I,22791,SPA ,101,SPA,1,Lecture,1,Other
+Beginner's Spanish I,22792,SPA ,101,SPA,1,Seminar,3,PhilosophyCore
+Beginner's Spanish I,21535,SPA ,101,SPA,1,Class,4,Other
+Intensive Beginner's & Intermed Spanish,21538,SPA ,103,SPA,1,Lecture,2,PhilosophyCore
+Intensive Beginner's & Intermed Spanish,21536,SPA ,103,SPA,1,Seminar,1,Other
+Intensive Beginner's & Intermed Spanish,22793,SPA ,103,SPA,1,Class,0,PhilosophyCore
+Intensive Beginner's & Intermed Spanish,21537,SPA ,103,SPA,1,Lecture,4,Other
+Intensive Beginner's & Intermed Spanish,22794,SPA ,103,SPA,1,Seminar,2,PhilosophyCore
+Intensive Beginner's & Intermed Spanish,22795,SPA ,103,SPA,1,Class,4,Other
+Intensive Beginner's & Intermed Spanish,21539,SPA ,103,SPA,1,Lecture,4,PhilosophyCore
+Intermediate Spanish,21541,SPA ,105,SPA,1,Seminar,0,Other
+Intermediate Spanish,21542,SPA ,105,SPA,1,Class,0,PhilosophyCore
+Intermediate Spanish,21545,SPA ,105,SPA,1,Lecture,4,Other
+Intermediate Spanish,21543,SPA ,105,SPA,1,Seminar,1,PhilosophyCore
+Intermediate Spanish,21544,SPA ,105,SPA,1,Class,2,Other
+Intermediate Spanish,21546,SPA ,105,SPA,1,Lecture,0,PhilosophyCore
+Intermediate Spanish,21547,SPA ,105,SPA,1,Seminar,4,Other
+Intermediate/Advanced Spanish,21555,SPA ,107,SPA,1,Class,4,PhilosophyCore
+Intermediate/Advanced Spanish,21554,SPA ,107,SPA,1,Lecture,2,Other
+Intermediate/Advanced Spanish,21562,SPA ,107,SPA,1,Seminar,1,PhilosophyCore
+Intermediate/Advanced Spanish,21556,SPA ,107,SPA,1,Class,4,Other
+Intermediate/Advanced Spanish,21557,SPA ,107,SPA,1,Lecture,1,PhilosophyCore
+Intermediate/Advanced Spanish,21563,SPA ,107,SPA,1,Seminar,4,Other
+Intermediate/Advanced Spanish,21564,SPA ,107,SPA,1,Class,1,PhilosophyCore
+Intermediate/Advanced Spanish,21565,SPA ,107,SPA,1,Lecture,1,Other
+Intermediate/Advanced Spanish,23031,SPA ,107,SPA,1,Seminar,0,PhilosophyCore
+Intermediate/Advanced Spanish,21566,SPA ,107,SPA,1,Class,1,Other
+Advanced Spanish,21573,SPA ,108,SPA,1,Lecture,4,PhilosophyCore
+Advanced Spanish,21574,SPA ,108,SPA,1,Seminar,1,Other
+Advanced Spanish,21583,SPA ,108,SPA,1,Class,1,PhilosophyCore
+Advanced Spanish,21575,SPA ,108,SPA,1,Lecture,1,Other
+Advanced Spanish,21576,SPA ,108,SPA,1,Seminar,0,PhilosophyCore
+Advanced Spanish,21584,SPA ,108,SPA,1,Class,4,Other
+Medical Spanish,21585,SPA ,205,SPA,2,Lecture,3,PhilosophyCore
+Medical Spanish,21603,SPA ,205,SPA,2,Seminar,0,Other
+Studies in Spanish Language and Style,21605,SPA ,207,SPA,2,Class,3,PhilosophyCore
+Studies in Spanish Language and Style,21604,SPA ,207,SPA,2,Lecture,1,Other
+Studies in Spanish Language and Style,21606,SPA ,207,SPA,2,Seminar,4,PhilosophyCore
+Studies in Spanish Language and Style,21609,SPA ,207,SPA,2,Class,3,Other
+Spanish Lang and Culture Through Cinema,21631,SPA ,209,SPA,2,Lecture,3,PhilosophyCore
+Spanish Lang and Culture Through Cinema,22796,SPA ,209,SPA,2,Seminar,1,Other
+Spanish Lang and Culture Through Cinema,21632,SPA ,209,SPA,2,Class,2,PhilosophyCore
+Spanish Lang and Culture Through Cinema,22797,SPA ,209,SPA,2,Lecture,4,Other
+Advanced Spanish Language and Style,21636,SPA ,307,SPA,3,Seminar,0,PhilosophyCore
+Advanced Spanish Language and Style,21637,SPA ,307,SPA,3,Class,0,Other
+Advanced Spanish Language and Style,23060,SPA ,307,SPA,3,Lecture,2,PhilosophyCore
+Seminar in Medieval Spanish Literature: Foundational Fictions,20866,SPA ,534,SPA,5,Seminar,4,Other
+"Seminar in Modern Spanish Literature: Repression and resistance in Spain, 1950-1975",20867,SPA ,543,SPA,5,Class,0,PhilosophyCore
+Synthetic Skin,21068,SPA ,554,SPA,5,Lecture,0,Other
+Contemporary Issues in Spain,21359,SPA EPS URB ,227 227 237 ,SPA,2,Seminar,0,PhilosophyCore
+Hispanic Studies: Cultural Analysis,21355,SPA LAS ,224 224 ,SPA,2,Class,3,Other
+Shipwreck and Other Disasters,21894,SPA LAS ,235 235 ,SPA,2,Lecture,4,PhilosophyCore
+Identity in the Hispanic World,21895,SPA LAS ,250 250 ,SPA,2,Seminar,4,Other
+Topics in Latin American Modernity: Latin American Literature after Latin America,21429,SPA LAS ,342 342 ,SPA,3,Class,4,PhilosophyCore
+Narrative Prose in Latin America: Cuban Cultural History 1868-2017,21017,SPA LAS ,547 547 ,SPA,5,Lecture,4,Other
+Topics in Latin Am. Cultural Studies: Spectacles of Nature: Patagonia and the Tropics,22133,SPA LAS ENV ,350 349 351 ,SPA,3,Seminar,3,PhilosophyCore
+Radical Women in Latin America,22236,SPA LAS LAO ,329 389 389 ,SPA,3,Class,3,Other
+Junior Seminar,21428,SPA POR LAS ,330 330 390 ,SPA,3,Lecture,4,PhilosophyCore
+Spanish-English Translation,21634,SPA TRA ,210 210 ,SPA,2,Seminar,2,Other
+Elementary Swahili I,21579,SWA ,101,SWA,1,Class,4,PhilosophyCore
+Intermediate Swahili I,21580,SWA ,105,SWA,1,Lecture,4,Other
+Introduction to Theater Making,22765,THR ,101,THR,1,Seminar,4,PhilosophyCore
+Community-Based Performance,20965,THR ,337,THR,3,Class,3,Other
+Autobiographical Storytelling,21029,THR CWR AAS HUM THR CWR AAS HUM ,340 340 343 340 340 340 343 340 ,THR,3,Lecture,3,PhilosophyCore
+Storytelling with Technology for Perform,22768,THR STC ,210A 210A ,THR,2,Seminar,0,Other
+Storytelling with Technology for Perform,22766,THR STC ,210B 210B ,THR,2,Class,1,PhilosophyCore
+Beginning Studies in Acting,21172,THR THR ,201 201 ,THR,2,Lecture,4,Other
+Introductory Playwriting,20944,THR THR ,205 205 ,THR,2,Seminar,3,PhilosophyCore
+Intermediate Studies in Acting,21174,THR THR ,301 301 ,THR,3,Class,0,Other
+Directing Workshop,20945,THR THR ,411 411 ,THR,4,Lecture,2,PhilosophyCore
+Theatrical Design Studio,20964,THR VIS ,400 400 ,THR,4,Seminar,0,Other
+Student Learning & Methods for Teaching,22397,TPP ,301,TPP,3,Class,2,PhilosophyCore
+Seminar on Education-Theory and Practice,22399,TPP ,401,TPP,4,Lecture,0,Other
+Practice Teaching,22400,TPP ,402,TPP,4,Seminar,3,PhilosophyCore
+Senior Seminar in Translation,21666,TRA COM ,400 409 ,TRA,4,Class,3,Other
+Thinking Translation: Language Transfer,21586,TRA COM HUM ,200 209 209 ,TRA,2,Lecture,4,PhilosophyCore
+Elementary Turkish I,20153,TUR ,101,TUR,1,Seminar,2,Other
+Intermediate Turkish I,20154,TUR ,105,TUR,1,Class,0,PhilosophyCore
+Elementary Twi I,21567,TWI ,101,TWI,1,Lecture,2,Other
+Intermediate Twi I,21570,TWI ,105,TWI,1,Seminar,1,PhilosophyCore
+Documentary Film and the City,21640,URB HIS HUM VIS ,202 202 202 200 ,URB,2,Class,0,Other
+Urban Studies Research Seminar,21540,URB HUM ARC WWS ,300 300 300 392 ,URB,3,Lecture,4,PhilosophyCore
+Mapping Gentrification,21548,URB SOC HUM ARC ,385 385 385 385 ,URB,3,Seminar,2,Other
+Urbanism and Urban Policy,20342,URB WWS SOC ,200 210 200 ,URB,2,Class,4,PhilosophyCore
+Intermediate Urdu I,22216,URD ,105,URD,1,Lecture,1,Other
+Analog Photography,21434,VIS ,211,VIS,2,Seminar,2,PhilosophyCore
+Digital Photography,21435,VIS ,213,VIS,2,Class,4,Other
+Digital Photography,21436,VIS ,213,VIS,2,Lecture,4,PhilosophyCore
+Digital Photography,21437,VIS ,213,VIS,2,Seminar,1,Other
+Digital Animation,22830,VIS ,220,VIS,2,Class,4,PhilosophyCore
+Narrative Filmmaking,21451,VIS ,264,VIS,2,Lecture,2,Other
+Short Comedy Filmmaking,22823,VIS ,308,VIS,3,Seminar,0,PhilosophyCore
+Portraiture Photography,21441,VIS ,315,VIS,3,Class,1,Other
+Art As Research,21442,VIS ,322,VIS,3,Lecture,1,PhilosophyCore
+Advanced Drawing: The Figure,21445,VIS ,401,VIS,4,Seminar,3,Other
+Exhibition Issues and Methods,21446,VIS ,416,VIS,4,Class,4,PhilosophyCore
+Film Blackness,22951,VIS AAS ,307 307 ,VIS,3,Lecture,1,Other
+Graphic Design,21438,VIS ARC CWR VIS ARC CWR ,214 214 214 214 214 214 ,VIS,2,Seminar,3,PhilosophyCore
+Drawing I,21430,VIS ARC VIS ARC ,201 201 201 201 ,VIS,2,Class,2,Other
+Drawing I,21431,VIS ARC VIS ARC ,201 201 201 201 ,VIS,2,Lecture,2,PhilosophyCore
+Painting I,21432,VIS ARC VIS ARC ,203 327 203 327 ,VIS,2,Seminar,4,Other
+Painting I,21433,VIS ARC VIS ARC ,203 327 203 327 ,VIS,2,Class,3,PhilosophyCore
+Issues in Contemporary Art,21443,VIS ART ,392 392 ,VIS,3,Lecture,1,Other
+Extraordinary Processes,21447,VIS CEE ,418 418 ,VIS,4,Seminar,1,PhilosophyCore
+Graphic Design: Typography,21449,VIS CWR VIS CWR ,215 215 215 215 ,VIS,2,Class,2,Other
+Directing and Acting for the Screen,22835,VIS THR ,324 345 ,VIS,3,Lecture,4,PhilosophyCore
+Graphic Design: Visual Form,21439,VIS VIS ,216 216 ,VIS,2,Seminar,3,Other
+Introductory Sculpture,21440,VIS VIS ,221 221 ,VIS,2,Class,4,PhilosophyCore
+Documentary Filmmaking,21444,VIS VIS ,263 263 ,VIS,2,Lecture,0,Other
+U.S. Military/National and International,20943,WWS ,318,WWS,3,Seminar,4,PhilosophyCore
+Insurgency and Counterinsurgency,21893,WWS ,320,WWS,3,Class,4,Other
+Extramural Public Policy Fellowship,23132,WWS ,500,WWS,5,Lecture,3,PhilosophyCore
+The Politics of Public Policy,22358,WWS ,501,WWS,5,Seminar,2,Other
+Management of Non-Profit Organizations,23133,WWS ,503,WWS,5,Class,1,PhilosophyCore
+Quantitative Analysis for Policymakers,22359,WWS ,507B ,WWS,5,Lecture,1,Other
+Quant. Analysis for Policymakers (Adv),22362,WWS ,507C ,WWS,5,Seminar,2,PhilosophyCore
+Microeconomic Analysis for Policymakers,22364,WWS ,511B ,WWS,5,Class,0,Other
+Microecon. Analysis for Policy (Adv),22367,WWS ,511C ,WWS,5,Lecture,0,PhilosophyCore
+Program and Policy Evaluation,22370,WWS ,515B ,WWS,5,Seminar,0,Other
+Domestic Politics,22371,WWS ,521,WWS,5,Class,3,PhilosophyCore
+Microeconomic Analysis/Domestic Policy,22372,WWS ,522,WWS,5,Lecture,3,Other
+Advanced Macroeconomics,22383,WWS ,524,WWS,5,Seminar,4,PhilosophyCore
+Topics in Domestic Policy Analysis: Implementing Urban Economic Development,22387,WWS ,527A ,WWS,5,Class,0,Other
+Domestic Policy Analysis: Social Entrepreneurship and Innovation,23149,WWS ,528F ,WWS,5,Lecture,4,PhilosophyCore
+Great Leadership in Hist. Perspective,22373,WWS ,529,WWS,5,Seminar,3,Other
+Planning Methods,22388,WWS ,535,WWS,5,Class,3,PhilosophyCore
+International Politics,22375,WWS ,541,WWS,5,Lecture,2,Other
+International Economics,22376,WWS ,542,WWS,5,Seminar,4,PhilosophyCore
+National Security Policy,22384,WWS ,549,WWS,5,Class,2,Other
+PhD Gateway in Security Studies,22392,WWS ,550,WWS,5,Lecture,0,PhilosophyCore
+Economic Analysis of Development:Basic,22470,WWS ,562B ,WWS,5,Seminar,2,Other
+Economic Analysis of Development:Adv,22471,WWS ,562C ,WWS,5,Class,4,PhilosophyCore
+Topics in Development: International Policy Responses to State Fragility,23134,WWS ,571A ,WWS,5,Lecture,3,Other
+Topics in Economics: Energy Economics,22382,WWS ,581C ,WWS,5,Seminar,4,PhilosophyCore
+Policy Workshop: Reforming the Port Authority of New York and New Jersey,23135,WWS ,591A ,WWS,5,Class,1,Other
+Policy Workshop: Managing Elections in Fragile States,23136,WWS ,591B ,WWS,5,Lecture,0,PhilosophyCore
+Policy Workshop: The Middle East Peace Process,23137,WWS ,591C ,WWS,5,Seminar,0,Other
+Policy Workshop: State-Level Policies on Renewables in the Energy Sector,23138,WWS ,591D ,WWS,5,Class,3,PhilosophyCore
+"Policy Workshop: Policy, Operational & Political Implementation Challenges of the ACA",22489,WWS ,591E ,WWS,5,Lecture,1,Other
+Policy Workshop: Ensuring the Long Run Impact of MCC Country Compacts,23139,WWS ,591F ,WWS,5,Seminar,3,PhilosophyCore
+Policy Workshop: Current Issues of Health Policy in India,23140,WWS ,591G ,WWS,5,Class,4,Other
+Policy Workshop: Managing Transformational Change in K-12 Education,23141,WWS ,591H ,WWS,5,Lecture,0,PhilosophyCore
+Topics in Policy Analysis (Half-Term): Eurozone Crisis and Beyond,22554,WWS ,593B ,WWS,5,Seminar,2,Other
+Topics in Policy Analysis (Half-Term): The Federal Budget,22491,WWS ,593F ,WWS,5,Class,0,PhilosophyCore
+Topics in Policy Analysis (Half-Term): Monetary Policy during the Great Recession,23142,WWS ,593G ,WWS,5,Lecture,1,Other
+Topics in Policy Analysis (Half-Term): International Macroeconomics,23143,WWS ,593H ,WWS,5,Seminar,4,PhilosophyCore
+Topics in Policy Analysis (Half-Term): Contested Multilateralism,23144,WWS ,593J ,WWS,5,Class,1,Other
+Topics in Policy Analysis (Half-Term): Legal Skills for Policymakers,22492,WWS ,593L ,WWS,5,Lecture,0,PhilosophyCore
+Topics in Policy Analysis (Half-Term): Writing for Policymakers and the Public,23151,WWS ,593M ,WWS,5,Seminar,2,Other
+Topics in Policy Analysis (Half-Term): GIS for Public Policy,22493,WWS ,593N ,WWS,5,Class,1,PhilosophyCore
+Topics in Policy Analysis (Half-Term): Affordable Housing,23146,WWS ,593O ,WWS,5,Lecture,1,Other
+Topics in Policy Analysis (Half-Term): Impact Evaluation Tools,23147,WWS ,593Q ,WWS,5,Seminar,0,PhilosophyCore
+Topics in Policy Analysis (Half-Term): Empirical Macroeconomics: Applied Time Series Analysis,23148,WWS ,593Z ,WWS,5,Class,0,Other
+Civil Society and Public Policy,20885,WWS AMS ,385 350 ,WWS,3,Lecture,3,PhilosophyCore
+International Development,22890,WWS ECO ,302 359 ,WWS,3,Seminar,4,Other
+Public Economics,20873,WWS ECO ,307 349 ,WWS,3,Class,0,PhilosophyCore
+Environmental Economics,20878,WWS ECO ENV ,306 329 319 ,WWS,3,Lecture,0,Other
+Modern Genetics and Public Policy,22143,WWS GHP ,354 354 ,WWS,3,Seminar,0,PhilosophyCore
+Financial History,21974,WWS HIS ,466 467 ,WWS,4,Class,1,Other
+Topics in International Relations: International Strategy,22377,WWS POL ,556C 580 ,WWS,5,Lecture,2,PhilosophyCore
+Comparative Political Economy of Develop,22378,WWS POL ,561 523 ,WWS,5,Seminar,0,Other
+Ethics and Public Policy,22119,WWS POL CHV ,370 308 301 ,WWS,3,Class,3,PhilosophyCore
+Comparative Constitutional Law,22142,WWS POL CHV ,421 479 470 ,WWS,4,Lecture,4,Other
+"Poverty,Inequality & Health in the World",22389,WWS POP ,564 564 ,WWS,5,Seminar,1,PhilosophyCore
+Psychology of Decision Making/Judgment,22266,WWS PSY ,340 321 ,WWS,3,Class,0,Other
+Social Organization of Cities,22374,WWS SOC ,537 537 ,WWS,5,Lecture,0,PhilosophyCore
+"Topics in Policy Analysis (Half-Term): Surveys, Polls and Public Policy",22490,WWS SOC ,593E 585 ,WWS,5,Seminar,0,Other
+International Trade Policy,23150,WWS WWS ,543 543 ,WWS,5,Class,4,PhilosophyCore

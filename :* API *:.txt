@@ -1,0 +1,24 @@
+/* API */
+
+/* Workflow */
+CSV -> JSON -> VDB -> Display -> HTML
+
+// CSV should not have "id" field
+// CSV should have "name" field of type string
+// CSV should have "search text" field which will not be saved
+
+
+CSV -> JSON
+	cleanData.py
+
+JSON -> VDB
+	VS.vdbFromJSON
+		/* Need to generalize to objects, not just courses
+
+VDB -> DisplayObject
+	new VDB.VDB(data, id)
+		/* Make Display Object Unique to VDB with Id
+
+DisplayObject -> HTML
+	new DisplayObject(vdb)
+		/* make all html unique to VDB with Id

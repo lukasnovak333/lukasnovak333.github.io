@@ -1,0 +1,13 @@
+Legend,Name,rating,Type
+Searchable?,Searchable,Searchable,Searchable
+Sortable?,Sortable,Sortable,Sortable
+Colorable?,,Colorable,
+Category?,,,Category
+Remember?,Y,Y,Y
+Type,String,Float,String
+,Wolverine,1,X-Man
+,Starfire,2,X-Man
+,Superman,3,Superhero
+,Hulk,4,Marvel
+,Archer ,5,Marvel
+,Iron Man,3,Marvel

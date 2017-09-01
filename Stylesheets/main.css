@@ -1,0 +1,179 @@
+.bigSvg {
+	  background-image:url(../Data/Pictures/taupe.jpg);
+	  height:100%;
+	  left:0;
+	  position:absolute;
+	  top:0;
+	  transition:left .5s;
+	  width:100%;
+}
+
+.flex-container {
+	  display:flex;
+}
+
+.loadingImage {
+	  height:20%;
+	  left:40%;
+	  position:absolute;
+	  top:40%;
+	  width:20%;
+	  z-index:1;
+}
+
+.myButton {
+	  color:#FFF;
+	  cursor:pointer;
+	  font-size:30px;
+	  transition:.5s;
+}
+
+.nameSpace {
+	  font-size:1em;
+	  height:50%;
+	  margin-left:5%;
+	  margin-right:5%;
+	  margin-top:5%;
+	  position:absolute;
+	  top:50%;
+}
+
+.panelLink {
+	  background-color:#000;
+	  height:100%;
+	  left:85%;
+	  opacity:0.0;
+	  position:absolute;
+	  top:0;
+	  width:15%;
+}
+
+.panelLinkPic {
+	  margin-top:25%;
+	  max-height:100%;
+	  max-width:100%;
+}
+
+.panelText {
+	  border-left:2px green;
+	  font-size:.75em;
+	  height:100%;
+	  left:0;
+	  margin-bottom:5px;
+	  margin-left:5px;
+	  margin-top:5px;
+	  position:absolute;
+	  top:0;
+	  width:77%;
+}
+
+.radio-form {
+	  autocomplete:off;
+	  color:#000;
+	  margin-bottom:1cm;
+}
+
+.resultPanel {
+	  background-color:#FFF;
+	  color:#000;
+	  height:55px;
+	  margin-left:10%;
+	  margin-right:10%;
+	  opacity:.75;
+	  position:absolute;
+	  width:80%;
+    top: -200%;
+}
+
+.resultsBox {
+	  height:100%;
+	  overflow-x:hidden;
+	  overflow-y:auto;
+	  position:absolute;
+}
+
+.resultsSpace {
+	  height:45%;
+	  margin-top:5%;
+	  overflow-x:hidden;
+	  overflow-y:hidden;
+	  position:absolute;
+	  width:100%;
+}
+
+.searchBox {
+	  box-shadow:0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	  font-size:1.4em;
+	  height:20%;
+	  left:5%;
+	  top:5%;
+	  width:60%;
+}
+
+.searchForm {
+	  height:100%;
+	  width:100%;
+}
+.settingsButtonSpace {
+    text-align:center;
+    z-index:2;
+}
+.settingsSelect {
+    /* CSS to fix settings selects */
+}
+.settingsSpace {
+	  background-color:#111;
+	  background-image:url(../Data/Pictures/taupe.jpg);
+	  height:20%;
+	  left:75%;
+	  opacity:.95;
+	  overflow-x:hidden;
+	  overflow-y:hidden;
+	  position:absolute;
+	  top: 5%;
+	  transition:.5s;
+	  width:21%;
+	  z-index:1;
+}
+
+.sidenav {
+	  background-color:#111;
+	  background-image:url(../Data/Pictures/taupe.jpg);
+	  height:100%;
+	  left:-25%;
+	  opacity:.95;
+	  overflow-x:hidden;
+	  overflow-y:hidden;
+	  position:absolute;
+	  top:0;
+	  transition:.5s;
+	  width:25%;
+	  z-index:1;
+}
+
+.textBox {
+	  overflow-x:hidden;
+	  overflow-y:auto;
+	  width:99%;
+	  word-wrap:break-word;
+}
+
+.titleSpace {
+	  font-size:1.4em;
+	  text-align:center;
+	  vertical-align:middle;
+}
+
+form {
+	  margin:0 auto;
+	  text-align:center;
+}
+
+html,body {
+	  background-color:#b38b6d;
+	  color:#000;
+	  font-family:Arial, sans-serif;
+	  height:100%;
+	  margin:0;
+	  overflow-x:hidden;
+}

@@ -1,0 +1,249 @@
+{
+    "entries": [
+        {
+            "id": 0,
+            "Name": "Wolverine",
+            "Price": "0.5",
+            "Type": "X-Man"
+        },
+        {
+            "id": 1,
+            "Name": "Starfire",
+            "Price": "1",
+            "Type": "X-Man"
+        },
+        {
+            "id": 2,
+            "Name": "Superman",
+            "Price": "5",
+            "Type": "Superhero"
+        },
+        {
+            "id": 3,
+            "Name": "Hulk",
+            "Price": "2",
+            "Type": "Marvel"
+        },
+        {
+            "id": 4,
+            "Name": "Archer ",
+            "Price": "3",
+            "Type": "Marvel"
+        },
+        {
+            "id": 5,
+            "Name": "Iron Man",
+            "Price": "7",
+            "Type": "Marvel"
+        }
+    ],
+    "keyInfo": {
+        "Name": {
+            "searchable": true,
+            "sortable": true,
+            "colorable": false,
+            "category": false,
+            "type": "String"
+        },
+        "Price": {
+            "searchable": true,
+            "sortable": true,
+            "colorable": true,
+            "category": false,
+            "type": "Float"
+        },
+        "Type": {
+            "searchable": true,
+            "sortable": true,
+            "colorable": false,
+            "category": true,
+            "type": "String"
+        }
+    },
+    "searchSpace": [
+        {
+            "key": "0",
+            "hits": [
+                {
+                    "pageNo": 0,
+                    "numHits": 1
+                }
+            ],
+            "id": 0
+        },
+        {
+            "key": "1",
+            "hits": [
+                {
+                    "pageNo": 1,
+                    "numHits": 1
+                }
+            ],
+            "id": 1
+        },
+        {
+            "key": "2",
+            "hits": [
+                {
+                    "pageNo": 3,
+                    "numHits": 1
+                }
+            ],
+            "id": 2
+        },
+        {
+            "key": "3",
+            "hits": [
+                {
+                    "pageNo": 4,
+                    "numHits": 1
+                }
+            ],
+            "id": 3
+        },
+        {
+            "key": "5",
+            "hits": [
+                {
+                    "pageNo": 0,
+                    "numHits": 1
+                },
+                {
+                    "pageNo": 2,
+                    "numHits": 1
+                }
+            ],
+            "id": 4
+        },
+        {
+            "key": "7",
+            "hits": [
+                {
+                    "pageNo": 5,
+                    "numHits": 1
+                }
+            ],
+            "id": 5
+        },
+        {
+            "key": "ARCHER",
+            "hits": [
+                {
+                    "pageNo": 4,
+                    "numHits": 1
+                }
+            ],
+            "id": 6
+        },
+        {
+            "key": "HULK",
+            "hits": [
+                {
+                    "pageNo": 3,
+                    "numHits": 1
+                }
+            ],
+            "id": 7
+        },
+        {
+            "key": "IRON",
+            "hits": [
+                {
+                    "pageNo": 5,
+                    "numHits": 1
+                }
+            ],
+            "id": 8
+        },
+        {
+            "key": "MAN",
+            "hits": [
+                {
+                    "pageNo": 0,
+                    "numHits": 1
+                },
+                {
+                    "pageNo": 1,
+                    "numHits": 1
+                },
+                {
+                    "pageNo": 5,
+                    "numHits": 1
+                }
+            ],
+            "id": 9
+        },
+        {
+            "key": "MARVEL",
+            "hits": [
+                {
+                    "pageNo": 3,
+                    "numHits": 1
+                },
+                {
+                    "pageNo": 4,
+                    "numHits": 1
+                },
+                {
+                    "pageNo": 5,
+                    "numHits": 1
+                }
+            ],
+            "id": 10
+        },
+        {
+            "key": "STARFIRE",
+            "hits": [
+                {
+                    "pageNo": 1,
+                    "numHits": 1
+                }
+            ],
+            "id": 11
+        },
+        {
+            "key": "SUPERHERO",
+            "hits": [
+                {
+                    "pageNo": 2,
+                    "numHits": 1
+                }
+            ],
+            "id": 12
+        },
+        {
+            "key": "SUPERMAN",
+            "hits": [
+                {
+                    "pageNo": 2,
+                    "numHits": 1
+                }
+            ],
+            "id": 13
+        },
+        {
+            "key": "WOLVERINE",
+            "hits": [
+                {
+                    "pageNo": 0,
+                    "numHits": 1
+                }
+            ],
+            "id": 14
+        },
+        {
+            "key": "X",
+            "hits": [
+                {
+                    "pageNo": 0,
+                    "numHits": 1
+                },
+                {
+                    "pageNo": 1,
+                    "numHits": 1
+                }
+            ],
+            "id": 15
+        }
+    ]
+}

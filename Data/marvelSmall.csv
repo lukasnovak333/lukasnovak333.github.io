@@ -1,0 +1,1500 @@
+LEGEND,NAME,ALIGN,EYE,HAIR,SEX,ALIVE,APPEARANCES,FIRST APPEARANCE,YEAR
+Searchable,y,y,y,y,y,y,,y,y
+Sortable,y,y,y,y,y,y,y,,y
+Colorable,,,,,,,y,,y
+Category,,y,y,y,y,y,,,y
+Remember,y,y,y,y,y,y,y,y,y
+Type,STRING,STRING,STRING,STRING,STRING,STRING,FLOAT,STRING,FLOAT
+,Spider-Man (Peter Parker),Good Characters,Hazel Eyes,Brown Hair,Male Characters,Living Characters,4043,Aug-62,1962
+,Captain America (Steven Rogers),Good Characters,Blue Eyes,White Hair,Male Characters,Living Characters,3360,Mar-41,1941
+,Wolverine (James Logan Howlett),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,3061,Oct-74,1974
+,Iron Man (Anthony Tony Stark),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,2961,Mar-63,1963
+,Thor (Thor Odinson),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,2258,Nov-50,1950
+,Benjamin Grimm (Earth-616),Good Characters,Blue Eyes,No Hair,Male Characters,Living Characters,2255,Nov-61,1961
+,Reed Richards (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,2072,Nov-61,1961
+,Hulk (Robert Bruce Banner),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,2017,May-62,1962
+,Scott Summers (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,1955,Sep-63,1963
+,Jonathan Storm (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,1934,Nov-61,1961
+,Henry McCoy (Earth-616),Good Characters,Blue Eyes,Blue Hair,Male Characters,Living Characters,1825,Sep-63,1963
+,Susan Storm (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,1713,Nov-61,1961
+,Namor McKenzie (Earth-616),Neutral Characters,Green Eyes,Black Hair,Male Characters,Living Characters,1528,,
+,Ororo Munroe (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Living Characters,1512,May-75,1975
+,Clinton Barton (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,1394,Sep-64,1964
+,Matthew Murdock (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,1338,Apr-64,1964
+,Stephen Strange (Earth-616),Good Characters,Grey Eyes,Black Hair,Male Characters,Living Characters,1307,Jul-63,1963
+,Mary Jane Watson (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,1304,Jun-65,1965
+,John Jonah Jameson (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,1266,Mar-63,1963
+,Robert Drake (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,1265,Sep-63,1963
+,Henry Pym (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,1237,Jan-62,1962
+,Charles Xavier (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,1233,Sep-63,1963
+,Warren Worthington III (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,1230,Sep-63,1963
+,Piotr Rasputin (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,1162,May-75,1975
+,Wanda Maximoff (Earth-616),Good Characters,Green Eyes,Brown Hair,Female Characters,Living Characters,1161,Mar-64,1964
+,Nicholas Fury (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,1137,May-63,1963
+,Janet van Dyne (Earth-616),Good Characters,Blue Eyes,Auburn Hair,Female Characters,Living Characters,1120,Jun-63,1963
+,Jean Grey (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Deceased Characters,1107,Sep-63,1963
+,Natalia Romanova (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,1050,Apr-64,1964
+,Kurt Wagner (Earth-616),Good Characters,Yellow Eyes,Blue Hair,Male Characters,Living Characters,1047,May-75,1975
+,Vision (Earth-616),Good Characters,Gold Eyes,No Hair,Male Characters,Living Characters,1007,Oct-68,1968
+,May Reilly (Earth-616),Good Characters,Blue Eyes,Grey Hair,Female Characters,Living Characters,1000,Aug-62,1962
+,Katherine Pryde (Earth-616),Good Characters,Hazel Eyes,Brown Hair,Female Characters,Living Characters,886,Jan-80,1980
+,Carol Danvers (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,881,Mar-68,1968
+,Jennifer Walters (Earth-616),Good Characters,Green Eyes,Brown Hair,Female Characters,Living Characters,881,Feb-80,1980
+,Emma Frost (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,880,Jan-80,1980
+,Frank Castle (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,878,Feb-74,1974
+,Luke Cage (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,856,Jun-72,1972
+,Rogue (Anna Marie) (Earth-616),Good Characters,Green Eyes,Auburn Hair,Female Characters,Living Characters,850,,
+,Conan (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,787,Oct-70,1970
+,Joseph Robertson (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Living Characters,752,Aug-67,1967
+,Pietro Maximoff (Earth-616),Good Characters,Blue Eyes,Silver Hair,Male Characters,Living Characters,740,Mar-64,1964
+,Hercules (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,725,Oct-65,1965
+,Victor von Doom (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,721,Jul-62,1962
+,Max Eisenhardt (Earth-616),Neutral Characters,Grey Eyes,Bald,Male Characters,Living Characters,709,Sep-63,1963
+,Elizabeth Braddock (Earth-616),Neutral Characters,Blue Eyes,Purple Hair,Female Characters,Living Characters,708,Dec-76,1976
+,Norrin Radd (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Living Characters,696,Mar-66,1966
+,Norman Osborn (Earth-616),Bad Characters,Blue Eyes,Auburn Hair,Male Characters,Living Characters,692,Jul-64,1964
+,Eugene Thompson (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Male Characters,Living Characters,689,Aug-62,1962
+,Simon Williams (Earth-616),Good Characters,Red Eyes,Grey Hair,Male Characters,Living Characters,686,Oct-64,1964
+,Samuel Guthrie (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,657,Nov-82,1982
+,James Buchanan Barnes (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,641,Mar-41,1941
+,Remy LeBeau (Earth-616),Good Characters,Black Eyeballs,Brown Hair,Male Characters,Living Characters,636,Jul-90,1990
+,Daniel Rand (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,618,May-74,1974
+,Nathan Summers (Earth-616),Neutral Characters,Blue Eyes,White Hair,Male Characters,Living Characters,612,Jan-86,1986
+,Elizabeth Brant (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,599,Sep-63,1963
+,Richard Jones (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,590,May-62,1962
+,Edwin Jarvis (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Living Characters,567,Nov-64,1964
+,Alexander Summers (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,558,Mar-69,1969
+,Patricia Walker (Earth-616),Good Characters,Blue Eyes,Red Hair,Female Characters,Living Characters,550,Nov-44,1944
+,Human Torch (Android) (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,548,Oct-39,1939
+,Loki Laufeyson (Earth-616),Neutral Characters,Green Eyes,Black Hair,Genderfluid Characters,Living Characters,532,Aug-49,1949
+,Franklin Nelson (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Living Characters,528,Apr-64,1964
+,Brian Braddock (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,528,Oct-76,1976
+,Otto Octavius (Earth-616),Neutral Characters,Hazel Eyes,Brown Hair,Male Characters,Deceased Characters,526,Jul-63,1963
+,James Rhodes (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,525,Jan-79,1979
+,Timothy Dugan (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,517,May-63,1963
+,Crystalia Amaquelin (Earth-616),Good Characters,Green Eyes,Strawberry Blond Hair,Female Characters,Living Characters,512,Dec-65,1965
+,Samuel Wilson (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,512,Sep-69,1969
+,Wilson Fisk (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,503,Jul-67,1967
+,Odin Borson (Earth-616),Neutral Characters,Blue Eyes,White Hair,Male Characters,Living Characters,502,Oct-62,1962
+,Deadpool (Wade Wilson),Neutral Characters,Brown Eyes,Bald,Male Characters,Living Characters,500,Feb-91,1991
+,Dane Whitman (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,478,Dec-67,1967
+,Harold Osborn (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,474,Dec-65,1965
+,Franklin Richards (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,473,Nov-68,1968
+,Jessica Drew (Earth-616),Good Characters,Green Eyes,Auburn Hair,Female Characters,Living Characters,471,Feb-77,1977
+,Roberto da Costa (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,464,Nov-82,1982
+,Rahne Sinclair (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,448,Nov-82,1982
+,Elizabeth Ross (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,446,May-62,1962
+,Lorna Dane (Earth-616),Good Characters,Green Eyes,Green Hair,Female Characters,Living Characters,433,Oct-68,1968
+,Blaine Colt (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,429,,
+,Johnathon Blaze (Earth-616),Good Characters,Blue Eyes,Reddish Blond Hair,Male Characters,Living Characters,426,Aug-72,1972
+,Sif (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,422,Mar-64,1964
+,Red Hulk (Thaddeus Ross),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,415,May-62,1962
+,Jubilation Lee (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,408,May-89,1989
+,Volstagg (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,406,Aug-65,1965
+,Balder Odinson (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,403,Oct-62,1962
+,Galactus (Earth-616),Neutral Characters,Brown Eyes,No Hair,Male Characters,Living Characters,390,Mar-66,1966
+,Danielle Moonstar (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,388,Nov-82,1982
+,Marc Spector (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,387,Aug-75,1975
+,Gwendolyne Stacy (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,384,Dec-65,1965
+,Medusalith Amaquelin (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,382,Mar-65,1965
+,Sabretooth (Victor Creed),Bad Characters,Amber Eyes,Blond Hair,Male Characters,Living Characters,382,Aug-77,1977
+,Illyana Rasputina (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,380,May-75,1975
+,Johann Shmidt (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,376,Aug-41,1941
+,Fandral (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,375,Aug-65,1965
+,Sean Cassidy (Earth-616),Neutral Characters,Green Eyes,Strawberry Blond Hair,Male Characters,Living Characters,374,Jan-67,1967
+,Thomas Raymond (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,373,Sep-40,1940
+,Uatu (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,373,Apr-63,1963
+,Richard Rider (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,373,Sep-76,1976
+,Hogun (Earth-616),Good Characters,Grey Eyes,Black Hair,Male Characters,Living Characters,371,Aug-65,1965
+,Raven Darkholme (Earth-616),Bad Characters,Yellow Eyes,Red Hair,Female Characters,Living Characters,371,Apr-78,1978
+,Barbara Morse (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,368,Jun-71,1971
+,Blackagar Boltagon (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,366,Dec-65,1965
+,Brunnhilde (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,361,Dec-70,1970
+,Alison Blaire (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Living Characters,353,Feb-80,1980
+,Venom (Symbiote) (Earth-616),Neutral Characters,Variable Eyes,No Hair,Agender Characters,Living Characters,348,May-84,1984
+,John Walker (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,346,Nov-86,1986
+,Greer Grant (Earth-616),Good Characters,Green Eyes,Black Hair,Female Characters,Living Characters,342,Nov-72,1972
+,Karla Sofen (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,340,Dec-75,1975
+,William Baker (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,338,Sep-63,1963
+,Sharon Carter (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,332,Mar-66,1966
+,Felicia Hardy (Earth-616),Bad Characters,,Blond Hair,Female Characters,Living Characters,332,Jul-79,1979
+,Cain Marko (Earth-616),Neutral Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,329,Jul-65,1965
+,Monica Rambeau (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,327,,
+,Maria Hill (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,325,5-Apr,2005
+,Ben Urich (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,324,Jul-78,1978
+,Heather Douglas (Earth-616),Good Characters,Blue Eyes,Bald,Female Characters,Living Characters,323,Jan-73,1973
+,Millicent Collins (Earth-616),,Blue Eyes,Blond Hair,Female Characters,Living Characters,321,Dec-45,1945
+,James Proudstar (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,320,Jun-84,1984
+,Angelica Jones (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,319,May-85,1985
+,Edward Brock (Earth-616),Neutral Characters,Black Eyes,Blond Hair,Male Characters,Living Characters,318,Sep-86,1986
+,MacDonald Gargan (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Living Characters,317,Dec-64,1964
+,Mephisto (Earth-616),Bad Characters,White Eyes,Black Hair,Male Characters,Living Characters,316,Dec-68,1968
+,Tabitha Smith (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,316,Nov-85,1985
+,Jean-Paul Beaubier (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,313,Apr-79,1979
+,Daniel Ketch (Earth-616),Neutral Characters,Green Eyes,Brown Hair,Male Characters,Living Characters,311,May-90,1990
+,Neena Thurman (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,310,Mar-92,1992
+,Wong (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,306,Jul-63,1963
+,Thanos (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Living Characters,306,Feb-73,1973
+,Shang-Chi (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,296,Dec-73,1973
+,Alicia Masters (Earth-616),Good Characters,Brown Eyes,Strawberry Blond Hair,Female Characters,Living Characters,293,Nov-62,1962
+,Robert Baldwin (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,293,Sep-88,1988
+,Vance Astrovik (Earth-616),Good Characters,Hazel Eyes,Brown Hair,Male Characters,Living Characters,290,Jul-75,1975
+,Wendell Vaughn (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,290,Jan-78,1978
+,Chili Storm (Earth-616),,Green Eyes,Red Hair,Female Characters,Living Characters,284,Oct-48,1948
+,Abner Jenkins (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,284,Aug-64,1964
+,Elektra Natchios (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,280,Jan-81,1981
+,Bullseye (Lester) (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,277,Mar-76,1976
+,Forge (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,276,Aug-84,1984
+,Virginia Potts (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,274,Sep-63,1963
+,Walter Langkowski (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,273,Apr-79,1979
+,Gorgon (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,272,Nov-65,1965
+,James Madrox (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,271,Feb-75,1975
+,Heimdall (Earth-616),Good Characters,Grey Eyes,Brown Hair,Male Characters,Living Characters,270,Oct-62,1962
+,Theresa Cassidy (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,267,Apr-81,1981
+,Laura Kinney (Earth-616),Good Characters,Green Eyes,Black Hair,Female Characters,Living Characters,265,4-Feb,2004
+,Arthur Douglas (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,264,Feb-73,1973
+,Peter Parker (Ben Reilly) (Earth-616),Good Characters,Hazel Eyes,Blond Hair,Male Characters,Deceased Characters,263,Oct-75,1975
+,Warlock (Technarch) (Earth-616),Good Characters,Black Eyes,No Hair,Male Characters,Living Characters,261,Aug-84,1984
+,Kevin Plunder (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,260,Mar-65,1965
+,Leonard Samson (Earth-616),Good Characters,Brown Eyes,Green Hair,Male Characters,Deceased Characters,260,Jul-71,1971
+,Melissa Gold (Earth-616),Good Characters,Green Eyes,Blond Hair,Female Characters,Living Characters,260,Aug-79,1979
+,Lockheed (Earth-616),Good Characters,,No Hair,Male Characters,Living Characters,260,Feb-83,1983
+,Mercedes Knight (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,259,Mar-72,1972
+,Moira Kinross (Earth-616),Good Characters,Blue Eyes,Brown Hair,Female Characters,Deceased Characters,259,Dec-75,1975
+,Karnak (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,257,Dec-65,1965
+,Namorita Prentiss (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,257,Jun-72,1972
+,Lockjaw (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,255,Dec-65,1965
+,Adam Warlock (Earth-616),Good Characters,White Eyes,Gold Hair,Male Characters,Living Characters,252,Sep-67,1967
+,Heather McNeil (Earth-616),Neutral Characters,Green Eyes,Red Hair,Female Characters,Living Characters,252,Nov-80,1980
+,Curtis Connors (Earth-616),Neutral Characters,Red Eyes,No Hair,Male Characters,Living Characters,250,Nov-63,1963
+,Theodore Sallis (Earth-616),Good Characters,Red Eyes,No Hair,Male Characters,Living Characters,249,May-71,1971
+,Adrian Toomes (Earth-616),Bad Characters,Hazel Eyes,Bald,Male Characters,Living Characters,248,May-63,1963
+,Amora (Earth-616),Bad Characters,Green Eyes,Blond Hair,Female Characters,Living Characters,247,Apr-64,1964
+,Clea (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Living Characters,247,Nov-64,1964
+,Mar-Vell (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,245,Dec-67,1967
+,Eugene Judd (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,245,Aug-83,1983
+,Daimon Hellstrom (Earth-616),Neutral Characters,Red Eyes,Red Hair,Male Characters,Living Characters,242,Sep-73,1973
+,John Jonah Jameson III (Earth-616),Good Characters,Brown Eyes,Auburn Hair,Male Characters,Living Characters,240,Mar-63,1963
+,Triton (Earth-616),Good Characters,Green Eyes,No Hair,Male Characters,Living Characters,240,Dec-65,1965
+,Meggan Puceanu (Earth-616),Good Characters,,,Female Characters,Living Characters,240,Dec-83,1983
+,Robert Reynolds (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,240,Sep-00,2000
+,Aleksei Sytsevich (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,239,Oct-66,1966
+,Santo Vaccarro (Earth-616),Good Characters,White Eyes,No Hair,Male Characters,Living Characters,238,3-Sep,2003
+,Jonathan Clay (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,237,Aug-60,1960
+,Ares (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,236,Apr-49,1949
+,Sersi (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,236,Sep-76,1976
+,Guido Carosella (Earth-616),Neutral Characters,Brown Eyes,Bald,Male Characters,Living Characters,236,Jul-85,1985
+,Zabu (Earth-616),Good Characters,Green Eyes,Orange Hair,Male Characters,Living Characters,234,Mar-65,1965
+,Michael Morbius (Earth-616),Neutral Characters,Red Eyes,Black Hair,Male Characters,Living Characters,231,Oct-71,1971
+,Julio Richter (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,231,Jun-87,1987
+,Phoenix Force (Earth-616),Neutral Characters,,No Hair,,Deceased Characters,229,Oct-76,1976
+,Megan Gwynn (Earth-616),Good Characters,Black Eyeballs,Pink Hair,Female Characters,Living Characters,229,4-Nov,2004
+,Kyle Richmond (Earth-616),Good Characters,Brown Eyes,Auburn Hair,Male Characters,Living Characters,227,Oct-69,1969
+,Karen Page (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,226,Apr-64,1964
+,Tyrone Johnson (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,226,Mar-82,1982
+,Maxwell Dillon (Earth-616),Bad Characters,Blue Eyes,Auburn Hair,Male Characters,Living Characters,225,Feb-64,1964
+,Valerie Cooper (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,225,Dec-83,1983
+,Anna May (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Living Characters,224,Aug-64,1964
+,Vlad Dracula (Earth-616),Bad Characters,Red Eyes,White Hair,Male Characters,Living Characters,223,Mar-51,1951
+,Tandy Bowen (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,222,Mar-82,1982
+,Monet St. Croix (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,221,Nov-94,1994
+,Gamora (Earth-616),Neutral Characters,Yellow Eyes,Black Hair,Female Characters,Living Characters,218,Jun-75,1975
+,Amara Aquilla (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,217,Oct-83,1983
+,Julia Carpenter (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Living Characters,212,Oct-84,1984
+,Jane Foster (Earth-616),Good Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,211,Sep-62,1962
+,Mortimer Toynbee (Earth-616),Neutral Characters,Black Eyes,Brown Hair,Male Characters,Living Characters,210,Mar-64,1964
+,Scott Lang (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Male Characters,Living Characters,209,Mar-79,1979
+,Paige Guthrie (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,207,Nov-84,1984
+,Benjamin Parker (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,205,Aug-62,1962
+,Erik Josten (Earth-616),Good Characters,Brown Eyes,Red Hair,Male Characters,Living Characters,204,Oct-65,1965
+,Jeanne-Marie Beaubier (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,203,Apr-79,1979
+,Carl Creel (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,202,Apr-64,1964
+,Gloria Grant (Earth-616),,Brown Eyes,Black Hair,Female Characters,Living Characters,202,Jan-75,1975
+,Michael Twoyoungmen (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,200,Apr-79,1979
+,Hope Summers (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,200,8-Jan,2008
+,Eric Masterson (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,198,May-88,1988
+,Alexander Power (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,197,Aug-84,1984
+,Matthew Hawk (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,195,Nov-62,1962
+,Jessica Jones (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,195,Sep-63,1963
+,Frederick Dukes (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,194,Jan-64,1964
+,Eric Brooks (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,194,Jul-73,1973
+,Eros (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,193,Feb-73,1973
+,Madison Jeffries (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,193,Aug-83,1983
+,Mandarin (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,190,Feb-64,1964
+,The Wizard (Earth-616),Bad Characters,Hazel Eyes,Brown Hair,Male Characters,Living Characters,189,Nov-62,1962
+,Akihiro (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,189,6-Oct,2006
+,Sergei Kravinoff (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,188,Aug-64,1964
+,Jonothon Starsmore (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,187,Nov-94,1994
+,Helmut Zemo (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,184,Dec-73,1973
+,Victor Borkowski (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,184,3-Aug,2003
+,Edward Leeds (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,181,Nov-64,1964
+,Ultron (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Deceased Characters,181,Jul-68,1968
+,Douglas Ramsey (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,181,Mar-84,1984
+,Quentin Beck (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,180,Jun-64,1964
+,Herbert Wyndham (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,179,Nov-66,1966
+,Julian Keller (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,179,3-Aug,2003
+,Jack Russell (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,178,Feb-72,1972
+,Celeste Cuckoo (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,177,1-Nov,2001
+,Valentina Allegra de Fontaine (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,176,Aug-67,1967
+,Ophelia Sarkissian (Earth-616),Bad Characters,Green Eyes,Black Hair,Female Characters,Living Characters,175,Feb-69,1969
+,Colleen Wing (Earth-616),Good Characters,Blue Eyes,Auburn Hair,Female Characters,Living Characters,175,Nov-74,1974
+,Irma Cuckoo (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,175,1-Nov,2001
+,Sebastian Shaw (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,174,Jan-80,1980
+,Phoebe Cuckoo (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,174,1-Nov,2001
+,Sage (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,172,Apr-80,1980
+,Valeria Richards (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,171,2-Feb,2002
+,Donald Blake (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,170,Aug-62,1962
+,Hela (Earth-616),Bad Characters,Green Eyes,Black Hair,Female Characters,Deceased Characters,170,Mar-64,1964
+,Lilandra Neramani (Earth-616),Good Characters,Orange Eyes,Black Hair,Female Characters,Deceased Characters,170,Feb-76,1976
+,Henry Gyrich (Earth-616),Bad Characters,Green Eyes,Red Hair,Male Characters,Living Characters,170,Nov-77,1977
+,Dwayne Taylor (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,169,Dec-89,1989
+,Harold Hogan (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,166,Sep-63,1963
+,Redwing (Earth-616),,Yellow Eyes,,Male Characters,Living Characters,165,Sep-69,1969
+,Christopher Powell (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,165,Mar-91,1991
+,Harvey Elder (Earth-616),Bad Characters,Brown Eyes,Grey Hair,Male Characters,Living Characters,164,Nov-61,1961
+,Wolfgang von Strucker (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,164,Jan-64,1964
+,Dirk Garthwaite (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,164,Jan-68,1968
+,Pip Gofern (Earth-616),Good Characters,Green Eyes,Red Hair,Male Characters,Living Characters,163,Apr-75,1975
+,Tony Masters (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,163,May-80,1980
+,David Lieberman (Earth-616),Neutral Characters,Green Eyes,Brown Hair,Male Characters,Deceased Characters,163,Nov-87,1987
+,James Hudson (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,161,Feb-78,1978
+,Miles Warren (Earth-616),Bad Characters,Green Eyes,No Hair,Male Characters,Living Characters,160,Dec-65,1965
+,Kallark (Earth-616),Neutral Characters,Blue Eyes,Blue Hair,Male Characters,Living Characters,160,Oct-77,1977
+,En Sabah Nur (Earth-616),Bad Characters,Red Eyes,Black Hair,Male Characters,Deceased Characters,160,Jun-86,1986
+,Shiro Yoshida (Earth-616),Good Characters,Black Eyes,Black Hair,Male Characters,Living Characters,158,Jan-70,1970
+,Silver Sablinova (Earth-616),Good Characters,Blue Eyes,Silver Hair,Female Characters,Deceased Characters,158,Jun-85,1985
+,Elvin Haliday (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,158,Nov-90,1990
+,James Bradley (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,158,,
+,Calvin Zabo (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,157,Dec-63,1963
+,Frederick Myers (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,157,Jul-66,1966
+,Mantis (Earth-616),Good Characters,Green Eyes,Black Hair,Female Characters,Living Characters,156,Jun-73,1973
+,Marlene Alraune (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,156,Jun-76,1976
+,Rachel Leighton (Earth-616),Good Characters,Green Eyes,Brown Hair,Female Characters,Living Characters,156,Oct-85,1985
+,Veranke (Earth-616),Bad Characters,Green Eyes,Green Hair,Female Characters,Deceased Characters,156,5-Jan,2005
+,Nathaniel Essex (Earth-616),Bad Characters,Red Eyes,Black Hair,Male Characters,Living Characters,155,Sep-87,1987
+,Anthony Druid (Earth-616),Good Characters,Green Eyes,Black Hair,Male Characters,Deceased Characters,153,Jun-61,1961
+,Cassandra Lang (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,153,Apr-79,1979
+,Beta Ray Bill (Earth-616),Good Characters,White Eyes,No Hair,Male Characters,Living Characters,153,Nov-83,1983
+,Samuel Sterns (Earth-616),Bad Characters,Red Eyes,Black Hair,Male Characters,Deceased Characters,152,Dec-64,1964
+,Leech (Earth-616),Good Characters,White Eyes,No Hair,Male Characters,Living Characters,152,Mar-84,1984
+,Glenn Talbot (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,151,Nov-64,1964
+,Bug (Earth-616),Good Characters,Yellow Eyes,Green Hair,Male Characters,Living Characters,151,Jan-79,1979
+,Peter Petruski (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Living Characters,150,Jan-63,1963
+,Julie Power (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Living Characters,150,Aug-84,1984
+,Giuletta Nefaria (Earth-616),Bad Characters,Grey Eyes,Black Hair,Female Characters,Living Characters,149,Jan-68,1968
+,Robert Ralston (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,148,May-63,1963
+,Maximus (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,147,Feb-66,1966
+,Genis-Vell (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,147,Oct-93,1993
+,Hisako Ichiki (Earth-616),Good Characters,Black Eyes,Black Hair,Female Characters,Living Characters,147,4-Oct,2004
+,Dmitri Smerdyakov (Earth-616),Bad Characters,Variable Eyes,Variable Hair,Male Characters,Living Characters,146,Mar-63,1963
+,Eliot Franklin (Thunderball) (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,146,Nov-74,1974
+,X-51 (Earth-616),Good Characters,Red Eyes,Black Hair,Male Characters,Living Characters,146,Jul-77,1977
+,Madelyne Pryor (Earth-616),Bad Characters,Green Eyes,Red Hair,Female Characters,Living Characters,146,Apr-83,1983
+,Adolf Hitler (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,145,Sep-40,1940
+,Herman Schultz (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,145,Mar-67,1967
+,Noriko Ashida (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,145,4-Jan,2004
+,Chen Lu (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Living Characters,144,Jun-63,1963
+,Ulysses Klaw (Earth-616),Bad Characters,Red Eyes,Bald,Male Characters,Deceased Characters,143,Aug-66,1966
+,Cessily Kincaid (Earth-616),Good Characters,Silver Eyes,Red Hair,Female Characters,Living Characters,143,3-Aug,2003
+,Kyle Gibney (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,142,Aug-83,1983
+,Jack Monroe (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,141,Dec-53,1953
+,Madeline Joyce (Earth-616),Good Characters,Blue Eyes,Brown Hair,Female Characters,Deceased Characters,140,Nov-43,1943
+,George Tarleton (Earth-616),Bad Characters,White Eyes,Brown Hair,Male Characters,Living Characters,140,Sep-67,1967
+,Jocasta (Earth-616),Good Characters,Red Eyes,No Hair,Female Characters,Living Characters,140,Aug-77,1977
+,Peter Wisdom (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,140,Feb-95,1995
+,Jeffrey Mace (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,139,Dec-40,1940
+,Aquaria Neptunia (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,139,May-47,1947
+,Dragon Man (Earth-616),Good Characters,Grey Eyes,No Hair,Male Characters,Living Characters,139,Feb-65,1965
+,Narya (Earth-616),Good Characters,White Eyes,Blond Hair,Female Characters,Living Characters,138,Apr-79,1979
+,Burglar (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,137,Aug-62,1962
+,Dino Manelli (Earth-616),Good Characters,,Black Hair,Male Characters,Deceased Characters,137,May-63,1963
+,Peter Parker (Kaine) (Earth-616),Good Characters,Hazel Eyes,Brown Hair,Male Characters,Living Characters,137,Dec-94,1994
+,Nightmare (Earth-616),Bad Characters,Black Eyes,Black Hair,Male Characters,Living Characters,136,Jul-63,1963
+,Ronan (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,136,Aug-67,1967
+,Thomas Halloway (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Living Characters,135,Oct-39,1939
+,Jasper Sitwell (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,134,May-66,1966
+,Frank Payne (Earth-616),Neutral Characters,,Bald,Male Characters,Living Characters,134,Jun-77,1977
+,Paladin (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,134,Jan-78,1978
+,Steel (Earth-616),Good Characters,,White Hair,Male Characters,Living Characters,134,,
+,Mad Thinker (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,133,Jun-63,1963
+,Brian Calusky (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,133,Nov-74,1974
+,Arthur Maddicks (Earth-616),Good Characters,White Eyes,No Hair,Male Characters,Living Characters,133,Mar-86,1986
+,Hedy Wolfe (Earth-616),,Hazel Eyes,Black Hair,Female Characters,Living Characters,132,Nov-44,1944
+,Isadore Cohen (Earth-616),Good Characters,,,Male Characters,Living Characters,132,May-63,1963
+,Dormammu (Earth-616),Bad Characters,Yellow Eyes,No Hair,Male Characters,Living Characters,132,Nov-64,1964
+,Makkari (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Male Characters,Living Characters,131,Aug-40,1940
+,Marlo Chandler (Earth-616),Good Characters,Blue Eyes,Red Hair,Female Characters,Living Characters,131,Sep-88,1988
+,Percival Pinkerton (Earth-616),Good Characters,Brown Eyes,Grey Hair,Male Characters,Deceased Characters,130,Jul-64,1964
+,Quintavius Quire (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,130,3-Jan,2003
+,Marla Madison (Earth-616),,Brown Eyes,Brown Hair,Female Characters,Deceased Characters,129,Nov-76,1976
+,Cletus Kasady (Earth-616),Bad Characters,Green Eyes,No Hair,Male Characters,Living Characters,129,Feb-91,1991
+,Supreme Intelligence (Earth-616),Neutral Characters,Yellow Eyes,Green Hair,Male Characters,Living Characters,128,Aug-67,1967
+,Aragorn (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Living Characters,128,Jan-68,1968
+,Betty Dean (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Deceased Characters,127,Jan-40,1940
+,Karnilla (Earth-616),Neutral Characters,Purple Eyes,Black Hair,Female Characters,Living Characters,127,Aug-64,1964
+,Jacqueline Falsworth (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,127,Jul-76,1976
+,Caliban (Earth-616),Good Characters,Black Eyes,No Hair,Male Characters,Deceased Characters,127,Aug-81,1981
+,Isaac Christians (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,127,Apr-81,1981
+,Brock Rumlow (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,126,Oct-89,1989
+,Paul Norbert Ebersol (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,125,Feb-66,1966
+,Annihilus (Earth-616),Neutral Characters,Green Eyes,No Hair,Male Characters,Living Characters,125,Nov-68,1968
+,Red Sonja (Earth-616),Good Characters,Brown Eyes,Red Hair,Female Characters,Deceased Characters,125,Feb-73,1973
+,Jonathan Hart (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,125,Mar-76,1976
+,Bambina Arbogast (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,125,Jan-79,1979
+,Sooraya Qadir (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,125,2-Dec,2002
+,Zeus Panhellenios (Earth-616),Neutral Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,124,Jun-49,1949
+,Randolph Robertson (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,124,Dec-68,1968
+,Yao (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,122,Jun-61,1961
+,Agatha Harkness (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Deceased Characters,122,Jan-70,1970
+,Jack Tarr (Earth-616),,Black Eyes,Black Hair,Male Characters,Living Characters,122,Apr-74,1974
+,Katherine Bishop (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,122,5-Apr,2005
+,Jason Wyngarde (Earth-616),Bad Characters,Brown Eyes,Grey Hair,Male Characters,Deceased Characters,121,Mar-64,1964
+,Walter Newell (Earth-616),Good Characters,Hazel Eyes,Brown Hair,Male Characters,Living Characters,121,Sep-67,1967
+,Joanna Cargill (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,121,May-86,1986
+,Parker Robbins (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,121,2-Jul,2002
+,Rocket Raccoon (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,120,Jun-76,1976
+,Lyja (Earth-616),Neutral Characters,Green Eyes,Green Hair,Female Characters,Living Characters,120,Apr-84,1984
+,Georges Batroc (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,119,Mar-66,1966
+,Wyatt Wingfoot (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,119,May-66,1966
+,Henry Camp (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,119,Nov-74,1974
+,Peter Quill (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,119,Jan-76,1976
+,Marrow (Sarah) (Earth-616),Neutral Characters,Blue Eyes,Red Hair,Female Characters,Living Characters,119,Sep-94,1994
+,Vision (Jonas) (Earth-616),Good Characters,Gold Eyes,No Hair,Male Characters,Deceased Characters,119,5-Aug,2005
+,William Kaplan (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,119,5-Apr,2005
+,George Stacy (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Deceased Characters,118,Jan-68,1968
+,Mari (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,118,Jan-79,1979
+,Todd Arliss (Earth-616),Bad Characters,Grey Eyes,No Hair,Male Characters,Living Characters,116,Sep-68,1968
+,Hammerhead (Joseph) (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,116,Oct-72,1972
+,Heinrich Zemo (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,115,Mar-64,1964
+,Emil Blonsky (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,115,Apr-67,1967
+,Arcturus Rann (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,115,Jan-79,1979
+,James Woo (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,114,Oct-56,1956
+,Frank Drake (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,114,Apr-72,1972
+,Callisto (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,114,May-83,1983
+,Dorma (Earth-616),Neutral Characters,Blue Eyes,Auburn Hair,Female Characters,Deceased Characters,113,Oct-39,1939
+,Lonnie Lincoln (Earth-616),Bad Characters,Pink Eyes,White Hair,Male Characters,Living Characters,113,Mar-88,1988
+,Doop (Earth-616),Good Characters,Variable Eyes,Black Hair,Male Characters,Living Characters,113,1-Jul,2001
+,David Alleyne (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,113,3-Oct,2003
+,Hepzibah (Earth-616),Good Characters,Green Eyes,White Hair,Female Characters,Living Characters,112,Oct-77,1977
+,Charlie Cluster-7 (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,112,2-Aug,2002
+,Samuel Sawyer (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,111,May-63,1963
+,Jacques Duquesne (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,111,Aug-65,1965
+,Arcade (Earth-616),Bad Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,111,Jan-78,1978
+,Mary Walker (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,111,May-88,1988
+,Miguel Santos (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,111,Oct-90,1990
+,Christopher Summers (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,110,Apr-77,1977
+,Morris Bench (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,110,Jan-81,1981
+,David Cannon (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,109,Dec-63,1963
+,Prosh (Earth-616),Good Characters,Variable Eyes,No Hair,,Living Characters,109,Jan-88,1988
+,Roderick Kingsley (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,108,Jun-80,1980
+,Dominikos Petrakis (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,108,Jan-81,1981
+,St. John Allerdyce (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,108,Jan-81,1981
+,Mary MacPherran (Earth-616),Bad Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Living Characters,108,Jul-84,1984
+,Rita Wayword (Earth-616),Neutral Characters,White Eyes,Silver Hair,Female Characters,Living Characters,108,Sep-85,1985
+,Angelo Espinosa (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,108,Oct-94,1994
+,Layla Miller (Earth-616),Good Characters,Green Eyes,Blond Hair,Female Characters,Living Characters,108,5-Sep,2005
+,Leland Owlsley (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,107,Aug-64,1964
+,Karl Lykos (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,107,Aug-69,1969
+,Jason Macendale Jr. (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,107,Feb-81,1981
+,Clay Harder (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,106,Mar-48,1948
+,Frigga (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Living Characters,106,May-63,1963
+,Ikaris (Eternal) (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,106,Jul-76,1976
+,Jack Power (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,106,Aug-84,1984
+,Katherine Power (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Living Characters,106,Aug-84,1984
+,Sharon Ventura (Earth-616),Good Characters,Blue Eyes,Red Hair,Female Characters,Living Characters,105,Sep-85,1985
+,Nico Minoru (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,105,3-Jul,2003
+,Clive Reston (Earth-616),,Blue Eyes,Grey Hair,Male Characters,Living Characters,104,Mar-75,1975
+,Idie Okonkwo (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,104,10-Nov,2010
+,Robert Frank (Earth-616),Good Characters,Brown Eyes,Grey Hair,Male Characters,Deceased Characters,103,Aug-41,1941
+,Elizabeth Twoyoungmen (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,103,Dec-83,1983
+,Everett Thomas (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Deceased Characters,103,Sep-94,1994
+,Danger (Earth-616),Good Characters,,No Hair,Female Characters,Living Characters,103,5-Mar,2005
+,Dorrek VIII (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,103,5-Apr,2005
+,Amadeus Cho (Earth-616),Good Characters,Black Eyes,Black Hair,Male Characters,Living Characters,103,6-Jan,2006
+,Phillip Masters (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Deceased Characters,102,Nov-62,1962
+,Joshua Foley (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,101,3-Nov,2003
+,Karl Mordo (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,100,Aug-63,1963
+,Eternity (Earth-616),Neutral Characters,Black Eyes,No Hair,,Living Characters,100,Nov-65,1965
+,William Foster (Earth-616),,Brown Eyes,Black Hair,Male Characters,Deceased Characters,100,Sep-66,1966
+,Leiko Wu (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,100,Oct-75,1975
+,Chase Stein (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,100,3-Jul,2003
+,Howard Hanover (Earth-616),,,Black Hair,Male Characters,Living Characters,100,,
+,Louise Grant (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,99,Sep-46,1946
+,Grand Vizier (Asgard) (Earth-616),Good Characters,,White Hair,Male Characters,Living Characters,99,Sep-65,1965
+,Pyreus Kril (Earth-616),Neutral Characters,White Eyes,Yellow Hair,Male Characters,Living Characters,99,Jul-74,1974
+,Acroyear (Earth-616),Good Characters,Grey Eyes,No Hair,Male Characters,Living Characters,99,Jan-79,1979
+,Yuriko Oyama (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,99,Aug-83,1983
+,Elijah Bradley (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,99,5-Apr,2005
+,Frankie Raye (Earth-616),Good Characters,Blue Eyes,Red Hair,Female Characters,Living Characters,98,Nov-75,1975
+,Jimaine Szardos (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,98,Apr-76,1976
+,Bethany Cabe (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,98,Dec-78,1978
+,Phillip Urich (Earth-616),Bad Characters,Green Eyes,Brown Hair,Male Characters,Living Characters,98,Jun-95,1995
+,Delroy Garrett Jr. (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,98,Sep-98,1998
+,Anya Corazon (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,98,4-Aug,2004
+,Victoria Hand (Earth-616),Neutral Characters,Hazel Eyes,Black Hair,Female Characters,Deceased Characters,98,9-Feb,2009
+,Margaret Carter (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Deceased Characters,97,Mar-66,1966
+,Clay Quartermain (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,97,Dec-67,1967
+,Ghost (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,97,Jun-87,1987
+,Jill Stacy (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,97,Jan-97,1997
+,Abigail Brand (Earth-616),Good Characters,Green Eyes,Green Hair,Female Characters,Living Characters,97,4-Sep,2004
+,Carlie Cooper (Earth-616),Good Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,97,8-Jan,2008
+,Paul Duval (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,96,Aug-64,1964
+,Blastaar (Earth-616),Bad Characters,Grey Eyes,Grey Hair,Male Characters,Living Characters,96,May-67,1967
+,Jericho Drumm (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,96,Sep-73,1973
+,Ruth Aldine (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,96,5-Jan,2005
+,Azura (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,95,Aug-40,1940
+,Cyclone (Horse) (Earth-616),Good Characters,,,Male Characters,Living Characters,95,Mar-48,1948
+,Matthew Masters (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,95,Dec-48,1948
+,Luna Maximoff (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,95,Mar-82,1982
+,Silhouette Chord (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,95,Aug-90,1990
+,Attuma (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,94,Dec-64,1964
+,Sally Blevins (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,94,Aug-86,1986
+,James Sanders (Earth-616),Neutral Characters,Brown Eyes,Blond Hair,Male Characters,Living Characters,93,Oct-69,1969
+,Denis Nayland Smith (Earth-616),Good Characters,,Bald,Male Characters,Deceased Characters,93,Dec-73,1973
+,Andreas von Strucker (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,93,Jun-85,1985
+,Patricia Tilby (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,93,Aug-86,1986
+,Michael Collins (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,93,Jul-90,1990
+,Groot (Earth-616),Good Characters,Black Eyes,No Hair,Male Characters,Living Characters,92,Nov-60,1960
+,Vashti Cleito-Son (Earth-616),Good Characters,,White Hair,Male Characters,Living Characters,92,Sep-65,1965
+,Eric Williams (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,92,May-68,1968
+,Gaea (Earth-616),Good Characters,,,Female Characters,Living Characters,92,Feb-75,1975
+,Raza Longknife (Earth-616),Neutral Characters,One Eye,Orange Hair,Male Characters,Living Characters,92,Oct-77,1977
+,Rom (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,92,Dec-79,1979
+,Selene Gallio (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,92,Nov-83,1983
+,Norman Harold Osborn (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,92,Apr-85,1985
+,Michiko Musashi (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,92,Oct-92,1992
+,Skaar (Earth-616),Good Characters,Green Eyes,Black Hair,Male Characters,Living Characters,92,8-Jan,2008
+,Ulik (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,91,Feb-67,1967
+,Roxanne Simpson (Earth-616),Good Characters,,,Female Characters,Deceased Characters,91,Aug-72,1972
+,Sinthea Shmidt (Earth-616),Bad Characters,Brown Eyes,No Hair,Female Characters,Living Characters,91,Feb-84,1984
+,George Washington Bridge (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Deceased Characters,91,Aug-91,1991
+,Molly Hayes (Earth-616),Good Characters,Green Eyes,Brown Hair,Female Characters,Living Characters,90,3-Jul,2003
+,Klaus Voorhees (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,89,Nov-63,1963
+,Vanisher (Earth-616),Neutral Characters,Green Eyes,Bald,Male Characters,Living Characters,89,Nov-63,1963
+,Skurge (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,88,Apr-64,1964
+,Arthur Parks (Earth-616),Bad Characters,Variable Eyes,Variable Hair,Male Characters,Living Characters,88,Nov-66,1966
+,Bernadette Rosenthal (Earth-616),,Green Eyes,Auburn Hair,Female Characters,Living Characters,88,Jul-80,1980
+,Nathan Lubensky (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Deceased Characters,87,Oct-80,1980
+,David Haller (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,87,Mar-85,1985
+,Lemar Hoskins (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,87,Nov-86,1986
+,Donald Pierce (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,86,Jan-80,1980
+,Joseph Chapman (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,86,Jan-81,1981
+,Karolina Dean (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,86,3-Jul,2003
+,Bastion (Earth-616),Bad Characters,Hazel Eyes,White Hair,Male Characters,Deceased Characters,85,May-96,1996
+,Kull (Earth-616),Good Characters,Grey Eyes,Black Hair,Male Characters,Living Characters,84,Oct-70,1970
+,Satana Hellstrom (Earth-616),Bad Characters,Red Eyes,Red Hair,Female Characters,Living Characters,84,Oct-73,1973
+,Laynia Petrovna (Earth-616),Good Characters,Brown Eyes,Blond Hair,Female Characters,Living Characters,84,Aug-76,1976
+,Night Raven (Vigilante) (Earth-616),Good Characters,Grey Eyes,Bald,Male Characters,Living Characters,84,Mar-79,1979
+,Kavita Rao (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,84,4-Jul,2004
+,Danielle Cage (Earth-616),Good Characters,Green Eyes,Black Hair,Female Characters,Living Characters,84,6-Mar,2006
+,Frederick Foswell (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,83,Mar-64,1964
+,John Greycrow (Earth-616),Neutral Characters,Grey Eyes,Black Hair,Male Characters,Living Characters,83,Oct-86,1986
+,Michael Duffy (Earth-616),Good Characters,,Brown Hair,Male Characters,Deceased Characters,82,Mar-41,1941
+,Eric Koenig (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,82,Feb-66,1966
+,Zheng Zu (Earth-616),Bad Characters,Green Eyes,Black Hair,Male Characters,Deceased Characters,82,Dec-73,1973
+,Keniuchio Harada (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,82,Jul-74,1974
+,Irene Adler (Earth-616),Neutral Characters,White Eyes,Silver Hair,Female Characters,Deceased Characters,82,Jan-81,1981
+,Marrina Smallwood (Earth-616),Good Characters,Black Eyes,Green Hair,Female Characters,Living Characters,82,Aug-83,1983
+,Fred Davis Jr. (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Deceased Characters,81,Aug-45,1945
+,Zelda DuBois (Earth-616),Bad Characters,Green Eyes,Auburn Hair,Female Characters,Living Characters,81,Mar-65,1965
+,Beyonder (Earth-616),Neutral Characters,Variable Eyes,Variable Hair,Male Characters,Living Characters,81,May-84,1984
+,Roxanne Washington (Earth-616),,,,Female Characters,Living Characters,81,5-Aug,2005
+,Bonita Juarez (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,80,Nov-81,1981
+,Surtur (Earth-616),Bad Characters,Yellow Eyes,Red Hair,Male Characters,Deceased Characters,79,Oct-63,1963
+,Stranger (Cosmic Being) (Earth-616),Neutral Characters,White Eyes,White Hair,Male Characters,Living Characters,79,May-65,1965
+,Brandy Clark (Earth-616),Good Characters,,Brown Hair,Female Characters,Living Characters,79,Dec-79,1979
+,Lillian Crawley (Earth-616),Good Characters,Hazel Eyes,Brown Hair,Female Characters,Deceased Characters,79,Aug-83,1983
+,Ichabod (Earth-616),Good Characters,,White Hair,Male Characters,Living Characters,78,Dec-48,1948
+,Russell Collins (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,78,Feb-86,1986
+,Michael Badilino (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,78,Jan-92,1992
+,Helen Takahama (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,78,Apr-97,1997
+,En Sabah Nur (Evan Sabahnur) (Earth-616),Good Characters,Black Eyes,Black Hair,Male Characters,Living Characters,78,11-Jun,2011
+,Dai Thomas (Earth-616),,,Brown Hair,Male Characters,Living Characters,77,Sep-75,1975
+,Maria Callasantos (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Female Characters,Deceased Characters,77,Mar-91,1991
+,Sally Avril (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,76,Aug-62,1962
+,Ebenezer Laughton (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,76,Mar-64,1964
+,Pluto (Olympian) (Earth-616),Bad Characters,Grey Eyes,Black Hair,Male Characters,Deceased Characters,76,Apr-66,1966
+,Arnim Zola (Earth-616),Bad Characters,,No Hair,Male Characters,Living Characters,76,Apr-77,1977
+,Mariko Yashida (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,76,Feb-79,1979
+,Dallas Riordan (Earth-616),Good Characters,Blue Eyes,Red Hair,Female Characters,Living Characters,76,Apr-97,1997
+,Hannibal King (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,75,Oct-74,1974
+,Thomas Cassidy (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,75,Jun-76,1976
+,Kara Killgrave (Earth-616),Good Characters,Purple Eyes,Black Hair,Female Characters,Living Characters,75,Dec-86,1986
+,Jess\u00e1n Hoan (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,75,May-88,1988
+,Daisy Johnson (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,75,4-Jul,2004
+,John Horton (Earth-616),Bad Characters,Yellow Eyes,Yellow Hair,Male Characters,Living Characters,74,Nov-72,1972
+,Cecilia Reyes (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,74,Jun-97,1997
+,Barnell Bohusk (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,74,1-Oct,2001
+,Victor Mancha (Earth-616),Good Characters,Green Eyes,Brown Hair,Male Characters,Living Characters,74,5-Apr,2005
+,Awesome Android (Earth-616),Neutral Characters,,No Hair,Male Characters,Living Characters,73,Jun-63,1963
+,Samuel Smithers (Earth-616),Bad Characters,Green Eyes,Grey Hair,Male Characters,Living Characters,73,Oct-63,1963
+,Wilbur Day (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,73,Jun-65,1965
+,Silvio Manfredi (Earth-616),Bad Characters,Blue Eyes,Silver Hair,Male Characters,Living Characters,73,Jun-69,1969
+,Richard Fisk (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,73,Apr-70,1970
+,Edward Whelan (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,73,Aug-82,1982
+,Donald Gill (Earth-616),Neutral Characters,Blue Eyes,Blue Hair,Male Characters,Living Characters,73,Oct-87,1987
+,Alani Ryan (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,73,4-Jun,2004
+,Aarkus (Earth-616),Good Characters,White Eyes,No Hair,Male Characters,Living Characters,72,Nov-40,1940
+,Aloysius Kare (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,72,Nov-50,1950
+,Ringo Kid (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,72,Aug-54,1954
+,Maynard Tiboldt (Earth-616),,Green Eyes,Black Hair,Male Characters,Living Characters,72,Sep-62,1962
+,Esteban Coraz\u00f3n de Ablo (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,72,Sep-64,1964
+,Marvin Flumm (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,72,Feb-66,1966
+,Nathaniel Richards (Earth-616),Neutral Characters,Brown Eyes,Grey Hair,Male Characters,Living Characters,72,Nov-84,1984
+,Kathryn Cushing (Earth-616),,Blue Eyes,Blond Hair,Female Characters,Living Characters,72,Nov-85,1985
+,Cameron Hodge (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,72,Feb-86,1986
+,Alistaire Stuart (Earth-616),,Variable Eyes,Variable Hair,Male Characters,Living Characters,72,Mar-89,1989
+,Stacy Dolan (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,72,May-90,1990
+,Sleepwalker (Earth-616),Good Characters,Red Eyes,No Hair,Male Characters,Living Characters,72,Jun-91,1991
+,Ben Hamill (Earth-616),Good Characters,,,Male Characters,Living Characters,72,4-Jan,2004
+,Ivan Kragoff (Earth-616),Bad Characters,Brown Eyes,Grey Hair,Male Characters,Living Characters,71,Apr-63,1963
+,Marco Scarlotti (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,71,Jan-68,1968
+,Jennifer Takeda (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,71,10-Aug,2010
+,Broo (Earth-616),Good Characters,,No Hair,Male Characters,Living Characters,71,11-Sep,2011
+,Robert Grayson (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,70,Dec-50,1950
+,Boris Bullski (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,70,Sep-65,1965
+,Maximillian Coleridge (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,70,Apr-76,1976
+,Oracle (Sybil) (Earth-616),Good Characters,Pink Eyes,Blond Hair,Female Characters,Living Characters,70,Oct-77,1977
+,Hope Abbott (Earth-616),Good Characters,Hazel Eyes,Brown Hair,Female Characters,Living Characters,70,5-Jun,2005
+,"Nicholas Fury, Jr. (Earth-616)",Good Characters,One Eye,Bald,Male Characters,Living Characters,70,12-Jan,2012
+,Fin Fang Foom (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Living Characters,69,Oct-61,1961
+,Shalla-Bal (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,69,Aug-68,1968
+,Samuel Saxon (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Living Characters,69,Feb-69,1969
+,Jean DeWolff (Earth-616),Good Characters,Green Eyes,Blond Hair,Female Characters,Deceased Characters,69,Aug-76,1976
+,Blanche Sitznski (Earth-616),Bad Characters,Green Eyes,Blond Hair,Female Characters,Living Characters,69,Jun-80,1980
+,Tanya Sealy (Earth-616),Neutral Characters,Green Eyes,Black Hair,Female Characters,Living Characters,69,Jun-80,1980
+,Joy Mercado (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,69,Sep-83,1983
+,Bennet du Paris (Earth-616),Bad Characters,White Eyes,Black Hair,Male Characters,Living Characters,69,Jul-93,1993
+,Martha Franklin (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,69,Nov-98,1998
+,Bentley Wittman (Clone) (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,69,9-Oct,2009
+,Rachel van Helsing (Earth-616),,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,68,Jul-72,1972
+,Jerome Beechman (Earth-616),Bad Characters,Black Eyes,Brown Hair,Male Characters,Living Characters,68,Jun-73,1973
+,Tyros (Earth-616),Bad Characters,Grey Eyes,No Hair,Male Characters,Deceased Characters,68,Oct-79,1979
+,Yukio (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,68,Sep-82,1982
+,Lila Cheney (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,68,Nov-84,1984
+,Thomas Fireheart (Earth-616),Neutral Characters,Green Eyes,Black Hair,Male Characters,Living Characters,68,Sep-84,1984
+,Everett Ross (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,68,Sep-98,1998
+,Criti Noll (Clone) (Earth-616),Bad Characters,Green Eyes,No Hair,Female Characters,Deceased Characters,68,6-Sep,2006
+,Kenneth Hale (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,67,Mar-54,1954
+,Korg (Earth-616),Good Characters,Black Eyes,No Hair,Male Characters,Living Characters,67,Aug-62,1962
+,Mark Raxton (Earth-616),Good Characters,Hazel Eyes,Blond Hair,Male Characters,Living Characters,67,Sep-65,1965
+,Calvin Rankin (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,67,Apr-66,1966
+,Basil Sandhurst (Earth-616),Bad Characters,White Eyes,Black Hair,Male Characters,Living Characters,67,Apr-69,1969
+,Hobie Brown (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,67,Nov-69,1969
+,Topaz (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,67,Jan-74,1974
+,Shadow King (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Living Characters,67,Jan-79,1979
+,William Cross (Earth-616),Bad Characters,Blue Eyes,White Hair,Male Characters,Living Characters,67,Jun-79,1979
+,Lance Bannon (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,67,Sep-80,1980
+,Rita DeMara (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Living Characters,67,Feb-86,1986
+,Tong (Moloid) (Earth-616),Good Characters,,No Hair,Female Characters,Living Characters,67,10-Mar,2010
+,Romulus Augustulus (Earth-616),Bad Characters,Brown Eyes,Blond Hair,Male Characters,Living Characters,66,Jan-63,1963
+,Super-Adaptoid (Earth-616),Bad Characters,Black Eyes,No Hair,Male Characters,Living Characters,66,Oct-66,1966
+,John Proudstar (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,66,May-75,1975
+,Christoph Nord (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,66,Feb-92,1992
+,Maya Lopez (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,66,Dec-99,1999
+,Old Lace (Earth-616),Good Characters,Red Eyes,No Hair,Female Characters,Living Characters,66,3-Aug,2003
+,Humberto Lopez (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,66,9-May,2009
+,Morgan le Fay (Earth-616),Bad Characters,Green Eyes,Purple Hair,Female Characters,Living Characters,65,May-55,1955
+,Luchino Nefaria (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,65,Feb-65,1965
+,Jennifer Kale (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,65,Dec-72,1972
+,Douglas Scott (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,65,Oct-81,1981
+,Ashley Kafka (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,65,Jul-91,1991
+,Robert Herman (Earth-616),Neutral Characters,,No Hair,Male Characters,Living Characters,65,1-Oct,2001
+,Shuri (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,65,5-May,2005
+,Justin Hammer (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,64,Mar-79,1979
+,Michael Steel (Earth-616),Bad Characters,White Eyes,No Hair,Male Characters,Living Characters,64,Dec-80,1980
+,Kristoff Vernard (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,64,Oct-82,1982
+,Gateway (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,64,May-88,1988
+,Lily Hollister (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,64,8-Jan,2008
+,Tyr Odinson (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,63,Oct-62,1962
+,Krang (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,63,Sep-63,1963
+,Zebediah Killgrave (Earth-616),Bad Characters,Purple Eyes,Purple Hair,Male Characters,Living Characters,63,Oct-64,1964
+,En Dwi Gast (Earth-616),Bad Characters,Red Eyes,White Hair,Male Characters,Living Characters,63,Oct-69,1969
+,Arthur Stacy (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,63,Feb-71,1971
+,David Griffith (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,63,Aug-72,1972
+,Franklin Hall (Earth-616),Bad Characters,Blue Eyes,White Hair,Male Characters,Living Characters,63,Apr-77,1977
+,Microtron (Earth-616),,,,,Living Characters,63,Jan-79,1979
+,Sara Wolfe (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,63,Dec-79,1979
+,Simon Utrecht (Earth-616),Bad Characters,Brown Eyes,Grey Hair,Male Characters,Living Characters,63,Dec-80,1980
+,Vertigo (Savage Land Mutate) (Earth-616),Bad Characters,Blue Eyes,Green Hair,Female Characters,Deceased Characters,63,Mar-82,1982
+,Armando Mu\u00f1oz (Earth-616),Good Characters,White Eyes,No Hair,Male Characters,Living Characters,63,6-Feb,2006
+,Jeanne Foucault (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,63,10-Aug,2010
+,Bruno Horgan (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,62,Nov-63,1963
+,Owen Reece (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,62,Nov-63,1963
+,Phineas Mason (Earth-616),Neutral Characters,Grey Eyes,White Hair,Male Characters,Living Characters,62,May-63,1963
+,Man-Beast (Earth-616),Bad Characters,Red Eyes,Brown Hair,Male Characters,Living Characters,62,Nov-66,1966
+,Candace Southern (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,62,Apr-67,1967
+,Heather Glenn (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,62,Oct-75,1975
+,Rintrah (Earth-616),Good Characters,Brown Eyes,Green Hair,Male Characters,Living Characters,62,Dec-86,1986
+,Kevin Masterson (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,62,Jun-88,1988
+,Arkady Rossovich (Earth-616),Bad Characters,Red Eyes,Blond Hair,Male Characters,Deceased Characters,62,Jan-92,1992
+,Karima Shapandar (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,62,Jun-00,2000
+,Norah Winters (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,62,8-Dec,2008
+,Brandon Sharpe (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,62,10-Aug,2010
+,Plan Chu (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,61,Oct-56,1956
+,William Connors (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,61,Nov-63,1963
+,Modred (Earth-616),Neutral Characters,Blue Eyes,Silver Hair,Male Characters,Living Characters,61,Oct-75,1975
+,James Darnell (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,61,Dec-80,1980
+,Carnage (Symbiote) (Earth-616),Bad Characters,White Eyes,No Hair,Agender Characters,Living Characters,61,Mar-92,1992
+,Venus (Siren) (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,61,6-Oct,2006
+,Lance Temple (Outlaw Kid) (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,60,Sep-54,1954
+,Impossible Man (Earth-616),Neutral Characters,Purple Eyes,No Hair,Male Characters,Living Characters,60,Feb-63,1963
+,Robert Hunter (Earth-616),Bad Characters,Blue Eyes,White Hair,Male Characters,Living Characters,60,Sep-74,1974
+,Onslaught (Psychic Entity) (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Living Characters,60,May-96,1996
+,Irene Merryweather (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,60,Nov-97,1997
+,E.V.A. (Earth-616),Good Characters,,No Hair,Female Characters,Living Characters,60,2-Sep,2002
+,Mik (Moloid) (Earth-616),Good Characters,,No Hair,Male Characters,Living Characters,60,10-Mar,2010
+,Kro (Earth-616),Bad Characters,Red Eyes,Bald,Male Characters,Living Characters,59,Aug-40,1940
+,Toni Turner (Earth-616),,Black Eyes,Black Hair,Female Characters,Living Characters,59,Jan-62,1962
+,Melvin Potter (Earth-616),,Blue Eyes,Bald,Male Characters,Living Characters,59,Jul-66,1966
+,Billy Russo (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,59,Oct-76,1976
+,Anath-Na Mut (Earth-616),Bad Characters,Red Eyes,Bald,Male Characters,Living Characters,59,Feb-77,1977
+,Gilgamesh (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,59,Jul-77,1977
+,Rebecca Blake (Earth-616),Neutral Characters,,Auburn Hair,Female Characters,Living Characters,59,Nov-78,1978
+,Biotron (Earth-616),Good Characters,,,Male Characters,Living Characters,59,Jan-79,1979
+,Ruth Bat-Seraph (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,59,Aug-80,1980
+,Sofia Mantega (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,59,3-Jul,2003
+,Nezhno Abidemi (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Living Characters,59,6-Apr,2006
+,Thomas Shepherd (Earth-616),Good Characters,Green Eyes,White Hair,Male Characters,Living Characters,59,6-Mar,2006
+,Ken Mack (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,59,10-Aug,2010
+,Turg (Moloid) (Earth-616),Good Characters,,No Hair,Male Characters,Living Characters,59,10-Mar,2010
+,Ivan Petrovitch (Earth-616),,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,58,Aug-70,1970
+,Robert Diamond (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,58,Apr-74,1974
+,Debra Whitman (Earth-616),,Green Eyes,Blond Hair,Female Characters,Living Characters,58,Sep-79,1979
+,Cassandra Webb (Earth-616),Good Characters,Grey Eyes,Black Hair,Female Characters,Deceased Characters,58,Nov-80,1980
+,Claudette and Nicole St. Croix (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,58,Sep-94,1994
+,Greg Willis (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,58,5-Aug,2005
+,Korr (Moloid) (Earth-616),Good Characters,,No Hair,,Living Characters,58,10-Mar,2010
+,Daniel Brito (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,57,Mar-64,1964
+,Jackson Brice (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,57,Mar-64,1964
+,Quincy Harker (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Deceased Characters,57,Mar-73,1973
+,Duvid Fortunov (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,57,Aug-75,1975
+,Philippa Sontag (Earth-616),Bad Characters,Violet Eyes,Black Hair,Female Characters,Living Characters,57,Oct-86,1986
+,Laurie Tromette (Earth-616),Good Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,57,10-Sep,2010
+,Max Modell (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,57,11-Jan,2011
+,Arthur Pendragon (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,56,Mar-44,1944
+,Hera Argeia (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,56,Apr-49,1949
+,Johann Fennhoff (Earth-616),Bad Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,56,Nov-68,1968
+,Mesmero (Vincent) (Earth-616),Neutral Characters,Green Eyes,Brown Hair,Male Characters,Living Characters,56,Oct-68,1968
+,Martha Robertson (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,56,Jan-69,1969
+,James Braddock Jr. (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,56,Dec-76,1976
+,Ayesha (Earth-616),,White Eyes,Blond Hair,Female Characters,Living Characters,56,Nov-77,1977
+,Nebula (Earth-616),Bad Characters,Blue Eyes,Bald,Female Characters,Living Characters,56,Jul-85,1985
+,Blackout (Lilin) (Earth-616),Bad Characters,Red Eyes,White Hair,Male Characters,Living Characters,56,Jun-90,1990
+,Garrison Kane (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,56,Sep-91,1991
+,Phyla-Vell (Earth-616),Good Characters,Blue Eyes,White Hair,Female Characters,Deceased Characters,56,4-Jan,2004
+,Vil (Earth-616),Neutral Characters,,No Hair,Female Characters,Living Characters,56,10-Apr,2010
+,Eliot Franklin (Clown) (Earth-616),,Brown Eyes,Brown Hair,Male Characters,Living Characters,55,Sep-62,1962
+,Psycho-Man (Earth-616),Bad Characters,Yellow Eyes,,Male Characters,Living Characters,55,Nov-67,1967
+,Humanoid Experimental Robot B-Type Integrated Electronics (Earth-616),Good Characters,Yellow Eyes,No Hair,Male Characters,Living Characters,55,Aug-79,1979
+,Cleo Nefertiti (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,55,Sep-85,1985
+,Fen (Earth-616),Good Characters,Green Eyes,Auburn Hair,Female Characters,Living Characters,55,,
+,Martha Connors (Earth-616),,Blue Eyes,Red Hair,Female Characters,Deceased Characters,54,Nov-63,1963
+,Stan Lee (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,54,Jan-63,1963
+,Athena Parthenos (Earth-616),Neutral Characters,,Black Hair,Female Characters,Deceased Characters,54,May-69,1969
+,Hector Ayala (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,54,Dec-75,1975
+,Blake Tower (Earth-616),Good Characters,,Blond Hair,Male Characters,Living Characters,54,Jan-76,1976
+,Dimitri Bukharin (Earth-616),,Brown Eyes,Bald,Male Characters,Living Characters,54,Apr-78,1978
+,Captain Universe (Earth-616),Good Characters,Variable Eyes,Variable Hair,Agender Characters,Living Characters,54,Aug-79,1979
+,Mister Negative (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,54,7-Jun,2007
+,William Lumpkin (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,53,Feb-63,1963
+,Ego (Earth-616),,,No Hair,Male Characters,Living Characters,53,Sep-66,1966
+,Bova Ayrshire (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Deceased Characters,53,Aug-74,1974
+,Seth (Earth-616),Bad Characters,Brown Eyes,Red Hair,Male Characters,Living Characters,53,Oct-75,1975
+,Brian Falsworth (Earth-616),,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,53,Jul-77,1977
+,Nikolai Krylenko (Earth-616),Neutral Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,53,Apr-78,1978
+,Valinor (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,53,Mar-79,1979
+,Ann Darnell (Earth-616),,Green Eyes,Brown Hair,Female Characters,Living Characters,53,Dec-80,1980
+,Alexander Pierce (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,53,Aug-88,1988
+,Kayla Ballantine (Earth-616),Good Characters,,Strawberry Blond Hair,Female Characters,Living Characters,53,Nov-89,1989
+,Vanessa Carlysle (Earth-616),Neutral Characters,Red Eyes,White Hair,Female Characters,Living Characters,53,Feb-91,1991
+,Donyell Taylor (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,53,Oct-93,1993
+,Ken Ellis (Earth-616),,Brown Eyes,Brown Hair,Male Characters,Living Characters,53,Nov-94,1994
+,Teon Macik (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,53,10-Dec,2010
+,Wu (Earth-616),Neutral Characters,,No Hair,Male Characters,Living Characters,53,10-Apr,2010
+,Eva Bell (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,53,13-Jan,2013
+,Zuras (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,52,Aug-40,1940
+,Kevin Marlow (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Living Characters,52,Oct-41,1941
+,Steven Rogers (William Burnside) (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,52,Dec-53,1953
+,Space Phantom (Earth-616),,Black Eyes,Brown Hair,Male Characters,Living Characters,52,Nov-63,1963
+,Tana Nile (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,52,Jun-66,1966
+,Turk Barrett (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,52,Oct-70,1970
+,Xandarian Worldmind (Earth-616),Good Characters,,,,Living Characters,52,Apr-77,1977
+,Argon (Microverse) (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,52,Jan-79,1979
+,Fabian Stankowicz (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,52,Mar-82,1982
+,Masque (Morlock) (Earth-616),,Red Eyes,Bald,Male Characters,Living Characters,52,May-83,1983
+,Manuel de la Rocha (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,52,Jun-84,1984
+,Kodiak Noatak (Earth-616),Bad Characters,,Red Hair,Male Characters,Living Characters,52,Oct-86,1986
+,Graydon Creed (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,52,Jan-93,1993
+,Max Eisenhardt (Joseph) (Earth-616),Bad Characters,Blue Eyes,White Hair,Male Characters,Living Characters,52,Dec-95,1995
+,Seward Trainer (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,52,Jan-95,1995
+,Tex Dawson (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,51,Dec-54,1954
+,Gunther Bain (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,51,Nov-64,1964
+,Jeryn Hogarth (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,51,Aug-77,1977
+,Robert Farrell (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,51,Sep-77,1977
+,Maximillian Zaran (Earth-616),Bad Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,51,Jun-79,1979
+,Chons (Earth-616),Neutral Characters,Variable Eyes,,Male Characters,Living Characters,51,Nov-80,1980
+,Mikhail Ursus (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,51,Apr-81,1981
+,Joshua Guthrie (Earth-616),Good Characters,Green Eyes,Red Hair,Male Characters,Deceased Characters,51,Nov-84,1984
+,Antonio Rodriguez (Earth-616),Neutral Characters,Brown Eyes,No Hair,Male Characters,Living Characters,51,Aug-85,1985
+,Jack Hammer (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,51,Aug-93,1993
+,Neal Shaara (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,51,May-00,2000
+,"John Jonah Jameson, Sr. (Earth-616)",Good Characters,Brown Eyes,White Hair,Male Characters,Living Characters,51,9-Jan,2009
+,Terry Vance (Earth-616),Good Characters,Blue Eyes,Auburn Hair,Male Characters,Living Characters,50,Aug-40,1940
+,Aphrodite Ourania (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,50,Aug-48,1948
+,M-11 (Earth-616),Good Characters,Yellow Eyes,No Hair,Male Characters,Living Characters,50,May-54,1954
+,Sir Percy of Scandia (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,50,May-55,1955
+,Deborah Harris (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,50,Oct-65,1965
+,Llyra Morris (Earth-616),Bad Characters,Green Eyes,Green Hair,Female Characters,Living Characters,50,Dec-70,1970
+,Robert Kelly (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,50,May-80,1980
+,Susan Austin (Earth-616),Good Characters,,Strawberry Blond Hair,Female Characters,Living Characters,50,Jun-88,1988
+,Amelia Voght (Earth-616),Neutral Characters,Green Eyes,Red Hair,Female Characters,Living Characters,50,May-93,1993
+,Marshall Stone III (Earth-616),Neutral Characters,Black Eyes,Black Hair,Male Characters,Living Characters,50,Mar-93,1993
+,Alexei Kravinoff (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,50,Feb-97,1997
+,Guy Smith (Earth-616),Good Characters,Purple Eyes,White Hair,Male Characters,Deceased Characters,50,1-Aug,2001
+,Tike Alicar (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,50,1-Jul,2001
+,Eden Fesi (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,50,9-Jul,2009
+,Raymond Dawson (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,49,Sep-40,1940
+,Henry Tinkelbaum (Earth-616),Good Characters,,Blond Hair,Male Characters,Deceased Characters,49,Jun-41,1941
+,Cookie Novak (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,49,Nov-51,1951
+,Hank Kelly (Earth-616),Good Characters,,Red Hair,,Living Characters,49,Nov-51,1951
+,Robert Rider (Earth-616),,,Brown Hair,Male Characters,Living Characters,49,Sep-76,1976
+,Tania Belinskaya (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,49,May-76,1976
+,William Nasland (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,49,Mar-77,1977
+,Roger Bochs (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,49,Aug-83,1983
+,Marcus Stone (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,49,Jun-89,1989
+,Deidre Wentworth (Earth-616),Bad Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,49,Jul-91,1991
+,Fabian Cortez (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,49,Oct-91,1991
+,Sharra Neramani (Earth-616),,Yellow Eyes,Purple Hair,Female Characters,Deceased Characters,49,Jun-93,1993
+,Rumiko Fujikawa (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,49,May-98,1998
+,Gabriel Cohuelo (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,49,10-Oct,2010
+,Phillip Coulson (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,49,12-Jan,2012
+,Christopher Muse (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,49,13-Jan,2013
+,Doctor Watson (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,48,Aug-40,1940
+,Abraham Erskine (Earth-616),,Brown Eyes,Black Hair,Male Characters,Deceased Characters,48,Mar-41,1941
+,Umar (Earth-616),Bad Characters,Green Eyes,Black Hair,Female Characters,Living Characters,48,Nov-66,1966
+,Satannish (Earth-616),Bad Characters,Multiple Eyes,,Male Characters,Deceased Characters,48,Nov-68,1968
+,Sha Shan (Earth-616),Good Characters,Grey Eyes,Black Hair,Female Characters,Living Characters,48,May-72,1972
+,Blood Brothers (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Living Characters,48,Feb-73,1973
+,Nekra Sinclair (Earth-616),Bad Characters,Black Eyes,Black Hair,Female Characters,Deceased Characters,48,Aug-73,1973
+,Abraham Brown (Earth-616),,Brown Eyes,Black Hair,Male Characters,Living Characters,48,Apr-74,1974
+,Mamie Muggins (Earth-616),,,Grey Hair,Female Characters,Living Characters,48,Dec-74,1974
+,In-Betweener (Earth-616),Neutral Characters,Black Eyes,No Hair,Male Characters,Living Characters,48,Oct-75,1975
+,Eric Payne (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,48,Apr-77,1977
+,Mentor (Imperial Guard) (Earth-616),Neutral Characters,White Eyes,No Hair,Male Characters,Living Characters,48,Oct-77,1977
+,Starbolt (Earth-616),Neutral Characters,Yellow Eyes,No Hair,Male Characters,Deceased Characters,48,Oct-77,1977
+,Manta (Earth-616),Neutral Characters,White Eyes,No Hair,Female Characters,Living Characters,48,Sep-80,1980
+,Lorelei (Asgardian) (Earth-616),Bad Characters,Blue Eyes,Red Hair,Female Characters,Living Characters,48,Nov-83,1983
+,Grace Powell (Earth-616),Good Characters,,Red Hair,Female Characters,Living Characters,48,Mar-91,1991
+,Rick Sheridan (Earth-616),Good Characters,Brown Eyes,Light Brown Hair,Male Characters,Living Characters,48,Jun-91,1991
+,Frances Barrison (Earth-616),Bad Characters,Blue Eyes,Blue Hair,Female Characters,Living Characters,48,May-93,1993
+,Shirley Washington (Earth-616),,Brown Eyes,Black Hair,Female Characters,Living Characters,48,Jan-96,1996
+,Tsu-Zana (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,48,Nov-96,1996
+,Richard Gilmore (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,48,Sep-98,1998
+,Tarene (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,48,Apr-00,2000
+,Melati Kusuma (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,48,7-May,2007
+,Jonas Graymalkin (Earth-616),Good Characters,White Eyes,No Hair,Male Characters,Living Characters,48,8-Jun,2008
+,Thakorr (Earth-616),Bad Characters,,No Hair,Male Characters,Deceased Characters,48,,
+,Ulysses Bloodstone (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,47,Feb-60,1960
+,Jack Pulver (Earth-616),,Blue Eyes,Brown Hair,Male Characters,Living Characters,47,Sep-62,1962
+,Maxwell Markham (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,47,Dec-74,1974
+,Baron Karza (Earth-616),Bad Characters,Red Eyes,Black Hair,Male Characters,Living Characters,47,Jan-79,1979
+,Lindsay McCabe (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,47,May-79,1979
+,Colin Hume (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,47,Aug-90,1990
+,Jason Powell (Earth-616),Neutral Characters,,,Male Characters,Living Characters,47,Mar-91,1991
+,Martha Johansson (Earth-616),Good Characters,,No Hair,Female Characters,Living Characters,47,1-Nov,2001
+,Regan Wyngarde (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,47,1-Dec,2001
+,Michael Pointer (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,47,6-Apr,2006
+,Jerry Sledge (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,47,8-Jul,2008
+,John Grey (Earth-616),Good Characters,,Grey Hair,Male Characters,Deceased Characters,46,May-64,1964
+,Jonathan Murdock (Earth-616),Good Characters,,,Male Characters,Deceased Characters,46,Apr-64,1964
+,Nicholas Bromwell (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,46,Feb-64,1964
+,Edgar Plunder (Earth-616),Bad Characters,Black Eyes,Grey Hair,Male Characters,Living Characters,46,Jan-66,1966
+,Vanessa Fisk (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,46,Mar-69,1969
+,Lissa Russell (Earth-616),Good Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,46,Feb-72,1972
+,Wundarr (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,46,Oct-73,1973
+,Bertrand Crawley (Earth-616),,,White Hair,Male Characters,Living Characters,46,Jun-76,1976
+,Beverly Switzler (Earth-616),Good Characters,,Red Hair,Female Characters,Living Characters,46,Jan-76,1976
+,Stephanie Hunter (Earth-616),Good Characters,Black Eyes,Black Hair,Female Characters,Living Characters,46,Nov-80,1980
+,Rachel Carpenter (Earth-616),Good Characters,Brown Eyes,Blond Hair,Female Characters,Living Characters,46,Jan-87,1987
+,Francis Ketch (Earth-616),Good Characters,,Brown Hair,Female Characters,Living Characters,46,May-90,1990
+,Jonathan Powell (Earth-616),Neutral Characters,,,Male Characters,Living Characters,46,Mar-91,1991
+,Cerise (Earth-616),Good Characters,Violet Eyes,Black Hair,Female Characters,Living Characters,46,Jan-92,1992
+,Jake Olson (Duplicate) (Earth-616),Good Characters,,Blond Hair,Male Characters,Deceased Characters,46,Aug-98,1998
+,Myles Alfred (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,46,1-Aug,2001
+,Gertrude Yorkes (Earth-616),Good Characters,Green Eyes,Black Hair,Female Characters,Deceased Characters,46,3-Jul,2003
+,Alexander Aaron (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,46,6-Mar,2006
+,Kubark (Earth-616),Good Characters,Red Eyes,Red Hair,Male Characters,Living Characters,46,11-Dec,2011
+,Elihas Starr (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,45,Dec-62,1962
+,James Wilson (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,45,Sep-70,1970
+,Claire Temple (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,45,Aug-72,1972
+,Eon (Earth-616),,Red Eyes,Brown Hair,,Living Characters,45,Sep-73,1973
+,Stuart Clarke (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,45,Apr-76,1976
+,Malekith (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,45,Jun-84,1984
+,Oswald Silkworth (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Deceased Characters,45,Feb-84,1984
+,Jesse Aaronson (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,45,Oct-98,1998
+,Miranda Leevald (Earth-616),Neutral Characters,Green Eyes,Black Hair,Female Characters,Living Characters,45,1-Dec,2001
+,Angela del Toro (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,45,3-Feb,2003
+,Laurie Collins (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,45,3-Aug,2003
+,Gabriel Summers (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,45,6-Jan,2006
+,Miek (Earth-616),Bad Characters,Yellow Eyes,No Hair,Male Characters,Deceased Characters,45,6-Apr,2006
+,Joseph Green (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,45,7-May,2007
+,Maki Matsumoto (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,45,8-Nov,2008
+,Mark Todd (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Deceased Characters,44,Mar-41,1941
+,Robert Baxter (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,44,Nov-44,1944
+,Mordred (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,44,May-55,1955
+,Alexander Gentry (Earth-616),Neutral Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,44,Oct-63,1963
+,Idunn (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,44,Mar-65,1965
+,Ahmet Abdol (Earth-616),Bad Characters,Red Eyes,Bald,Male Characters,Living Characters,44,Mar-69,1969
+,Jackson Norriss (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,44,Apr-70,1970
+,Rafael Scarfe (Earth-616),,,Brown Hair,Male Characters,Living Characters,44,Aug-75,1975
+,Arishem (Earth-616),Neutral Characters,,No Hair,Male Characters,Living Characters,44,Aug-76,1976
+,John Falsworth (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,44,Jul-76,1976
+,Eshu (Earth-616),Bad Characters,Green Eyes,Black Hair,Male Characters,Deceased Characters,44,Sep-83,1983
+,Erg (Earth-616),Neutral Characters,One Eye,Black Hair,Male Characters,Living Characters,44,Jul-85,1985
+,James Bourne (Earth-616),Neutral Characters,Brown Eyes,,Male Characters,Living Characters,44,Oct-86,1986
+,Abraham Zimmer (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Deceased Characters,44,Jun-87,1987
+,Laura Dean (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,44,Jul-87,1987
+,Whitman Knapp (Earth-616),,,Strawberry Blond Hair,Male Characters,Living Characters,44,Feb-87,1987
+,Christopher Bradley (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,44,Oct-95,1995
+,Blind Al (Althea) (Earth-616),Good Characters,,White Hair,Female Characters,Living Characters,44,Jan-97,1997
+,Void (Dark Sentry) (Earth-616),Bad Characters,Orange Eyes,Black Hair,Male Characters,Deceased Characters,44,Sep-00,2000
+,Brightwind (Earth-616),,Red Eyes,Black Hair,Male Characters,Living Characters,44,,
+,Red Raven (Liberty Legion) (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,43,Aug-40,1940
+,Roger Aubrey (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Living Characters,43,Mar-43,1943
+,Elaine Grey (Earth-616),Good Characters,Blue Eyes,Grey Hair,Female Characters,Deceased Characters,43,May-64,1964
+,Milos Masaryk (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,43,Aug-64,1964
+,Vera Cantor (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,43,Apr-66,1966
+,Noah Black (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Living Characters,43,Jul-68,1968
+,Charles Barton (Earth-616),Neutral Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,43,May-69,1969
+,Howard Stark (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,43,Aug-70,1970
+,Martine Bancroft (Earth-616),,Red Eyes,Blond Hair,Female Characters,Deceased Characters,43,Nov-71,1971
+,Hildegarde (Earth-616),Good Characters,,Blond Hair,Female Characters,Living Characters,43,Jan-72,1972
+,Lincoln Slade (Earth-616),Good Characters,,,Male Characters,Deceased Characters,43,Jan-72,1972
+,Richard Rory (Earth-616),,Brown Eyes,Brown Hair,Male Characters,Living Characters,43,Feb-74,1974
+,Wilhelm Lohmer (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Living Characters,43,Jun-75,1975
+,Jackson Day (Earth-616),Bad Characters,Red Eyes,White Hair,Male Characters,Living Characters,43,Dec-76,1976
+,Thursday Rubinstein (Earth-616),Bad Characters,,No Hair,Female Characters,Living Characters,43,Feb-76,1976
+,Slug (Microverse) (Earth-616),Good Characters,,Black Hair,Female Characters,Deceased Characters,43,Apr-79,1979
+,Belasco (Earth-616),Bad Characters,Black Eyes,Brown Hair,Male Characters,Living Characters,43,Feb-82,1982
+,Edward Lavell (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,43,Apr-83,1983
+,Frank Simpson (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,43,Jul-86,1986
+,Silas Burr (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,43,Sep-91,1991
+,Carolyn Trainer (Earth-616),Bad Characters,,Pink Hair,Female Characters,Living Characters,43,Sep-95,1995
+,Carlos LaMuerto (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,43,Jan-97,1997
+,Milla Donovan (Earth-616),Good Characters,White Eyes,Black Hair,Female Characters,Living Characters,43,3-Mar,2003
+,Tomi Shishido (Earth-616),Bad Characters,Green Eyes,Black Hair,Male Characters,Living Characters,43,4-Dec,2004
+,Samuel Alexander (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,43,12-Jan,2012
+,Leila Taylor (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,42,Aug-71,1971
+,Buck Cowan (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,42,Jun-72,1972
+,Katerina van Horn (Earth-616),,Blue Eyes,Red Hair,Female Characters,Living Characters,42,Apr-73,1973
+,Lei-Kung (Earth-616),Good Characters,Black Eyes,Bald,Male Characters,Living Characters,42,Jul-74,1974
+,Lilith Drake (Earth-616),Neutral Characters,Red Eyes,Black Hair,Female Characters,Living Characters,42,Jun-74,1974
+,Gwendolyne Stacy (Clone) (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,42,Mar-75,1975
+,Grannz (Earth-616),Neutral Characters,Orange Eyes,Orange Hair,Male Characters,Living Characters,42,Oct-77,1977
+,Lord Chaos (Earth-616),Good Characters,,No Hair,,Living Characters,42,Dec-77,1977
+,Andromeda Attumasen (Earth-616),Good Characters,Green Eyes,Auburn Hair,Female Characters,Living Characters,42,May-85,1985
+,Blackheart (Earth-616),Bad Characters,Red Eyes,Black Hair,Male Characters,Living Characters,42,Sep-89,1989
+,Pantu Hurageb (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,42,Feb-90,1990
+,Walter Charles (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,42,Apr-90,1990
+,Doreen Green (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,42,Dec-91,1991
+,Peter Hunter (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,42,Feb-91,1991
+,Algernon Crowe (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,42,Jul-92,1992
+,Justine Hammer (Earth-616),Bad Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,42,Jun-97,1997
+,Johnathon Gallo (Earth-616),Good Characters,Blue Eyes,Silver Hair,Male Characters,Living Characters,42,Sep-98,1998
+,Maria de Guadalupe Santiago (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,42,Sep-98,1998
+,Elsa Bloodstone (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,42,1-Dec,2001
+,Thor Odinson (Ragnarok) (Earth-616),Neutral Characters,Red Eyes,Bald,Male Characters,Living Characters,42,6-Sep,2006
+,Roger Brokeridge (Earth-616),Neutral Characters,Green Eyes,Blond Hair,Male Characters,Living Characters,42,7-May,2007
+,Phineas Horton (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,41,Oct-39,1939
+,Marie Lathrop (Earth-616),Good Characters,,Blond Hair,Female Characters,Living Characters,41,Dec-48,1948
+,Byrrah (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,41,Aug-54,1954
+,Orka (Earth-616),Neutral Characters,Black Eyes,Black Hair,Male Characters,Deceased Characters,41,Mar-70,1970
+,Grom (Earth-616),Neutral Characters,Black Eyes,Red Hair,Male Characters,Living Characters,41,Aug-71,1971
+,Noah Burstein (Earth-616),Good Characters,,,Male Characters,Living Characters,41,Jun-72,1972
+,Lin Sun (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,41,Apr-74,1974
+,Daniel Berkhart (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,41,Feb-75,1975
+,Ransak (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,41,Feb-77,1977
+,Simon Maddicks (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,41,Jan-77,1977
+,Iann-23 (Earth-616),Good Characters,Blue Eyes,No Hair,Male Characters,Living Characters,41,Jan-82,1982
+,Obadiah Stane (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,41,Oct-82,1982
+,Martin Preston (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,41,Jan-86,1986
+,Nick Katzenberg (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,41,May-89,1989
+,Richard Parker (Simulcrum) (Earth-616),,,,Male Characters,Deceased Characters,41,Jun-92,1992
+,Century (Alien) (Earth-616),Good Characters,White Eyes,White Hair,Male Characters,Living Characters,41,Jul-94,1994
+,Charles Burlingame (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,41,Oct-98,1998
+,Kuan-Yin Xorn (Earth-616),Bad Characters,,,Male Characters,Deceased Characters,41,1-Sep,2001
+,Juston Seyfert (Earth-616),Good Characters,Green Eyes,Brown Hair,Male Characters,Deceased Characters,41,3-Jun,2003
+,Sally Floyd (Earth-616),,Brown Eyes,Black Hair,Female Characters,Living Characters,41,6-Jan,2006
+,Gunna Sijurvald (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,41,10-Aug,2010
+,Geoffrey Vandergill (Earth-616),Good Characters,,Blond Hair,Male Characters,Deceased Characters,40,Jun-41,1941
+,Washington Jones (Earth-616),Good Characters,,White Hair,Male Characters,Deceased Characters,40,Jun-41,1941
+,Phoebus Apollo (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,40,Aug-48,1948
+,Leopold Stryke (Earth-616),Bad Characters,Green Eyes,Brown Hair,Male Characters,Deceased Characters,40,Sep-63,1963
+,Raymond Bloch (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,40,Mar-64,1964
+,Mendel Stromm (Earth-616),Bad Characters,Red Eyes,Bald,Male Characters,Living Characters,40,Jun-66,1966
+,Recorder 211 (Earth-616),Neutral Characters,,Bald,Male Characters,Living Characters,40,Sep-66,1966
+,Yon-Rogg (Earth-616),Bad Characters,,Brown Hair,Male Characters,Living Characters,40,Dec-67,1967
+,Barbarus (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,40,Nov-69,1969
+,Zarathos (Earth-616),Neutral Characters,Blue Eyes,No Hair,Male Characters,Living Characters,40,Aug-72,1972
+,Ajak (Earth-616),,Grey Eyes,Black Hair,Male Characters,Living Characters,40,Aug-76,1976
+,Araki (Earth-616),Neutral Characters,Gold Eyes,White Hair,Female Characters,Deceased Characters,40,Feb-78,1978
+,Munin (Earth-616),Good Characters,Black Eyes,,Male Characters,Living Characters,40,Aug-78,1978
+,Sybil Dvorak (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,40,Jan-79,1979
+,Daniel Leighton (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,40,Jan-80,1980
+,Johnathon Ohnn (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,40,Jan-85,1985
+,Andrew Chord (Earth-616),,Brown Eyes,Bald,Male Characters,Living Characters,40,Dec-89,1989
+,Demogoblin (Earth-616),Neutral Characters,Red Eyes,No Hair,Male Characters,Deceased Characters,40,Feb-89,1989
+,Julius Mullarkey (Earth-616),Good Characters,Red Eyes,Red Hair,Male Characters,Deceased Characters,40,Jun-92,1992
+,Kiskillilla (Earth-616),Bad Characters,Yellow Eyes,Black Hair,Female Characters,Deceased Characters,40,Aug-92,1992
+,Sarah Ryall (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,40,Dec-92,1992
+,Shevaun Haldane (Earth-616),Good Characters,Green Eyes,Auburn Hair,Female Characters,Living Characters,40,Jul-92,1992
+,Steven Harmon (Earth-616),Good Characters,Blue Eyes,Purple Hair,Male Characters,Living Characters,40,Nov-92,1992
+,Scrier (Earth-616),Neutral Characters,Black Eyes,No Hair,Male Characters,Living Characters,40,Oct-94,1994
+,James Santini (Earth-616),Good Characters,Green Eyes,Brown Hair,Male Characters,Living Characters,40,Oct-95,1995
+,Janice Yanizeski (Earth-616),Neutral Characters,Hazel Eyes,Blond Hair,Female Characters,Living Characters,40,Dec-95,1995
+,Paul Stacy (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,40,Mar-97,1997
+,Dead Girl (Moonbeam) (Earth-616),Good Characters,Red Eyes,Black Hair,Female Characters,Deceased Characters,40,2-Apr,2002
+,Abigail Boylen (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,40,7-May,2007
+,Sajani Jaffrey (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,40,11-Jan,2011
+,Benjamin Deeds (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,40,13-Feb,2013
+,Richard Parker (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,39,Nov-68,1968
+,Steel Serpent (Davos) (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,39,Nov-75,1975
+,Jacob Conover (Earth-616),Bad Characters,,Black Hair,Male Characters,Living Characters,39,Mar-76,1976
+,Miss Locke (Earth-616),Bad Characters,,Black Hair,Female Characters,Deceased Characters,39,Jan-78,1978
+,Kaina (Earth-616),Good Characters,White Eyes,Brown Hair,Female Characters,Living Characters,39,Jul-79,1979
+,Aaron Nicholson (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,39,Jun-84,1984
+,Amiko Kobayashi (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,39,May-84,1984
+,Ghaur (Earth-616),Bad Characters,Yellow Eyes,Blue Hair,Male Characters,Living Characters,39,Nov-85,1985
+,Quincy McIver (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,39,Oct-85,1985
+,Ulysses Lugman (Earth-616),Bad Characters,Blue Eyes,White Hair,Male Characters,Living Characters,39,Jan-87,1987
+,Ananym (Earth-616),Bad Characters,White Eyes,Red Hair,Female Characters,Living Characters,39,Nov-89,1989
+,Silverfox (Canadian) (Earth-616),,Blue Eyes,Black Hair,Female Characters,Deceased Characters,39,Aug-89,1989
+,Mary Parker (Simulcrum) (Earth-616),,,,Female Characters,Deceased Characters,39,Jun-92,1992
+,Carlton LaFroyge (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,39,May-93,1993
+,Cammille Benally (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,39,5-Nov,2005
+,Brood (Warbound) (Earth-616),Neutral Characters,Yellow Eyes,No Hair,Female Characters,Living Characters,39,7-May,2007
+,Rebecca Barnes (Onslaught Reborn) (Earth-616),,Hazel Eyes,Red Hair,Female Characters,Deceased Characters,39,7-Jan,2007
+,Cosmo (Dog) (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,39,8-Jan,2008
+,Fabio Medina (Earth-616),Good Characters,Black Eyes,Brown Hair,Male Characters,Living Characters,39,13-Apr,2013
+,Henry Casey (Earth-616),Good Characters,,Red Hair,Male Characters,Living Characters,38,Nov-52,1952
+,Harrington Byrd (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,38,Oct-63,1963
+,Marianne Rodgers (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,38,Apr-63,1963
+,Victoria Bentley (Earth-616),Neutral Characters,,Brown Hair,Female Characters,Deceased Characters,38,Nov-63,1963
+,Diane Arliss (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,38,Sep-68,1968
+,Jonathan Powers (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,38,Jul-68,1968
+,Amphibius (Earth-616),Bad Characters,Yellow Eyes,No Hair,Male Characters,Living Characters,38,Nov-69,1969
+,Susan Scarbo (Earth-616),Bad Characters,Green Eyes,Black Hair,Female Characters,Deceased Characters,38,Mar-70,1970
+,Jarella (Earth-616),Good Characters,Green Eyes,Blond Hair,Female Characters,Deceased Characters,38,Jun-71,1971
+,William Taurens (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,38,Jul-71,1971
+,Daniel Drumm (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,38,Sep-73,1973
+,Paul Cartier (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,38,Apr-73,1973
+,Marduk Kurios (Earth-616),Bad Characters,Variable Eyes,Variable Hair,Male Characters,Living Characters,38,Jan-74,1974
+,Electron (Imperial Guard) (Earth-616),Neutral Characters,,,Male Characters,Living Characters,38,Oct-77,1977
+,Karkas (Earth-616),Good Characters,Black Eyes,No Hair,Male Characters,Living Characters,38,Feb-77,1977
+,William Stryker (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,38,Jan-83,1983
+,Marie-Ange Colbert (Earth-616),Neutral Characters,Green Eyes,Red Hair,Female Characters,Deceased Characters,38,Jun-84,1984
+,Jackie Lukus (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,38,Jun-88,1988
+,Niels (Earth-616),Good Characters,Yellow Eyes,Orange Hair,Male Characters,Living Characters,38,Sep-88,1988
+,Melody Jacobs (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,38,Jan-93,1993
+,Anne Ghazikhanian (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,38,2-Oct,2002
+,Ernst (Earth-616),Good Characters,,Grey Hair,Female Characters,Living Characters,38,3-Feb,2003
+,Geoffrey Wilder (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,38,3-Jul,2003
+,Kevin Ford (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,38,3-Sep,2003
+,Elloe Kaifi (Earth-616),,Red Eyes,Black Hair,Female Characters,Living Characters,38,6-May,2006
+,Ahura Boltagon (Earth-616),,Brown Eyes,Black Hair,Male Characters,Living Characters,38,,
+,Franklin Roosevelt (Earth-616),,,,Male Characters,Deceased Characters,37,Aug-40,1940
+,Penny Pennington (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,37,Nov-52,1952
+,Simon Garth (Earth-616),Neutral Characters,White Eyes,Black Hair,Male Characters,Living Characters,37,Jul-53,1953
+,Khan (Earth-616),Bad Characters,Red Eyes,Black Hair,Male Characters,Deceased Characters,37,Oct-60,1960
+,Norton Fester (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,37,May-66,1966
+,Brainchild (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,37,Nov-69,1969
+,David Angar (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,37,Jun-73,1973
+,Tilda Johnson (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,37,Aug-73,1973
+,Meranno (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,37,Nov-75,1975
+,Lancaster Sneed (Earth-616),Bad Characters,Green Eyes,Black Hair,Male Characters,Living Characters,37,Jul-76,1976
+,Hermod (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,37,Aug-78,1978
+,Gabrielle Haller (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,37,Sep-82,1982
+,James Power (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,37,Aug-84,1984
+,Goblyn (Earth-616),Good Characters,Yellow Eyes,Blue Hair,Female Characters,Living Characters,37,Jul-87,1987
+,Marcy Masterson (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,37,Dec-89,1989
+,Deathwatch (Earth-616),Bad Characters,Red Eyes,Red Hair,Male Characters,Living Characters,37,May-90,1990
+,Elias Wirtham (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,37,Dec-90,1990
+,Bella Donna Boudreaux (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,37,May-92,1992
+,Ormond Wychwood (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,37,Jun-92,1992
+,Yelena Belova (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,37,Mar-99,1999
+,Tiberius Stone (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,37,1-Feb,2001
+,William Robert Reilly (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,37,1-Aug,2001
+,Madeline Berry (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,37,10-Aug,2010
+,Night-Wind (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,36,Dec-50,1950
+,Peotor (Earth-616),Bad Characters,Black Eyes,Red Hair,Male Characters,Living Characters,36,Apr-63,1963
+,Bolivar Trask (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,36,Nov-65,1965
+,Changeling (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,36,Aug-67,1967
+,Mary Fitzpatrick (Earth-616),Good Characters,Hazel Eyes,Brown Hair,Female Characters,Deceased Characters,36,Nov-68,1968
+,Monica Lynne (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,36,Feb-70,1970
+,Spymaster (Ted Calloway) (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,36,Jan-71,1971
+,Peter Corbeau (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,36,Feb-72,1972
+,Solomon Kane (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,36,Aug-73,1973
+,Harold Harold (Earth-616),,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,36,Oct-75,1975
+,Courtney Ross (Earth-616),,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,36,Oct-76,1976
+,Master Order (Earth-616),Neutral Characters,,No Hair,,Living Characters,36,Dec-77,1977
+,Tryco Slatterus (Earth-616),Bad Characters,Silver Eyes,Red Hair,Male Characters,Living Characters,36,Oct-82,1982
+,Madcap (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,36,Jul-85,1985
+,Ashley Crawford (Earth-616),Good Characters,Blue Eyes,Auburn Hair,Female Characters,Living Characters,36,Jul-89,1989
+,Ramonda (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,36,Mar-89,1989
+,Goddess (Earth-616),Neutral Characters,White Eyes,Blond Hair,Female Characters,Living Characters,36,Jul-92,1992
+,Carmella Unuscione (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,36,Mar-93,1993
+,Jacob Raven (Earth-616),,,,Male Characters,Living Characters,36,Dec-94,1994
+,Steven Hudak (Earth-616),,Brown Eyes,Bald,Male Characters,Living Characters,36,Sep-95,1995
+,Ozymandias (Earth-616),Bad Characters,,,Male Characters,Living Characters,36,May-96,1996
+,Inez Temple (Earth-616),,Blue Eyes,Brown Hair,Female Characters,Living Characters,36,2-May,2002
+,Monica Rappaccini (Earth-616),Bad Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,36,5-Jun,2005
+,Alisa Tager (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,36,9-Jan,2009
+,Ava Ayala (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,36,11-Dec,2011
+,Arthur Nagan (Earth-616),,Grey Eyes,Black Hair,Male Characters,Living Characters,35,Sep-54,1954
+,Belit (Earth-616),Neutral Characters,,,Female Characters,Deceased Characters,35,Sep-74,1974
+,Nu-An (Earth-616),Neutral Characters,Black Eyes,Black Hair,Male Characters,Living Characters,35,May-74,1974
+,Brock Jones (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,35,Oct-75,1975
+,Steven Lang (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,35,Dec-75,1975
+,Melissa Greville (Earth-616),,Blue Eyes,Blond Hair,Female Characters,Living Characters,35,Aug-76,1976
+,Tiamut (Earth-616),Neutral Characters,Red Eyes,No Hair,Male Characters,Living Characters,35,Dec-77,1977
+,Clytemnestra Erwin (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Female Characters,Deceased Characters,35,Jun-83,1983
+,Morley Erwin (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,35,Mar-83,1983
+,Haroun ibn Sallah al-Rashid (Earth-616),Neutral Characters,Black Eyes,Black Hair,Male Characters,Deceased Characters,35,Jun-84,1984
+,Gustav Krueger (Earth-616),Bad Characters,Brown Eyes,Grey Hair,Male Characters,Deceased Characters,35,Oct-85,1985
+,Foreigner (Earth-616),,Brown Eyes,Black Hair,Male Characters,Living Characters,35,Jun-86,1986
+,Kim Il Sung (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,35,Oct-86,1986
+,Carl Burbank (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,35,Dec-87,1987
+,Frank Bohannan (Earth-616),Bad Characters,White Eyes,White Hair,Male Characters,Deceased Characters,35,Mar-87,1987
+,Gordon Fraley (Earth-616),Bad Characters,Red Eyes,,Male Characters,Living Characters,35,Jan-88,1988
+,Madeline Naylor (Earth-616),Neutral Characters,,Strawberry Blond Hair,Female Characters,Living Characters,35,Sep-88,1988
+,Charlotte Jones (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,35,Feb-90,1990
+,Phoebe Marrs (Earth-616),Good Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Living Characters,35,Apr-90,1990
+,Scott Wright (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,35,Nov-91,1991
+,Mikhail Rasputin (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,35,Feb-92,1992
+,Peter Parker (Doppelganger) (Earth-616),Bad Characters,White Eyes,No Hair,Male Characters,Living Characters,35,Jun-92,1992
+,Zoe Culloden (Earth-616),,Blue Eyes,Blond Hair,Female Characters,Living Characters,35,Mar-94,1994
+,Peter Parker (Spidercide) (Earth-616),Bad Characters,Hazel Eyes,Brown Hair,Male Characters,Deceased Characters,35,Mar-95,1995
+,Devon Lewis (Earth-616),,Brown Eyes,Black Hair,Male Characters,Living Characters,35,Jan-96,1996
+,Agent X (Nijo) (Earth-616),Neutral Characters,Brown Eyes,Bald,Male Characters,Living Characters,35,2-May,2002
+,Edwin Jarvis (Skrull) (Earth-616),Bad Characters,Green Eyes,No Hair,Male Characters,Deceased Characters,35,5-Mar,2005
+,Hiroim (Earth-616),,,Black Hair,Male Characters,Living Characters,35,6-Apr,2006
+,John Aman (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,35,7-Oct,2007
+,Romulus (Earth-616),Bad Characters,Black Eyes,White Hair,Male Characters,Living Characters,35,7-Mar,2007
+,Wernher von Blitzschlag (Earth-616),Neutral Characters,Blue Eyes,White Hair,Male Characters,Living Characters,35,7-May,2007
+,James Taylor James (Earth-616),Neutral Characters,Brown Eyes,Auburn Hair,Male Characters,Deceased Characters,35,8-Jul,2008
+,Yo Yo Rodriguez (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,35,8-Jul,2008
+,Melita Garner (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,35,9-Jun,2009
+,Krakoa III (Earth-616),Good Characters,Red Eyes,No Hair,Male Characters,Living Characters,35,12-Jan,2012
+,Mary Morgan (Earth-616),Good Characters,,Brown Hair,Female Characters,Living Characters,34,Dec-40,1940
+,Poseidon Aegaeus (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Living Characters,34,Feb-43,1943
+,Hermes Diaktoros (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Living Characters,34,Dec-48,1948
+,Major Thorn (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,34,Jan-52,1952
+,Arab (Earth-616),Good Characters,,White Hair,Male Characters,Living Characters,34,Oct-54,1954
+,Igor (Earth-616),Bad Characters,Black Eyes,Yellow Hair,Male Characters,Living Characters,34,Apr-63,1963
+,Chester Phillips (Earth-616),Good Characters,Brown Eyes,Grey Hair,Male Characters,Deceased Characters,34,Mar-65,1965
+,Aireo (Earth-616),Bad Characters,Blue Eyes,,Male Characters,Living Characters,34,Feb-66,1966
+,Keith Kincaid (Earth-616),Good Characters,,Blond Hair,Male Characters,Living Characters,34,Jan-67,1967
+,Gustav Brandt (Earth-616),Neutral Characters,,,Male Characters,Living Characters,34,Jan-70,1970
+,William Talltrees (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,34,Sep-70,1970
+,Tamara Rahn (Earth-616),Good Characters,Red Eyes,Blond Hair,Female Characters,Living Characters,34,Feb-73,1973
+,Charles Rider (Earth-616),Neutral Characters,,Brown Hair,Male Characters,Living Characters,34,Sep-76,1976
+,Richard Deacon (Earth-616),Neutral Characters,Red Eyes,Brown Hair,Male Characters,Living Characters,34,Nov-76,1976
+,Ziran (Earth-616),Neutral Characters,,,,Living Characters,34,Dec-77,1977
+,Cilicia (Earth-616),Neutral Characters,,,Female Characters,Living Characters,34,Sep-79,1979
+,Davida DeVito (Earth-616),Neutral Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,34,Aug-79,1979
+,Erica Sondheim (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,34,Mar-79,1979
+,Karlin Malus (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,34,Sep-80,1980
+,Margali Szardos (Earth-616),,Blue Eyes,Grey Hair,Female Characters,Living Characters,34,Nov-80,1980
+,Nguyen Ngoc Coy (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,34,Dec-80,1980
+,Raoul Bushman (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,34,Nov-80,1980
+,Stick (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Deceased Characters,34,Nov-81,1981
+,Scourge (Delazny) (Earth-616),Bad Characters,,White Hair,Male Characters,Deceased Characters,34,May-85,1985
+,Quicksand (Earth-616),Bad Characters,Yellow Eyes,,Female Characters,Living Characters,34,Jun-88,1988
+,Val Ventura (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,34,Jul-89,1989
+,Doug Powell (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,34,Jun-90,1990
+,Amy Chen (Earth-616),Neutral Characters,Black Eyes,Black Hair,Female Characters,Living Characters,34,Jul-92,1992
+,Brendan Rathcoole (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,34,Jun-92,1992
+,Lynn Michaels (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,34,Sep-92,1992
+,Tigon Liger (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,34,Jun-92,1992
+,Suzi Endo (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,34,Dec-94,1994
+,Jessica Carradine (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,34,May-96,1996
+,Nicholas Gleason (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,34,2-Oct,2002
+,Barack Obama (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,34,9-Mar,2009
+,Victor Alvarez (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,34,9-Nov,2009
+,Grady Scraps (Earth-616),Neutral Characters,Blue Eyes,,Male Characters,Living Characters,34,11-Jan,2011
+,Francesca Grace (Earth-616),,Black Eyes,Black Hair,Female Characters,Living Characters,34,,
+,Matt Slade (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,33,May-56,1956
+,Joseph Hogan (Earth-616),Neutral Characters,Blue Eyes,Bald,Male Characters,Living Characters,33,Aug-62,1962
+,Barney Bushkin (Earth-616),Good Characters,Brown Eyes,Grey Hair,Male Characters,Living Characters,33,Aug-65,1965
+,Master Mold (Earth-616),Bad Characters,Yellow Eyes,No Hair,Male Characters,Deceased Characters,33,Dec-65,1965
+,Quasi-Motivational Destruct Organism (Earth-616),Bad Characters,White Eyes,No Hair,Male Characters,Living Characters,33,Nov-66,1966
+,Mangog (Earth-616),Bad Characters,Brown Eyes,No Hair,Male Characters,Living Characters,33,Jul-68,1968
+,Arkon (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,33,Apr-70,1970
+,Ebony (Earth-616),Good Characters,Yellow Eyes,Black Hair,,Living Characters,33,Jan-70,1970
+,Jonas Harrow (Earth-616),Bad Characters,,Bald,Male Characters,Deceased Characters,33,Nov-72,1972
+,Vincent Stegron (Earth-616),Bad Characters,Green Eyes,No Hair,Male Characters,Living Characters,33,Mar-74,1974
+,Albert Potter (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,33,Oct-76,1976
+,Archibald Dyker (Earth-616),Bad Characters,Blue Eyes,No Hair,Male Characters,Living Characters,33,Nov-76,1976
+,Drew Daniels (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,33,Dec-76,1976
+,Douglas Birely (Earth-616),Bad Characters,Grey Eyes,Brown Hair,Male Characters,Living Characters,33,Nov-77,1977
+,Godzilla (Earth-616),Neutral Characters,Red Eyes,No Hair,Male Characters,Deceased Characters,33,Aug-77,1977
+,Jackson Arvad (Earth-616),Neutral Characters,White Eyes,Blond Hair,Male Characters,Living Characters,33,Apr-77,1977
+,John Clayton (Earth-616),Good Characters,Grey Eyes,Black Hair,Male Characters,Living Characters,33,Jun-77,1977
+,Julia Koenig (Earth-616),,Blue Eyes,Black Hair,Female Characters,Living Characters,33,May-77,1977
+,Sergei Krylov (Earth-616),Bad Characters,White Eyes,,Male Characters,Living Characters,33,Oct-77,1977
+,Morris Walters (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,33,Mar-80,1980
+,Jennifer Stavros (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,33,Jun-84,1984
+,Colin McKay (Earth-616),Good Characters,Red Eyes,Orange Hair,Male Characters,Living Characters,33,Nov-88,1988
+,Kathleen Neville (Earth-616),,Brown Eyes,Brown Hair,Female Characters,Living Characters,33,Nov-89,1989
+,Julius Rassitano (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,33,Nov-90,1990
+,Atalanta (Pantheon) (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,33,Mar-91,1991
+,Karl Striklan (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,33,May-91,1991
+,Caretaker (Blood) (Earth-616),,Blue Eyes,White Hair,Male Characters,Living Characters,33,Aug-92,1992
+,Morg (Earth-616),Bad Characters,Red Eyes,Grey Hair,Male Characters,Deceased Characters,33,Aug-92,1992
+,Victoria Montesi (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,33,Oct-92,1992
+,Kevin Trench (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,33,Feb-93,1993
+,Jack Harrison (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,33,Dec-94,1994
+,Alyssa Moy (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,33,May-98,1998
+,Malcolm Colcord (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,33,1-Mar,2001
+,Alex Wilder (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,33,3-Jul,2003
+,Carmilla Black (Earth-616),Good Characters,Green Eyes,Black Hair,Female Characters,Living Characters,33,5-Jun,2005
+,Xavin (Earth-616),Good Characters,Brown Eyes,Brown Hair,Genderfluid Characters,Living Characters,33,5-Oct,2005
+,Predator X (Earth-616),Bad Characters,Silver Eyes,No Hair,,Living Characters,33,7-Mar,2007
+,Anastasia Kravinoff (Earth-616),Bad Characters,Brown Eyes,Blond Hair,Female Characters,Living Characters,33,8-Sep,2008
+,Ezekiel Stane (Earth-616),Neutral Characters,Brown Eyes,Bald,Male Characters,Living Characters,33,8-Apr,2008
+,Alistaire Smythe (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,33,,
+,Ho Yinsen (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Deceased Characters,32,Mar-63,1963
+,Living Brain (Earth-616),Neutral Characters,Yellow Eyes,No Hair,Agender Characters,Living Characters,32,Jan-64,1964
+,Carter Slade (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,32,Feb-67,1967
+,Jay Little Bear (Earth-616),Good Characters,,,Male Characters,Living Characters,32,Jan-68,1968
+,Phillip Sterling (Earth-616),Bad Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,32,Apr-68,1968
+,Lawrence Cranston (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,32,Jun-72,1972
+,Erik Killmonger (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,32,Sep-73,1973
+,Integral Synaptic Anti-Anionic Computer (Earth-616),Neutral Characters,,,Male Characters,Living Characters,32,Feb-73,1973
+,Zzzax (Earth-616),Bad Characters,,No Hair,,Living Characters,32,Aug-73,1973
+,James Montgomery Falsworth (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,32,Jul-76,1976
+,Samuels (Earth-616),,,White Hair,Male Characters,Living Characters,32,Jun-76,1976
+,Titan (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,32,Oct-77,1977
+,Hugin (Earth-616),Good Characters,Black Eyes,,Male Characters,Living Characters,32,Aug-78,1978
+,Steve Jackson (Earth-616),Good Characters,,Black Hair,Male Characters,Deceased Characters,32,Dec-79,1979
+,James Jaspers (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,32,Sep-83,1983
+,Adversary (Earth-616),Bad Characters,Blue Eyes,,Male Characters,Living Characters,32,Dec-84,1984
+,Gunnhild (Earth-616),Good Characters,,Red Hair,Female Characters,Living Characters,32,Dec-84,1984
+,Sharon Smith (Earth-616),Bad Characters,Purple Eyes,Purple Hair,Female Characters,Deceased Characters,32,Jun-84,1984
+,Bonebreaker (Earth-616),Bad Characters,,White Hair,Male Characters,Living Characters,32,May-88,1988
+,Craig Hollis (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,32,Jul-89,1989
+,Network Nina (Earth-616),Good Characters,Black Eyes,Black Hair,Female Characters,Deceased Characters,32,Oct-89,1989
+,Bronwen Gryffn (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,32,Jun-92,1992
+,Mickey Fondozzi (Earth-616),Neutral Characters,,Brown Hair,Male Characters,Living Characters,32,Mar-92,1992
+,Brent Jackson (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,32,1-Jun,2001
+,Morlun (Earth-616),Bad Characters,Red Eyes,Black Hair,Male Characters,Living Characters,32,1-Jun,2001
+,Dee Milo (Earth-616),Good Characters,Yellow Eyes,Black Hair,Female Characters,Deceased Characters,32,2-Sep,2002
+,Alice Hayes (Earth-616),Bad Characters,,,Female Characters,Deceased Characters,32,3-Jul,2003
+,Caiera (Earth-616),Good Characters,Green Eyes,Black Hair,Female Characters,Deceased Characters,32,6-Apr,2006
+,Hiro-Kala (Earth-616),Neutral Characters,Black Eyes,Black Hair,Male Characters,Living Characters,32,8-Sep,2008
+,Kelda (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,32,8-Feb,2008
+,Sasha Hammer (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,32,8-Jul,2008
+,Sebastian Druid (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,32,8-Jul,2008
+,June Covington (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,32,11-Jan,2011
+,Uatu Jackson (Earth-616),Neutral Characters,Brown Eyes,Bald,Male Characters,Living Characters,32,11-Jan,2011
+,David Rand (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,31,Oct-39,1939
+,Electro (Robot) (Earth-616),Good Characters,,No Hair,,Living Characters,31,Feb-40,1940
+,Doris Evans (Earth-616),Good Characters,,Brown Hair,Female Characters,Living Characters,31,Oct-63,1963
+,Bennett Brant (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,31,Apr-64,1964
+,Geirrodur (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,31,Feb-64,1964
+,Simon Savage (Earth-616),,,Brown Hair,Male Characters,Living Characters,31,Sep-64,1964
+,Alexi Shostakov (Earth-616),Neutral Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,31,Aug-67,1967
+,Maris Morlak (Earth-616),Bad Characters,,Bald,Male Characters,Deceased Characters,31,Sep-67,1967
+,Ridondo (Earth-616),Good Characters,,Blond Hair,Male Characters,Living Characters,31,Jun-71,1971
+,Samantha Parrington (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,31,Aug-71,1971
+,Martin Blank (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,31,Jul-72,1972
+,Bernie Dillon (Earth-616),Good Characters,,Red Hair,Male Characters,Living Characters,31,Sep-76,1976
+,Gammenon (Earth-616),Neutral Characters,,No Hair,Male Characters,Living Characters,31,Oct-76,1976
+,Druig (Earth-616),,Brown Eyes,Brown Hair,Male Characters,Living Characters,31,May-77,1977
+,Peter van Zante (Earth-616),Bad Characters,Brown Eyes,Red Hair,Male Characters,Living Characters,31,Apr-77,1977
+,Slaymaster (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,31,Oct-77,1977
+,Yuriko Takiguchi (Earth-616),Neutral Characters,,White Hair,Male Characters,Deceased Characters,31,Aug-77,1977
+,Philip Chang (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,31,Sep-78,1978
+,Steve Hopkins (Earth-616),Good Characters,Green Eyes,Black Hair,Male Characters,Living Characters,31,Nov-79,1979
+,Seth Voelker (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,31,Jun-80,1980
+,Sikorsky (Earth-616),,Black Eyes,No Hair,Male Characters,Living Characters,31,Apr-82,1982
+,Cloud (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,31,Sep-83,1983
+,Mortimer (Earth-616),,,Grey Hair,Male Characters,Living Characters,31,Jun-85,1985
+,Beast (Demon) (Earth-616),Bad Characters,,,Male Characters,Living Characters,31,Aug-86,1986
+,Jonathan Garrett (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,31,Sep-86,1986
+,Duc No Tranh (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,31,Sep-88,1988
+,Charles Little Sky (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,31,Jun-89,1989
+,Jeff Wilde (Earth-616),Bad Characters,Yellow Eyes,Brown Hair,Male Characters,Deceased Characters,31,Sep-89,1989
+,Margarita Ruiz (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,31,Nov-90,1990
+,Michael McCain (Earth-616),Bad Characters,,Black Hair,Male Characters,Deceased Characters,31,Feb-90,1990
+,Stellaris (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,31,Jul-90,1990
+,Gideon (Earth-616),Bad Characters,Blue Eyes,White Hair,Male Characters,Deceased Characters,31,Feb-91,1991
+,Fatale (Earth-616),Bad Characters,Green Eyes,,Female Characters,Living Characters,31,Apr-93,1993
+,Marius St. Croix (Earth-616),Bad Characters,Grey Eyes,Grey Hair,Male Characters,Living Characters,31,Nov-94,1994
+,Angelina Brancale (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,31,Jan-95,1995
+,Delilah (Earth-616),Bad Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,31,Aug-96,1996
+,William Walters (Earth-616),,,Blond Hair,Male Characters,Living Characters,31,Jun-96,1996
+,Jared Corbo (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,31,Jul-97,1997
+,Maggott (Japheth) (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Living Characters,31,Jun-97,1997
+,Vincent Gonzales (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,31,7-Jun,2007
+,Mar\u00eda Aracely Penalba (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,31,12-Mar,2012
+,Isabel Kane (Earth-616),Good Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,31,13-Feb,2013
+,Bruce Dickson (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Living Characters,30,Aug-40,1940
+,Myraddin of Ruta (Earth-616),Good Characters,Hazel Eyes,White Hair,Male Characters,Living Characters,30,Mar-44,1944
+,Tex Taylor (Earth-616),Good Characters,,,Male Characters,Living Characters,30,Mar-48,1948
+,Adolf Hitler (Clone) (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,30,Dec-63,1963
+,Miklho (Earth-616),Bad Characters,Black Eyes,Orange Hair,Male Characters,Deceased Characters,30,Apr-63,1963
+,Ymir (Earth-616),Bad Characters,White Eyes,No Hair,Male Characters,Living Characters,30,Oct-63,1963
+,Zelda Kurtzberg (Earth-616),Good Characters,,Brown Hair,Female Characters,Living Characters,30,Sep-64,1964
+,Jacob Fury (Earth-616),Neutral Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,30,Aug-67,1967
+,Brule (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,30,Jun-71,1971
+,Saint (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,30,Mar-73,1973
+,Chthon (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Living Characters,30,Oct-75,1975
+,Edward Lansky (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,30,Dec-76,1976
+,Gloria Rider (Earth-616),Neutral Characters,,,Female Characters,Living Characters,30,Sep-76,1976
+,Nightside (Earth-616),Neutral Characters,White Eyes,Black Hair,Female Characters,Deceased Characters,30,Oct-77,1977
+,Ord Zyonz (Earth-616),,Purple Eyes,Grey Hair,Male Characters,Living Characters,30,Mar-77,1977
+,Sprite (Eternal) (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,30,Mar-77,1977
+,Helen Feliciano (Earth-616),Bad Characters,Brown Eyes,Blond Hair,Female Characters,Deceased Characters,30,Aug-79,1979
+,Daniel Ridge Jr. (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,30,Mar-80,1980
+,Aleytys Forrester (Earth-616),Good Characters,,Blond Hair,Female Characters,Living Characters,30,Mar-81,1981
+,Andrea von Strucker (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,30,Jun-85,1985
+,Burchell Clemens (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,30,Oct-85,1985
+,Janos Quested (Earth-616),Bad Characters,Purple Eyes,Purple Hair,Male Characters,Living Characters,30,Nov-86,1986
+,Malice (Marauders) (Earth-616),Bad Characters,,,Female Characters,Living Characters,30,Oct-86,1986
+,DeMarr Davis (Earth-616),,Brown Eyes,Black Hair,Male Characters,Living Characters,30,Jul-89,1989
+,Richard Gill (Earth-616),Bad Characters,,White Hair,Male Characters,Living Characters,30,Feb-90,1990
+,Shinobi Shaw (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,30,Jun-91,1991
+,Eadmund Porlock (Earth-616),Bad Characters,Hazel Eyes,Brown Hair,Male Characters,Living Characters,30,Jul-92,1992
+,Harley Davis (Earth-616),Good Characters,Violet Eyes,Silver Hair,Female Characters,Living Characters,30,Jun-92,1992
+,Lindy Lee (Earth-616),Good Characters,,Blond Hair,Female Characters,Deceased Characters,30,Sep-00,2000
+,Sondra Brandenberg (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,30,2-Apr,2002
+,Gene Hayes (Earth-616),Bad Characters,Brown Eyes,,Male Characters,Deceased Characters,30,3-Jul,2003
+,Stacey Yorkes (Earth-616),Bad Characters,Green Eyes,Brown Hair,Female Characters,Deceased Characters,30,3-Jul,2003
+,Mallory Book (Earth-616),,Green Eyes,Red Hair,Female Characters,Living Characters,30,4-May,2004
+,Andrew Forson (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,30,11-May,2011
+,Bella Fishbach (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,30,11-Jan,2011
+,Onome (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,30,12-Aug,2012
+,Daniel Lyons (Earth-616),Good Characters,Green Eyes,Grey Hair,Male Characters,Deceased Characters,29,Mar-41,1941
+,Red Hawk (Apache Chief) (Earth-616),Neutral Characters,,Black Hair,Male Characters,Living Characters,29,Nov-50,1950
+,Joshua Ayers (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,29,Mar-62,1962
+,Maxwell Shiffman (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,29,Aug-62,1962
+,Morgan Stark (Earth-616),Bad Characters,Hazel Eyes,Brown Hair,Male Characters,Deceased Characters,29,Aug-65,1965
+,Ultimo (Earth-616),Bad Characters,Yellow Eyes,No Hair,Male Characters,Living Characters,29,Apr-66,1966
+,Linda Carter (Earth-616),Good Characters,Brown Eyes,Blond Hair,Female Characters,Living Characters,29,Nov-69,1969
+,Simon Stroud (Earth-616),Neutral Characters,,Blond Hair,Male Characters,Living Characters,29,Jul-74,1974
+,Wendell Rand (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,29,May-74,1974
+,Aron (Earth-616),Neutral Characters,White Eyes,Bald,Male Characters,Deceased Characters,29,Jul-75,1975
+,Margo Damian (Earth-616),Neutral Characters,Blue Eyes,Strawberry Blond Hair,Female Characters,Deceased Characters,29,Jul-76,1976
+,Mastermind (Computer) (Earth-616),Bad Characters,Gold Eyes,No Hair,Male Characters,Living Characters,29,Dec-76,1976
+,Samuel Barone (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,29,Oct-76,1976
+,Kris Keating (Earth-616),Good Characters,,Brown Hair,Male Characters,Deceased Characters,29,Feb-77,1977
+,Vril-Rokk (Earth-616),Neutral Characters,,Black Hair,Male Characters,Deceased Characters,29,Oct-77,1977
+,Morris Sloan (Earth-616),Good Characters,Blue Eyes,White Hair,Male Characters,Living Characters,29,Jul-79,1979
+,Harry Leland (Earth-616),Bad Characters,Green Eyes,Red Hair,Male Characters,Deceased Characters,29,Apr-80,1980
+,Hussar (Earth-616),Neutral Characters,Yellow Eyes,Blond Hair,Female Characters,Living Characters,29,Sep-80,1980
+,Roland Burroughs (Earth-616),Bad Characters,Blue Eyes,,Male Characters,Deceased Characters,29,Jun-80,1980
+,Morgana Blessing (Earth-616),Good Characters,Black Eyes,Brown Hair,Female Characters,Living Characters,29,Aug-81,1981
+,Anthony Power (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,29,May-82,1982
+,Calvin Carr (Earth-616),,Brown Eyes,Black Hair,Male Characters,Deceased Characters,29,May-83,1983
+,Raymond Sikorski (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,29,Sep-83,1983
+,Vixen (British Crimelord) (Earth-616),Bad Characters,Magenta Eyes,Magenta Hair,Female Characters,Living Characters,29,Sep-83,1983
+,Guido Sapristi (Earth-616),Good Characters,,,Male Characters,Living Characters,29,Mar-84,1984
+,Margaret Craig (Earth-616),Good Characters,,Strawberry Blond Hair,Female Characters,Living Characters,29,Aug-84,1984
+,Marsha Rosenberg (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,29,Jul-84,1984
+,Valgoth (Earth-616),Good Characters,Yellow Eyes,No Hair,,Deceased Characters,29,Sep-84,1984
+,Karl Morgenthau (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,29,Dec-85,1985
+,Michael Baer (Earth-616),Bad Characters,Brown Eyes,Bald,Male Characters,Living Characters,29,Nov-86,1986
+,Kristine Watson (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Living Characters,29,Dec-88,1988
+,Hector (Pantheon) (Earth-616),,,Black Hair,Male Characters,Living Characters,29,Mar-91,1991
+,Michael Powell (Earth-616),Neutral Characters,,,Male Characters,Living Characters,29,Mar-91,1991
+,Truett Hudson (Earth-616),Bad Characters,,Bald,Male Characters,Deceased Characters,29,Mar-91,1991
+,Vali Halfling (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,29,Mar-91,1991
+,Steven Levins (Earth-616),Bad Characters,,No Hair,Male Characters,Deceased Characters,29,Jan-92,1992
+,Siena Blaze (Earth-616),Bad Characters,Brown Eyes,Blond Hair,Female Characters,Deceased Characters,29,Jan-93,1993
+,Angela Yin (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,29,Aug-94,1994
+,Judas Traveller (Earth-616),,Red Eyes,White Hair,Male Characters,Living Characters,29,Oct-94,1994
+,Vincente Fortunato (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,29,Jul-96,1996
+,Derek Khanata (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,29,5-Jun,2005
+,Klara Prast (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,29,7-Aug,2007
+,Terrance Ward (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,29,7-May,2007
+,Dexter Bennett (Earth-616),Neutral Characters,Grey Eyes,White Hair,Male Characters,Living Characters,29,8-Mar,2008
+,Orb (Zadkiel agent) (Earth-616),Bad Characters,Blue Eyes,No Hair,Male Characters,Living Characters,29,8-Oct,2008
+,Martinique Wyngarde (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,29,,
+,James Jankovicz (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Deceased Characters,28,Feb-42,1942
+,Mike Trapp (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,28,Oct-43,1943
+,Mark Mason (Earth-616),Good Characters,,Black Hair,Male Characters,Deceased Characters,28,Sep-46,1946
+,Jim Lathrop (Earth-616),Good Characters,,Grey Hair,Male Characters,Living Characters,28,Dec-48,1948
+,Bill Gregory (Earth-616),Neutral Characters,,Orange Hair,Male Characters,Living Characters,28,Nov-50,1950
+,Harvey Schlemerman (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,28,May-60,1960
+,Raymond Warren (Earth-616),Good Characters,,Bald,Male Characters,Living Characters,28,Aug-62,1962
+,Gordon Keefer (Earth-616),Bad Characters,Brown Eyes,Grey Hair,Male Characters,Deceased Characters,28,Jan-65,1965
+,Frank Farnum (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,28,May-66,1966
+,Tagar (Earth-616),Neutral Characters,,,Male Characters,Living Characters,28,Oct-66,1966
+,Wladyslav Shinski (Earth-616),Bad Characters,,Grey Hair,Male Characters,Living Characters,28,Sep-67,1967
+,Craig Simpson (Earth-616),,,Grey Hair,Male Characters,Deceased Characters,28,Aug-72,1972
+,Basil Elks (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Deceased Characters,28,Dec-73,1973
+,Fah Lo Suee (Earth-616),,,Black Hair,Female Characters,Living Characters,28,Mar-75,1975
+,Shen Kuei (Earth-616),Good Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,28,Mar-76,1976
+,Tath Ki (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Living Characters,28,Jun-76,1976
+,Toothgnasher (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Living Characters,28,Sep-76,1976
+,Harmony Young (Earth-616),Good Characters,,,Female Characters,Living Characters,28,Apr-78,1978
+,Marcus Daniels (Earth-616),Bad Characters,Grey Eyes,Brown Hair,Male Characters,Living Characters,28,May-78,1978
+,Roger Norvell (Earth-616),Good Characters,Blue Eyes,Red Hair,Male Characters,Living Characters,28,Jul-78,1978
+,Maelstrom (Earth-616),Bad Characters,Purple Eyes,Purple Hair,Male Characters,Deceased Characters,28,Jan-81,1981
+,Ulysses Archer (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,28,May-83,1983
+,Thomas Corsi (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,28,Sep-84,1984
+,Prism (Robbie) (Earth-616),Bad Characters,White Eyes,No Hair,Male Characters,Living Characters,28,Nov-86,1986
+,Samuel John LaRoquette (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,28,Mar-86,1986
+,Marcy Pearson (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,28,Apr-87,1987
+,Jennifer Ransome (Earth-616),Good Characters,,,Female Characters,Living Characters,28,Oct-88,1988
+,Justin Baldwin (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,28,Sep-88,1988
+,Felix Alvarez (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,28,Jan-89,1989
+,Kenjiro Tanaka (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,28,Dec-89,1989
+,Malcolm McBride (Earth-616),Bad Characters,Yellow Eyes,No Hair,Male Characters,Living Characters,28,Apr-89,1989
+,Heather Tucker (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,28,Feb-90,1990
+,Robert Steele (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,28,Aug-91,1991
+,Gudrun Tyburn (Earth-616),Bad Characters,Brown Eyes,White Hair,Female Characters,Living Characters,28,Jun-92,1992
+,Raul Quentino (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,28,Jul-92,1992
+,Roderick Campbell (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,28,Dec-93,1993
+,Devlor (Earth-616),Good Characters,Green Eyes,Brown Hair,Male Characters,Living Characters,28,Aug-94,1994
+,Samuel Par\u00e9 (Earth-616),Good Characters,Black Eyes,No Hair,Male Characters,Deceased Characters,28,2-Oct,2002
+,Dale Yorkes (Earth-616),Bad Characters,Green Eyes,Grey Hair,Male Characters,Deceased Characters,28,3-Jul,2003
+,Deborah Fields (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,28,5-Nov,2005
+,Sydren (Earth-616),Good Characters,Brown Eyes,No Hair,Male Characters,Living Characters,28,5-May,2005
+,Bob (Hydra Agent) (Earth-616),Neutral Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,28,7-May,2007
+,Fat Cobra (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,28,7-Oct,2007
+,Timothy Dugan (Skrull) (Earth-616),Bad Characters,Green Eyes,No Hair,Male Characters,Deceased Characters,28,8-Jul,2008
+,Henry Russo (Earth-616),Good Characters,,Blond Hair,Male Characters,Living Characters,28,9-Mar,2009
+,Ai Apaec (Earth-616),Bad Characters,White Eyes,Grey Hair,Male Characters,Deceased Characters,28,11-Jan,2011
+,Kirsten McDuffie (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,28,11-Sep,2011
+,Emily Preston (Earth-616),Good Characters,Brown Eyes,Bald,Agender Characters,Living Characters,28,13-Jan,2013
+,Iara Dos Santos (Earth-616),Good Characters,Black Eyes,Brown Hair,Female Characters,Living Characters,28,13-Jan,2013
+,Kevin Connor (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,28,13-May,2013
+,Jack Frost (Earth-616),Good Characters,White Eyes,Blue Hair,Male Characters,Living Characters,27,Aug-41,1941
+,Robert Lathrop (Earth-616),Good Characters,,Red Hair,Male Characters,Living Characters,27,Apr-49,1949
+,Nightwind (Horse) (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,27,Aug-60,1960
+,Townshend Horgan (Earth-616),Bad Characters,Green Eyes,Red Hair,Male Characters,Deceased Characters,27,Oct-65,1965
+,Hippolyta (Earth-616),Neutral Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,27,Apr-66,1966
+,Prester John (Johann) (Earth-616),Neutral Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,27,Sep-66,1966
+,Leonus (Earth-616),Neutral Characters,,Yellow Hair,Male Characters,Living Characters,27,Oct-68,1968
+,Gaza (Earth-616),Bad Characters,White Eyes,Black Hair,Male Characters,Living Characters,27,Nov-69,1969
+,Servo-Guards (Earth-616),Bad Characters,Red Eyes,No Hair,Male Characters,Living Characters,27,Mar-69,1969
+,Air-Walker (Automaton) (Earth-616),,Black Eyes,No Hair,Male Characters,Living Characters,27,Mar-72,1972
+,Anton Miguel Rodriquez (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,27,Jul-74,1974
+,Doctor Sun (Earth-616),Bad Characters,,No Hair,Male Characters,Deceased Characters,27,Jan-74,1974
+,Ginger Jaye (Earth-616),Good Characters,,Red Hair,Female Characters,Living Characters,27,Sep-76,1976
+,Roger Cooper (Earth-616),Good Characters,,Black Hair,Male Characters,Living Characters,27,Oct-76,1976
+,Ronald Reagan (Earth-616),,,,Male Characters,Deceased Characters,27,Jan-77,1977
+,Jennifer Royce (Earth-616),Good Characters,,Brown Hair,Female Characters,Living Characters,27,Apr-79,1979
+,Kevin MacTaggert (Earth-616),Bad Characters,White Eyes,No Hair,Male Characters,Living Characters,27,Mar-79,1979
+,Marian Pouncy (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Female Characters,Living Characters,27,Aug-79,1979
+,Murray Reese (Earth-616),Bad Characters,,,Male Characters,Deceased Characters,27,May-80,1980
+,Sharon Friedlander (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,27,Sep-84,1984
+,Rae LaCoste (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,27,Oct-87,1987
+,Phillip Moreau (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,27,Oct-88,1988
+,Reptyl (Earth-616),Bad Characters,Yellow Eyes,,Male Characters,Living Characters,27,May-88,1988
+,Carrie Alexander (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,27,Apr-90,1990
+,Jeremy Clarke (Earth-616),Bad Characters,,Bald,Male Characters,Deceased Characters,27,Aug-90,1990
+,Hannah Fairmont (Earth-616),Good Characters,,Brown Hair,Female Characters,Living Characters,27,Jul-98,1998
+,Martin Soap (Earth-616),Good Characters,Brown Eyes,Blond Hair,Male Characters,Living Characters,27,May-00,2000
+,Edith Sawyer (Earth-616),Good Characters,Green Eyes,Red Hair,Female Characters,Deceased Characters,27,1-Jul,2001
+,Esme Cuckoo (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,27,1-Nov,2001
+,Ezekiel Sims (Earth-616),Neutral Characters,Blue Eyes,Grey Hair,Male Characters,Deceased Characters,27,1-Jun,2001
+,Catherine Wilder (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Deceased Characters,27,3-Jul,2003
+,Victor Stein (Earth-616),Bad Characters,,Blond Hair,Male Characters,Deceased Characters,27,3-Jul,2003
+,Sidney Green (Earth-616),,Multiple Eyes,No Hair,Male Characters,Deceased Characters,27,5-Aug,2005
+,Michael van Patrick (Patrick) (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,27,7-Aug,2007
+,Faiza Hussain (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,27,8-Jul,2008
+,Leah (Earth-616),Neutral Characters,Green Eyes,Black Hair,Female Characters,Living Characters,27,11-Aug,2011
+,Fury (Horse) (Earth-616),Good Characters,,White Hair,Male Characters,Living Characters,26,Mar-48,1948
+,Dionysus Acratophorus (Earth-616),Good Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,26,Apr-49,1949
+,Xemnu (Earth-616),Bad Characters,Red Eyes,White Hair,Male Characters,Living Characters,26,Nov-60,1960
+,Bull McGiveney (Earth-616),,,Black Hair,Male Characters,Living Characters,26,May-64,1964
+,Henry Hawk (Earth-616),Bad Characters,,,Male Characters,Deceased Characters,26,Oct-65,1965
+,Gary Gilbert (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,26,Jul-70,1970
+,Arnold Paffenroth (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,26,Sep-73,1973
+,Carl Walker (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,26,Jan-74,1974
+,Heather Duncan (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Deceased Characters,26,May-74,1974
+,Isaiah Curwen (Earth-616),Bad Characters,Blue Eyes,White Hair,Male Characters,Living Characters,26,Jun-74,1974
+,Joy Meachum (Earth-616),,,,Female Characters,Living Characters,26,Oct-74,1974
+,James Scully (Earth-616),Good Characters,Brown Eyes,Red Hair,Male Characters,Living Characters,26,Aug-75,1975
+,Lotus Shinchuko (Earth-616),,Green Eyes,Black Hair,Female Characters,Living Characters,26,Jan-75,1975
+,Moses Magnum (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,26,Apr-75,1975
+,Janus Tepes (Earth-616),Good Characters,Red Eyes,Black Hair,Male Characters,Living Characters,26,Dec-76,1976
+,Toothgrinder (Earth-616),Good Characters,Brown Eyes,White Hair,Male Characters,Living Characters,26,Sep-76,1976
+,Bi-Beast (Duplicate) (Earth-616),,Black Eyes,No Hair,Male Characters,Living Characters,26,Aug-77,1977
+,Lester Verde (Earth-616),Bad Characters,Blue Eyes,Strawberry Blond Hair,Male Characters,Living Characters,26,Aug-77,1977
+,Matthew Gilden (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,26,Mar-77,1977
+,Gary Cody (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Deceased Characters,26,Feb-78,1978
+,SJ3RX (Earth-616),Neutral Characters,Silver Eyes,No Hair,Male Characters,Living Characters,26,Jan-78,1978
+,Curtiss Jackson (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,26,Jun-79,1979
+,Earthquake (Earth-616),Neutral Characters,Black Eyes,No Hair,Male Characters,Living Characters,26,Sep-80,1980
+,Leong Coy Manh (Earth-616),Good Characters,Black Eyes,Black Hair,Male Characters,Living Characters,26,Dec-80,1980
+,Sunset Bain (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,26,Oct-80,1980
+,Vic Martinelli (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,26,Mar-80,1980
+,Arnie Roth (Earth-616),Good Characters,,,Male Characters,Deceased Characters,26,Apr-82,1982
+,Eugene Patilio (Earth-616),Good Characters,Brown Eyes,Red Hair,Male Characters,Living Characters,26,Sep-82,1982
+,Victor Palermo (Earth-616),Good Characters,Brown Eyes,Bald,Male Characters,Living Characters,26,Dec-82,1982
+,Revanche (Kwannon) (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Deceased Characters,26,Dec-89,1989
+,Opal Tanaka (Earth-616),,Blue Eyes,Black Hair,Female Characters,Living Characters,26,Feb-90,1990
+,Abraham Cornelius (Earth-616),,,,Male Characters,Deceased Characters,26,Mar-91,1991
+,Julia Winters (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,26,Jan-91,1991
+,Alexander Ellis (Earth-616),,Blue Eyes,Blond Hair,Male Characters,Living Characters,26,May-93,1993
+,James Sokolowski (Earth-616),Good Characters,,Brown Hair,Male Characters,Living Characters,26,Mar-94,1994
+,Jason Ionello (Earth-616),Good Characters,,,Male Characters,Living Characters,26,Sep-95,1995
+,Adrian Corbo (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,26,Jul-97,1997
+,John Watkins III (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,26,Dec-00,2000
+,Christian Cord (Earth-616),,Brown Eyes,Black Hair,Male Characters,Living Characters,26,2-Jul,2002
+,John King (Earth-616),Bad Characters,Blue Eyes,Bald,Male Characters,Living Characters,26,2-Jul,2002
+,Brian Cruz (Earth-616),Good Characters,Brown Eyes,Brown Hair,Male Characters,Deceased Characters,26,4-May,2004
+,Amatsu-Mikaboshi (Earth-616),Bad Characters,Gold Eyes,Black Hair,Male Characters,Living Characters,26,6-Feb,2006
+,Maria Vasquez (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,26,6-Oct,2006
+,Sinclair Abbott (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,26,6-Feb,2006
+,Jeff Brown (Earth-616),Neutral Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,26,7-Jun,2007
+,Emery Schaub (Earth-616),Good Characters,Blue Eyes,,Male Characters,Living Characters,26,8-Jul,2008
+,Michele Gonzales (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,26,9-May,2009
+,Darla Deering (Earth-616),Good Characters,Brown Eyes,Pink Hair,Female Characters,Living Characters,26,12-Dec,2012
+,Jia Jing (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,26,12-Dec,2012
+,Trevor Hawkins (Earth-616),Good Characters,Blue Eyes,Blond Hair,Male Characters,Living Characters,26,12-Dec,2012
+,Anna Maria Marconi (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,26,13-May,2013
+,Leonard McKenzie (Earth-616),Good Characters,Brown Eyes,Black Hair,Male Characters,Deceased Characters,26,,
+,Claire Voyant (Earth-616),Neutral Characters,Black Eyes,Blond Hair,Female Characters,Living Characters,25,Aug-40,1940
+,Heinz Kruger (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Deceased Characters,25,Mar-41,1941
+,Suwan (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,25,Oct-56,1956
+,Jerold Morgan (Earth-616),Bad Characters,Brown Eyes,Brown Hair,Male Characters,Living Characters,25,Apr-58,1958
+,Laura Brown (SHIELD) (Earth-616),Good Characters,Blue Eyes,Blond Hair,Female Characters,Living Characters,25,Aug-65,1965
+,Harokin (Earth-616),Bad Characters,,Blond Hair,Male Characters,Living Characters,25,Jun-66,1966
+,Kaluu (Earth-616),Bad Characters,Yellow Eyes,Black Hair,Male Characters,Living Characters,25,Aug-66,1966
+,Sidney Levine (Earth-616),,,Grey Hair,Male Characters,Living Characters,25,Aug-67,1967
+,Stallior (Earth-616),Bad Characters,,,Male Characters,Living Characters,25,Oct-68,1968
+,Hyperion (Squadron Sinister) (Earth-616),Bad Characters,Blue Eyes,Red Hair,Male Characters,Deceased Characters,25,Oct-69,1969
+,Taj Nital (Earth-616),Good Characters,Red Eyes,Black Hair,Male Characters,Living Characters,25,Jul-72,1972
+,Robert Frank Jr. (Earth-616),Good Characters,Blue Eyes,Bald,Male Characters,Living Characters,25,Aug-74,1974
+,Joseph Manfredi (Earth-616),Bad Characters,Blue Eyes,Black Hair,Male Characters,Living Characters,25,Feb-75,1975
+,Gena Landers (Earth-616),Good Characters,,,Female Characters,Living Characters,25,Jun-76,1976
+,Joshua Stragg (Earth-616),Bad Characters,,,Male Characters,Living Characters,25,Oct-76,1976
+,Charles Chandler (Earth-616),Good Characters,Brown Eyes,,Male Characters,Deceased Characters,25,Apr-77,1977
+,Fritz von Meyer (Earth-616),Bad Characters,Yellow Eyes,No Hair,Male Characters,Living Characters,25,Jul-77,1977
+,Peter Quinn (Earth-616),Bad Characters,White Eyes,Bald,Male Characters,Deceased Characters,25,Nov-77,1977
+,Elysius (Earth-616),Good Characters,Blue Eyes,Black Hair,Female Characters,Living Characters,25,Nov-78,1978
+,Shaitan (Earth-616),Bad Characters,,,Male Characters,Deceased Characters,25,Jan-79,1979
+,"Han, Chang, Lin, Sun, and Ho Tao-Yu (Earth-616)",Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,25,Aug-80,1980
+,Nga Coy Manh (Earth-616),Good Characters,Black Eyes,Black Hair,Female Characters,Living Characters,25,Dec-80,1980
+,Harry Osgood (Earth-616),Good Characters,Blue Eyes,Grey Hair,Male Characters,Living Characters,25,Apr-81,1981
+,Arthur Chekov (Earth-616),,Brown Eyes,White Hair,Male Characters,Living Characters,25,Dec-82,1982
+,Rose Palermo (Earth-616),Good Characters,Brown Eyes,Brown Hair,Female Characters,Living Characters,25,Dec-82,1982
+,Katherine Waynesboro (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,25,Sep-83,1983
+,Black Fox (Thief) (Earth-616),Bad Characters,Brown Eyes,White Hair,Male Characters,Living Characters,25,Aug-84,1984
+,Sheoke Sanada (Earth-616),Bad Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,25,Jan-84,1984
+,Terminus (Destroyer) (Earth-616),Bad Characters,White Eyes,,Male Characters,Living Characters,25,Aug-84,1984
+,Martin Fletcher (Earth-616),Bad Characters,,White Hair,Male Characters,Deceased Characters,25,Mar-87,1987
+,Bloodscream (Earth-616),Bad Characters,Black Eyes,White Hair,Male Characters,Living Characters,25,Feb-89,1989
+,Andrea Sterman (Earth-616),Good Characters,Black Eyes,Blond Hair,Female Characters,Living Characters,25,Dec-90,1990
+,Achilles (Helmut) (Earth-616),Bad Characters,Blue Eyes,Blond Hair,Male Characters,Deceased Characters,25,Mar-91,1991
+,Jeremy Stevens (Earth-616),Bad Characters,Blue Eyes,Brown Hair,Male Characters,Living Characters,25,Dec-91,1991
+,Misha Bushida (Earth-616),Good Characters,,Black Hair,Female Characters,Living Characters,25,Jun-92,1992
+,Stacy Arnheim (Earth-616),Good Characters,Brown Eyes,Black Hair,Female Characters,Living Characters,25,Jun-92,1992
+,Garabed Bashur (Earth-616),Bad Characters,Brown Eyes,Black Hair,Male Characters,Living Characters,25,Sep-93,1993
+,Suvik Senyaka (Earth-616),Bad Characters,,,Male Characters,Deceased Characters,25,May-93,1993
