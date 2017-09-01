@@ -41,9 +41,12 @@
                 <input id="uploadedFile" type="file" name="database"  accept="text/csv">
                 <input type="submit" value="Make me a visual database!">
             </form>
-            <b> OR... </b>
-            <form style="margin-top:2em" id="sampleform">
-                <input type="submit" value="Try a sample!">
+            <b> Or Try a Sample! </b>
+            <form style="margin-top:2em" id="sampleprincetonform">
+                <input type="submit" value="College Courses">
+            </form>
+            <form style="margin-top:2em" id="samplemarvelform">
+                <input type="submit" value="Comic Book Heroes">
             </form>
         </center>
     </div>
@@ -52,7 +55,15 @@
      var testvdb;
      var testdisplay;
 
-     $("#sampleform").submit( function() {
+     $("#samplemarvelform").submit( function() {
+         vdb.fromURL("Data/marvelSmall.csv").then(VDB => {
+             testvdb = VDB;
+             testdisplay = VDB.newDisplay("body");
+             testdisplay.start();
+         });
+         return false;
+     });
+     $("#sampleprincetonform").submit( function() {
          vdb.fromURL("Data/princeton.csv").then(VDB => {
              testvdb = VDB;
              testdisplay = VDB.newDisplay("body");
