@@ -59,7 +59,7 @@
      var testdisplay;
 
      $("#samplemarvelform").submit( function() {
-         vdb.fromURL("Data/marvelSmall.csv").then(VDB => {
+         vdb.fromURL("./VisualDataBase/Data/marvelSmall.csv").then(VDB => {
              testvdb = VDB;
              testdisplay = VDB.newDisplay("body");
              testdisplay.start();
@@ -67,7 +67,7 @@
          return false;
      });
      $("#sampleprincetonform").submit( function() {
-         vdb.fromURL("Data/princeton.csv").then(VDB => {
+         vdb.fromURL("./VisualDataBase/Data/princeton.csv").then(VDB => {
              testvdb = VDB;
              testdisplay = VDB.newDisplay("body");
              testdisplay.start();
