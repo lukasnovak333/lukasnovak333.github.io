@@ -153,7 +153,7 @@ function buildEntryList(csvObj, keyInfo) {
                     
                     if(keyInfo[key]['type'] == 'float') {
                         // console.log("value is " + value + "for key " + key + " at " + i);
-                        if(value == "") value = -1;
+                        if(value == "") value = NaN;
                         value = parseFloat(value);
                         if(value < keyInfo[key]['min'])
                             keyInfo[key]['min'] = value;
