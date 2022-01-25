@@ -485,6 +485,10 @@ var View = (function() {
 							          Rs.push(newR);
 						        }
 					      }
+
+					      console.log("Xs as" + Xs);
+					      console.log("Ys as" + Ys);
+
 					      break;
 			      }
 
