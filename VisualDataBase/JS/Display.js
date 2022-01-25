@@ -29,7 +29,7 @@ var View = (function() {
 
 		    this.modeDict = { "sort"     : "Nothing",
                           "color"    : "Nothing",
-                          "position" : "level",
+                          "position" : "Nothing",
                           "category" : "Nothing"};
 
 		    this.sortKeys =[];
@@ -48,9 +48,9 @@ var View = (function() {
 
         this.comparator = vdb.cmpDict["NAME"];
         this.nodes = [];
-		    this.onIds = [];
-		    this.onCats = {};
-		    this.dispCats = [];
+	    this.onIds = [];
+	    this.onCats = {};
+	    this.dispCats = [];
 
         this.searchTimeout = undefined;
         this.displayTimeout = undefined;
@@ -169,36 +169,10 @@ var View = (function() {
 	  Display.prototype.buildCats  = function () {
 		    this.onCats = {};
 		    for(var len = this.onIds.length, i = 0; i < len; i++)
-			      this.inCat(this.onIds[i]);
+			    this.inCat(this.onIds[i]);
 		    this.dispCats = displayArray(this);
 	  }
 
-	  function emptyCat(title) {
-		    var obj = {}
-		    obj['title'] = title;
-		    obj['hits'] = [];
-		    return obj;
-	  }
-	  Display.prototype.inCat = function(id) {
-		    var cat;
-		    var node = this.nodes[id];
-		    var catKey = this.modeDict.category;
-		    var onCats = this.onCats;
-		    if(catKey == "Nothing")
-			      cat = "NO_CAT";
-		    else 
-			      cat = node[catKey]; 
-		    if(onCats[cat] === undefined)
-			      onCats[cat] = emptyCat(cat);
-		    onCats[cat].hits.inSort(id, this.comparator);
-	  }
-	  Display.prototype.putCats  = function () {
-		    dispCatsFromScratch(this);
-	  }
-
-	  function catSizeCmp(catA, catB) {
-		    return catB.hits.length - catA.hits.length;
-	  }
 	  function displayArray(display) {
 		    var cats = display.onCats;
 		    var MAX_CATS = 3;
@@ -220,6 +194,31 @@ var View = (function() {
 
 		    return newArr;
 	  }
+
+	  Display.prototype.inCat = function(id) {
+		    var cat;
+		    var node = this.nodes[id];
+		    var catKey = this.modeDict["category"];
+		    var onCats = this.onCats;
+		    if(catKey == "Nothing")
+			      cat = "NO_CAT";
+		    else 
+			      cat = node[catKey]; 
+		    if(onCats[cat] === undefined)
+			    onCats[cat] = {
+			    	'title': cat,
+			    	'hits': [],
+			    };
+		    onCats[cat].hits.inSort(id, this.comparator);
+	  }
+	  Display.prototype.putCats  = function () {
+		    dispCatsFromScratch(this);
+	  }
+
+	  function catSizeCmp(catA, catB) {
+		    return catB.hits.length - catA.hits.length;
+	  }
+
 
     Display.prototype.reCat  = function() {
     }
@@ -511,7 +510,7 @@ var View = (function() {
 		    var dispCats = display.dispCats;
 		    var numCats = dispCats.length;
 		    var catSpacer = display.wid / numCats;
-        console.log(dispCats);
+        	console.log(dispCats);
 		    for(var i = 0; i < numCats; i++) {
 			      var cat = dispCats[i];
 			      var offSet = catSpacer * i;
@@ -541,7 +540,7 @@ var View = (function() {
 					          .attr("y", (catTop + catHei -  7.5)+ "%")
 					          .attr("width", catWid + "%")
 					          .attr("height", 10 + "%");
-                console.log($("#catText_" + cat.title));
+                		console.log($("#catText_" + cat.title));
 				        $("#catText_"+cat.title.replace(" ", "")).append(
 					          "<div class='' style='color:black'>" + 
 					              cat.title + 
