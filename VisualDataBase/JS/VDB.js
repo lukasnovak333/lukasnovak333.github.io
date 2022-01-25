@@ -57,6 +57,7 @@ var vdb = (function() {
 	      
 		    /* Obligatory fields of JSON object - entries, searchSpace, keyInfo */
 		    this.entries       = data.entries;
+		    console.log(this.entries);
 		    this.searchSpace   = data.searchSpace;
 		    this.keyInfo       = data.keyInfo;
 

@@ -15,7 +15,7 @@ var View = (function() {
 		    this.vdb = vdb;
 		    this.idStr = "vdb" + vdb.id + "_display" + this.id;
 
-        this.parent = d3.select(DOM_String);
+        	this.parent = d3.select(DOM_String);
 
 		    this.on = false;
 
@@ -29,12 +29,13 @@ var View = (function() {
 
 		    this.modeDict = { "sort"     : "Nothing",
                           "color"    : "Nothing",
-                          "position" : "Nothing",
+                          "position" : "level",
                           "category" : "Nothing"};
 
 		    this.sortKeys =[];
 		    this.catKeys = [];
 		    this.colorKeys = [];
+
         for(var header in vdb.keyInfo) {
 			      var key = vdb.keyInfo[header];
 			      if(key['sortable']) 
@@ -61,7 +62,7 @@ var View = (function() {
     Display.prototype.query     = function(key) {
         var display = this;
         clearTimeout(display.displayTimeout);
-		    clearTimeout(display.searchTimeout);
+		clearTimeout(display.searchTimeout);
 
         display.searchTimeout = setTimeout(function() {
             display.busyQuerying = false;
