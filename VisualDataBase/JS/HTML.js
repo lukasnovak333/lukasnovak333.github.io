@@ -11,7 +11,7 @@
 
 var HTML = (function() {
 
-    function showLoadingScreen(id, filepath="Data/Pictures/principedia.png") {
+    function showLoadingScreen(id, filepath="./VisualDataBase/Data/Pictures/principedia.png") {
 		    var svg = d3.select("body").append("svg")
 					  .attr("xmlns", "http://www.w3.org/2000/svg")
 					  .attr("id", "loadingSvg" + id)
@@ -329,7 +329,7 @@ var HTML = (function() {
 			      .style("position", "absolute")
 			      .style("height", "100%");
 		    node.principediaLink.append("xhtml:img")
-			      .attr("src", "./Data/Pictures/principedia.png")
+			      .attr("src", "./VisualDataBase/Data/Pictures/principedia.png")
 			      .attr("class", "panelLinkPic " + display.idStr);
 
 		    node.panel.on('mouseenter', function(d) {
