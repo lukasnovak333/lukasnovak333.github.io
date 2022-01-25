@@ -65,6 +65,8 @@
              testvdb = VDB;
              testdisplay = VDB.newDisplay("body");
              testdisplay.start();
+             window.testvdb = testvdb;
+             window.testdisplay = testdisplay;
          });
          return false;
      });
