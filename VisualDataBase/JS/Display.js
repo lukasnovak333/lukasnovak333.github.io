@@ -185,7 +185,10 @@ var View = (function() {
 			      return catArr;
 
 		    var newArr = catArr.slice(0, MAX_CATS);
-		    newArr.push(emptyCat("Misc"));
+		    newArr.push({
+			    	'title': 'Misc',
+			    	'hits': [],
+			    });
 
 		    for(var i = MAX_CATS; i < catArr.length; i++) {
 			      for(var j = 0; j < catArr[i].hits.length; j++)
