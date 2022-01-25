@@ -261,7 +261,8 @@ var View = (function() {
         var min = parseFloat(vdb.keyInfo[key]['min']);
         var max = parseFloat(vdb.keyInfo[key]['max']);
         var range = max - min;
-        var colorInt = Math.floor(5 * value / range);
+        var colorVal = Math.abs(value - min);
+        var colorInt = Math.floor(5 * colorVal / range);
         console.log("checking value " + value + "for key " + key);
         console.log("min is " + min + "and max is " + max);
         console.log("colorInt is " + colorInt);
