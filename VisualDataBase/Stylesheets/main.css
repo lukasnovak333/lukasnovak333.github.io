@@ -139,7 +139,7 @@
 }
 
 .sidenav {
-    background-color: #cdb39f /* LIGHT TAUPE */
+    background-color: #cdb39f; /* LIGHT TAUPE */
 	  /* background-image:url(../Data/Pictures/taupe.jpg); */
 	  height:100%;
 	  left:-25%;
